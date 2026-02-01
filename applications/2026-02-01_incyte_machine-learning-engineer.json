@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "target_company": "Incyte",
+    "target_role": "Machine Learning Engineer",
+    "date_applied": "2026-02-01",
+    "status": "draft",
+    "notes": "Pharma AI/ML IC role. Strong fit: LLM-based production model (OpenAI), pharma domain, Python, scikit-learn, cross-functional collaboration. Gaps: limited AWS infrastructure experience (storage, not compute/SageMaker), deployment was handed to engineering. Bridging: emphasize model design and validation ownership, TensorFlow/PyTorch consulting history, pharma domain depth."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Machine Learning Engineer",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Machine learning engineer and data scientist with 10+ years of experience designing, developing, and validating AI/ML models in the pharmaceutical industry. Hands-on experience building LLM-based production systems using OpenAI APIs, predictive modeling with scikit-learn, and deep learning frameworks including TensorFlow and PyTorch. Strong background in applying ML to unstructured and structured data problems in pharma, collaborating closely with engineering teams to bring models from prototype to production, and ensuring rigorous validation and performance monitoring.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Designed and developed an LLM-based classification model using the OpenAI API that reads unstructured text from FDA Form 483 documents and assigns severity levels (low, medium, high, critical) and weighted topic categories (e.g., Quality Unit, Documentation) - deployed into production across the entire Redica data platform",
+        "Owned model design, prompt engineering, and validation methodology end-to-end, including confusion matrix analysis and accuracy benchmarking in collaboration with the data engineering team to ensure production implementation matched prototype performance",
+        "Built end-to-end risk-scoring models using Python and scikit-learn, designing pipelines from raw data ingestion through feature engineering, model development, and operationalization",
+        "Designed a reference data architecture to harmonize data from multiple pharmaceutical clients and external sources, resolving complex data quality and integration challenges"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered machine learning engagements across multiple industries using a range of frameworks including scikit-learn, TensorFlow, and PyTorch, selecting approaches based on problem type and scale",
+        "Built and deployed a production classification model for a SaaS platform using Databricks - the model runs nightly with ongoing monitoring and iteration, demonstrating experience with the full ML production lifecycle",
+        "Designed and built a RAG pipeline in Python using HuggingFace and PyTorch for a tax-tech startup - ingested a large corpus of IRS and state tax forms from public sources and built the full document retrieval and generation system to advise businesses on tax filing requirements",
+        "Partnered with client engineering teams to translate ML solutions into production systems, collaborating on integration, validation, and performance requirements"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led development of analytics and modeling capabilities within a regulated pharmaceutical environment, ensuring data pipelines and model outputs met rigorous quality and compliance standards",
+        "Built centralized data infrastructure supporting multiple downstream analytics and ML use cases, designing data models and ingestion pipelines for accessibility and reuse",
+        "Established data governance frameworks including quality validation standards and metric definitions to ensure trust and reproducibility in analytical outputs"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Implemented predictive modeling programs using machine learning for manufacturing and quality decision-making, working cross-functionally with engineering on system integration and deployment",
+        "Partnered with IT teams on analytics platform architecture and tooling decisions, ensuring ML capabilities were scalable and accessible to operational stakeholders",
+        "Built real-time monitoring dashboards fed by predictive models, enabling continuous performance tracking and iterative improvement"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed and deployed predictive models for biopharmaceutical manufacturing using ensemble methods, PLS, and PCA - iterating on model performance and expanding scope based on business impact over a five-year period",
+        "Built automated data pipelines to ingest, clean, and transform process data from multiple systems into formats optimized for model training and inference",
+        "Collaborated with cross-functional stakeholders to identify opportunities for ML integration and translate operational questions into modeling problems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & Machine Learning",
+      "items": [
+        "LLM Development (OpenAI API)",
+        "RAG Pipelines",
+        "Prompt Engineering",
+        "Scikit-Learn",
+        "TensorFlow",
+        "PyTorch",
+        "HuggingFace",
+        "Ensemble Methods",
+        "Classification & NLP"
+      ]
+    },
+    {
+      "category": "Programming & Platforms",
+      "items": [
+        "Python",
+        "SQL",
+        "Snowflake",
+        "Databricks",
+        "AWS",
+        "Pandas",
+        "Data Pipelines"
+      ]
+    },
+    {
+      "category": "Model Validation & Operations",
+      "items": [
+        "Model Validation & Benchmarking",
+        "Confusion Matrix Analysis",
+        "Production Model Deployment",
+        "Performance Monitoring",
+        "Cross-Functional Engineering Collaboration"
+      ]
+    },
+    {
+      "category": "Domain & Governance",
+      "items": [
+        "Pharmaceutical Industry",
+        "FDA Regulatory Data",
+        "Data Governance",
+        "Compliance & Regulated Environments",
+        "Unstructured Text Analysis"
+      ]
+    }
+  ],
+  "presentations": [],
+  "publications": [],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Machine Learning Engineer role within Incyte's AI Innovations Institute. The opportunity to design and deploy LLM-based AI agents in a pharmaceutical setting - applying the latest in generative AI to real operational challenges across research, clinical operations, and commercial functions - is work I have been doing hands-on and am eager to continue at a larger scale.",
+    "body": [
+      "My most directly relevant experience is the LLM-based classification system I built at Redica Systems. I designed and developed a production model that uses the OpenAI API to read unstructured FDA Form 483 documents, assign severity levels, and apply weighted topic classifications - then worked closely with the data engineering team to validate the model's performance through confusion matrix analysis and accuracy benchmarking before it was deployed across the platform. That project required the full range of skills this role asks for: understanding how to prompt and structure LLM-based pipelines, designing classification architectures for unstructured text, and collaborating with engineering to ensure the model performed reliably in production. Beyond LLM work, I have built predictive models using scikit-learn, TensorFlow, and PyTorch across multiple industries, and I have spent over a decade applying ML to problems in the pharmaceutical space specifically. More recently, I built a RAG pipeline from scratch for a tax-tech startup using HuggingFace and PyTorch - ingesting a large corpus of government documents and building the retrieval and generation system end-to-end - which gave me hands-on experience with the document-grounded AI architecture that is increasingly central to enterprise AI agent development.",
+      "I am drawn to Incyte's AI Innovations Institute because it represents exactly the kind of environment where applied ML can have outsized impact. Pharmaceutical companies generate enormous amounts of data - clinical, regulatory, commercial - and the gap between that data and actionable intelligence is where the most interesting ML problems live. I have spent my career working in that gap, and I am excited by the opportunity to tackle it at a company as focused on innovation as Incyte. I would welcome the chance to discuss how my experience in LLM development, RAG systems, pharmaceutical domain expertise, and applied ML can contribute to the Institute's work."
+    ],
+    "closing": "Thank you for your time and consideration. I look forward to the possibility of discussing this role further."
+  }
+}

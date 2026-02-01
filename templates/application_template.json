@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "target_company": "",
+    "target_role": "",
+    "date_applied": "",
+    "status": "draft",
+    "notes": ""
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": []
+    },
+    {
+      "company": "Matt Oremland, LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": []
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": []
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": []
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": []
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "Sigma", "AWS"]
+    },
+    {
+      "category": "Machine Learning & Modeling",
+      "items": ["Random Forest", "Ensemble Models", "PLS", "PCA", "Agent-Based Modeling", "Mechanistic Modeling", "Symbolic Regression"]
+    },
+    {
+      "category": "Analytics & Visualization",
+      "items": ["Spotfire", "Scikit-Learn", "Pandas", "Data Visualization", "Dashboard Development"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management", "Data Governance", "Data Strategy", "Stakeholder Engagement", "Vendor Management"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "Process Sciences Consortium, Regeneron Pharmaceuticals",
+      "year": "2020",
+      "type": "solo",
+      "description": "Automated Calculation of Production Bioreactor Primary Feed Quantities"
+    },
+    {
+      "event": "Process Sciences Consortium, Regeneron Pharmaceuticals",
+      "year": "2019",
+      "type": "solo",
+      "description": "Aperture Predictive Modeling Program"
+    },
+    {
+      "event": "Process Sciences Consortium, Regeneron Pharmaceuticals",
+      "year": "2018",
+      "type": "solo",
+      "description": "Automated Limit Calculations"
+    },
+    {
+      "event": "Science Lecture Series, Ohio Wesleyan University",
+      "year": "2016",
+      "type": "solo",
+      "description": "A computational model of invasive aspergillosis in the lung"
+    },
+    {
+      "event": "Int'l Symposium on Biomathematics and Ecology Education Research",
+      "year": "2015",
+      "type": "solo",
+      "description": "Determining the effect of mobility in a multi-scale agent-based model of foot and mouth disease"
+    },
+    {
+      "event": "Algebraic and Combinatorial Approaches in Systems Biology",
+      "year": "2015",
+      "type": "solo",
+      "description": "Combinatorial optimization methods for agent-based models"
+    },
+    {
+      "event": "Undergraduate Seminar in Mathematical Biology Research, Ohio State University",
+      "year": "2015",
+      "type": "solo",
+      "description": "Genetic algorithms: mathematics inspired by biology"
+    },
+    {
+      "event": "GlaxoSmithKline Systems Pharmacology Virtual Meeting",
+      "year": "2015",
+      "type": "solo",
+      "description": "Mathematical algorithms and methods for agent-based model analysis"
+    },
+    {
+      "event": "PDA Korea",
+      "year": "2025",
+      "type": "authored",
+      "description": "Regulatory trends in Asia and Korea"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "Optimal control of sugarscape agent-based model via a PDE approximation model",
+      "journal": "Optimal Control Applications and Methods",
+      "year": "2016"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimal harvesting of a predator-prey agent-based model using difference equations",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2015"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    },
+    {
+      "title": "Using difference equations to find optimal tax structures on the SugarScape",
+      "journal": "Journal of Economic Interaction and Coordination",
+      "year": "2014"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "",
+    "body": [],
+    "closing": ""
+  }
+}

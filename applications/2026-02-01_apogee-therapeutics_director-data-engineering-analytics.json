@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "target_company": "Apogee Therapeutics",
+    "target_role": "Director, Data Engineering & Analytics",
+    "date_applied": "2026-02-01",
+    "status": "draft",
+    "notes": "Clinical-stage biotech, hands-on IC role with eventual team leadership. Strong fit: pharma, Snowflake, Databricks, Python, SQL, data governance, cross-functional work. No hard requirement gaps identified."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director, Data Engineering & Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Hands-on data engineering and analytics leader with 10+ years of experience in the pharmaceutical and life sciences industry, specializing in building data platforms, pipelines, and governance frameworks from the ground up. Proven ability to own the full stack from raw data ingestion through transformation, modeling, and analytics delivery while partnering closely with clinical, operational, and technical stakeholders to translate complex business questions into implementable data solutions. Deep experience with Snowflake, Databricks, Python, and SQL combined with a track record of establishing data architecture, quality standards, and cross-functional analytics capabilities in regulated environments.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Own data strategy and analytics delivery for a life science platform serving pharmaceutical clients including Eli Lilly and Merck, designing end-to-end solutions from data ingestion through client-facing insights",
+        "Built risk-scoring models from scratch, designing the full pipeline from raw data ingestion and quality remediation through model development, validation, and operationalization using Python and Snowflake",
+        "Designed a reference data architecture to harmonize data from multiple clients and external sources into a unified internal framework, resolving complex data quality challenges including cross-source field matching, inference of missing values, and custom join logic",
+        "Developed a Python library for standardized analytics output, ensuring consistency and reproducibility across deliverables while reducing manual effort in data preparation and visualization"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end data and modeling engagements across multiple industries, owning full project lifecycle from requirements definition and data pipeline design through model deployment and production maintenance",
+        "Built a production classification model and associated data pipeline for a SaaS platform using Databricks, running nightly with ongoing model iteration and maintenance",
+        "Designed and built a RAG pipeline in Python using HuggingFace and PyTorch for a tax-tech startup - ingested a large corpus of IRS and state government forms from public sources and built the document retrieval and generation system end-to-end",
+        "Partnered directly with client engineering teams and VP-level stakeholders to define data requirements, resolve integration challenges, and translate analytical outputs into business recommendations"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led development of a centralized data lake as the single source of truth for analytics and reporting, designing data models and ingestion pipelines to support self-service analytics across the organization",
+        "Established data governance frameworks including formal data requirements, metric definitions, and quality standards to ensure consistency and transparency across clinical and operational data",
+        "Built custom dashboards and reports from scratch in Spotfire, translating complex analytical findings into actionable visualizations for cross-functional and senior leadership audiences",
+        "Managed vendor relationships for data and analytics tooling, driving selection, configuration, and integration decisions aligned with business and compliance requirements"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science initiatives across manufacturing and quality, designing predictive models and data pipelines that fed real-time operational dashboards",
+        "Wrote formal data requirements and partnered with IT and engineering teams to implement analytics tooling, serving as system administrator for Spotfire across the organization",
+        "Led semi-annual Annual Product Quality Review meetings, presenting data-driven assessments to executive leadership and serving as the primary bridge between data teams and business stakeholders",
+        "Implemented change management and training programs to drive adoption of new analytics capabilities across operational teams"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built and maintained automated data pipelines to ingest, clean, and transform process data from multiple manufacturing systems into analysis-ready formats, supporting both real-time monitoring and batch analytics",
+        "Developed and deployed predictive models for manufacturing operations including automated limit calculations, feed quantity optimization, and product quality prediction using ensemble methods, PLS, and PCA",
+        "Designed data workflows and analytical frameworks that served as the foundation for cross-functional decision-making, presenting results and recommendations to senior leadership",
+        "Promoted from Data Scientist to Senior Data Scientist based on expanded technical ownership and contributions to data infrastructure and modeling capabilities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Engineering & Platforms",
+      "items": ["Snowflake", "Databricks", "AWS", "Data Pipelines (ETL/ELT)", "Data Lakehouse Architecture", "Data Modeling"]
+    },
+    {
+      "category": "Programming & Analytics",
+      "items": ["Python", "SQL", "Scikit-Learn", "HuggingFace", "PyTorch", "Pandas", "Predictive Modeling", "Machine Learning"]
+    },
+    {
+      "category": "Governance & Architecture",
+      "items": ["Data Governance", "Data Quality Management", "Metric Definition & Validation", "Reference Data Architecture", "Regulatory Compliance"]
+    },
+    {
+      "category": "Leadership & Collaboration",
+      "items": ["Cross-Functional Partnership", "Stakeholder Management", "Change Management", "Dashboard Development", "Technical Roadmapping"]
+    }
+  ],
+  "presentations": [],
+  "publications": [],
+  "cover_letter": {
+    "opening": "I am excited to apply for the Director, Data Engineering & Analytics role at Apogee Therapeutics. The opportunity to build a Data Lakehouse from the ground up at a fast-moving clinical-stage biotech - owning the architecture, pipelines, governance, and analytics end-to-end while partnering closely with clinical and operational teams - is precisely the kind of hands-on, high-impact work I have built my career around.",
+    "body": [
+      "My background maps directly to what this role requires. I have spent over a decade in the pharmaceutical and life sciences industry, repeatedly taking ownership of data infrastructure and analytics capabilities from greenfield or near-greenfield starting points. At Gilead Sciences, I built the organization's centralized data lake, established data governance and metric-definition frameworks, and designed the ingestion and transformation pipelines that supported analytics across Medical Affairs. At Takeda, I led the digital and data science function, partnering with IT and engineering on tooling implementation and serving as the system administrator for the organization's primary analytics platform. At Redica Systems, I designed a reference data architecture to harmonize data from multiple pharmaceutical clients and external sources, solving complex integration and quality challenges hands-on while defining the broader data strategy.",
+      "I am comfortable operating as a hands-on individual contributor who also thinks strategically about platform architecture and organizational capability. At each of my roles, I have personally written the pipelines, built the models, and designed the data models - not just directed others to do so. I have also consistently served as the bridge between technical teams and business stakeholders, translating clinical and operational questions into data solutions and communicating results in terms that drive decisions. The phased, IC-first structure of this role at Apogee - with eventual team growth - is a model I have thrived in before, and I am eager to bring that approach to a company moving as quickly as Apogee is.",
+      "Apogee's focus on building a culture where people can shape the organization, take on broad responsibility, and grow professionally resonates strongly with how I like to work. I would welcome the opportunity to discuss how my experience in pharma data engineering, platform architecture, and cross-functional analytics leadership can contribute to building Apogee's data foundation."
+    ],
+    "closing": "Thank you for your time and consideration. I look forward to the possibility of discussing this role and Apogee's data platform vision in more detail."
+  }
+}

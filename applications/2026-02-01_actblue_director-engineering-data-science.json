@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "target_company": "ActBlue",
+    "target_role": "Director of Engineering, Data Science & Engineering",
+    "date_applied": "2026-02-01",
+    "status": "draft",
+    "notes": "Nonprofit political tech. Gaps: no 20+ person org leadership, no full production ML/AI systems at scale, no political/electoral background. Bridging: emphasize production model deployment (Paradigm), data lake and governance builds, cross-functional leadership, and mission-driven culture fit."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Engineering, Data Science & Engineering",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science and engineering leader with 10+ years of experience building analytics organizations, data infrastructure, and production modeling systems from the ground up. Proven track record of designing and deploying end-to-end data pipelines, establishing governance frameworks, and leading cross-functional teams to deliver data-driven capabilities that directly impact business outcomes. Experienced in partnering with senior leadership to define data strategy, foster data-centric cultures, and translate complex analytical work into products and insights that power organizational decision-making.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead data strategy and analytics delivery for a life science platform, partnering across product, engineering, and commercial teams to define priorities and ensure data capabilities directly support business outcomes",
+        "Designed and built end-to-end data pipelines and risk-scoring models from scratch using Python and Snowflake - from raw data ingestion and quality remediation through transformation, modeling, and operationalization into production systems",
+        "Designed a reference data architecture to consolidate and harmonize data from multiple external sources into a unified internal framework, establishing governance standards for consistency, quality, and accessibility across the organization",
+        "Built reusable Python tooling to standardize analytics workflows, reducing manual effort and enabling scalable, consistent data products across the organization"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built and deployed a production classification model for a SaaS platform using Databricks - the model runs nightly, with ongoing feature engineering, performance monitoring, and retraining, demonstrating hands-on ownership of the full ML production lifecycle",
+        "Designed and built a RAG pipeline in Python using HuggingFace and PyTorch for a tax-tech startup - ingested a large corpus of IRS and state tax forms from public sources and built the retrieval and generation system to advise businesses on filing requirements",
+        "Built a consumer-facing daily puzzle game entirely from scratch as a solo full-stack project: Python for puzzle generation, React/Node.js/Vite/Tailwind for the frontend, Google OAuth for authentication, and Supabase for backend data management - running daily with active users for 2+ months",
+        "Partnered directly with client engineering teams and VP-level stakeholders to translate business needs into data solutions, navigating ambiguous requirements and delivering in fast-moving environments"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data strategy, aligning analytics capabilities with organizational objectives and serving as strategic advisor to senior leadership on data-driven decision-making",
+        "Led the build of a centralized data lake from the ground up - designing data models, ingestion pipelines, and governance frameworks to create a single source of truth that enabled self-service analytics across the organization",
+        "Hired, developed, and led the internal analytics team, setting technical standards and fostering a culture of continuous learning and analytical rigor",
+        "Established data governance frameworks including metric definitions, quality standards, and data ownership models - the operational foundation for scaling data capabilities responsibly",
+        "Managed vendor relationships and drove tooling decisions aligned with platform scalability and long-term organizational needs"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led the digital and data science group and statistical monitoring function, driving analytics adoption across manufacturing, quality, and operations - partnering with engineering on infrastructure and tooling decisions",
+        "Implemented predictive modeling programs using machine learning to inform operational decisions, selecting modeling approaches based on business need and data maturity",
+        "Led executive-level reporting sessions, translating complex analytical findings into clear business context and actionable recommendations for senior leadership",
+        "Built training and enablement programs to uplevel data literacy and drive self-service analytics adoption across the organization"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built and maintained automated data pipelines to ingest, transform, and serve data from multiple systems at scale, supporting both real-time operational monitoring and batch predictive analytics",
+        "Developed and deployed predictive models using ensemble methods, PLS, and PCA - iterating on model performance and expanding scope over time based on business impact",
+        "Mentored junior analysts, set technical standards for data workflows, and contributed to a team culture of analytical rigor and continuous improvement",
+        "Promoted from Data Scientist to Senior Data Scientist based on expanded technical leadership and contributions to data infrastructure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Science & ML",
+      "items": ["Predictive Modeling", "Production ML Systems", "RAG Pipelines", "Feature Engineering", "Model Deployment & Monitoring", "Machine Learning", "Statistical Analysis"]
+    },
+    {
+      "category": "Data Engineering & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "AWS", "HuggingFace", "PyTorch", "ETL/ELT Pipelines", "Data Lakehouse Architecture"]
+    },
+    {
+      "category": "Full-Stack & Web",
+      "items": ["React", "Node.js", "Vite", "Tailwind CSS", "Google OAuth", "Supabase"]
+    },
+    {
+      "category": "Governance & Strategy",
+      "items": ["Data Governance", "Data Quality & Validation", "Data Strategy", "Unified Data Modeling", "Compliance", "KPI Definition"]
+    },
+    {
+      "category": "Leadership & Organization",
+      "items": ["Team Leadership & Mentoring", "Cross-Functional Partnership", "Data Culture & Enablement", "Stakeholder Management", "Technical Standards"]
+    }
+  ],
+  "presentations": [],
+  "publications": [],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Director of Engineering role leading ActBlue's Data Science & Engineering department. The opportunity to build and scale the data infrastructure, teams, and culture that power a mission-driven organization - translating data into a strategic advantage at a moment when grassroots civic engagement has never mattered more - is exactly the kind of work I want to be doing.",
+    "body": [
+      "My background is built on doing the core work this role requires: taking data functions from fragmented, ad hoc states and transforming them into trusted, scalable, organization-wide capabilities. At Gilead Sciences, I built a centralized data lake from scratch, established the governance and ownership frameworks that made data trustworthy across the organization, and hired and developed the analytics team. At Redica Systems, I designed a unified data architecture to harmonize data from multiple external sources and built production risk-scoring models end-to-end. Through my consulting practice, I have deployed production ML models with ongoing feature engineering, monitoring, and retraining - the full lifecycle that ActBlue's ML infrastructure needs to support. Across all of these roles, I have partnered closely with engineering on infrastructure decisions, driven data adoption with non-technical stakeholders, and ensured that data capabilities directly served business outcomes rather than existing in isolation.",
+      "I am drawn to ActBlue's mission and the operational intensity it demands. The deadline-driven nature of political fundraising - where data systems need to be reliable, responsive, and scalable precisely when stakes are highest - mirrors the kind of high-pressure, high-impact environments I have thrived in. I understand what it means to build systems that others depend on, and I understand what it means to lead teams through moments where the work genuinely matters. I would welcome the opportunity to discuss how my experience in data engineering leadership, production ML systems, and enterprise data transformation can contribute to ActBlue's next phase of growth."
+    ],
+    "closing": "Thank you for your time and consideration. I look forward to the possibility of continuing this conversation."
+  }
+}

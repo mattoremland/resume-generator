@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "target_company": "Symetra",
+    "target_role": "Assistant Vice President, Data Analytics",
+    "date_applied": "2026-02-01",
+    "status": "draft",
+    "notes": "Life insurance company, AVP-level. Strong fit on analytics leadership, governance, predictive modeling, cross-functional partnership, team development. Gap: no insurance domain experience. Framing: regulated industry analytics leader transferring risk modeling and enterprise data transformation skills from pharma."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Assistant Vice President, Data Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Senior analytics leader with 10+ years of experience driving enterprise data transformation in regulated industries, combining strategic vision with hands-on technical depth. Proven track record of building and scaling analytics teams, establishing data governance frameworks, and delivering predictive modeling and risk-scoring capabilities that directly inform business decisions. Experienced in partnering with cross-functional leadership to translate complex data into actionable insights, and in leading the transition from ad hoc reporting to scalable, self-service analytics environments across large organizations.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead analytics strategy for a life science platform, partnering with product, commercial, and client-facing teams to define data requirements and deliver insights that drive business decisions across multiple stakeholder groups",
+        "Built end-to-end risk-scoring models from scratch - a workflow directly analogous to underwriting and actuarial risk assessment - designing pipelines from raw data ingestion through quality remediation, modeling, and operationalization using Python and Snowflake",
+        "Designed a reference data architecture to harmonize data from multiple external sources into a unified internal framework, solving complex integration and data quality challenges that mirror the third-party data enrichment and multi-source consolidation common in insurance analytics",
+        "Developed reusable Python tooling to standardize analytics output and reporting, reducing manual effort and enabling consistent, scalable decision-support across the organization"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end analytics and predictive modeling engagements across multiple industries, demonstrating the ability to ramp quickly into new domains and apply consistent analytical frameworks regardless of vertical",
+        "Built a production classification model and data pipeline for a SaaS platform using Databricks, running nightly with ongoing iteration - experience directly applicable to building and maintaining the kind of stable, trusted data environments that enterprise analytics depends on",
+        "Partnered with client VP-level stakeholders and engineering teams to translate business questions into data solutions, balancing technical rigor with speed of delivery in fast-moving environments"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy in a heavily regulated environment, serving as strategic advisor to senior leadership and aligning analytics initiatives with business objectives - a governance and compliance posture directly transferable to insurance operations",
+        "Led development of a centralized data lake as the single source of truth for analytics, designing data models and pipelines to support self-service reporting and reduce reliance on ad hoc analysis",
+        "Hired, developed, and led the internal analytics team, setting standards for reporting quality, documentation, and analytical rigor while fostering a culture of continuous improvement",
+        "Established data governance frameworks including metric definitions, data quality standards, and ownership models - the same foundational capabilities required to ensure responsible data usage and compliance in a regulated financial services environment",
+        "Managed vendor relationships for analytics tooling and third-party data integration, driving selection and configuration decisions aligned with scalability and business needs"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led the digital and data science group and statistical monitoring function, providing cross-functional analytics leadership across manufacturing, quality, and operations - experience in driving analytics adoption across diverse business units with different data needs and priorities",
+        "Implemented predictive modeling programs using machine learning to inform risk-sensitive quality decisions, applying the same statistical judgment and model selection discipline required for actuarial and underwriting analytics",
+        "Led semi-annual executive reporting sessions presenting data-driven assessments to leadership, translating complex analytical findings into clear business context and actionable recommendations",
+        "Designed training and enablement programs to drive analytics adoption across operational teams, building data literacy and self-service capabilities organization-wide"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built and maintained automated data pipelines to ingest, clean, and transform data from multiple systems into analysis-ready formats - foundational data engineering experience applicable to building and sustaining enterprise data environments at scale",
+        "Developed and deployed predictive models using ensemble methods, PLS, and PCA to forecast outcomes and optimize operations, demonstrating depth in selecting the right modeling approach based on business need and data maturity",
+        "Mentored junior analysts and set technical standards for data workflows, contributing to a team culture of analytical rigor and continuous learning",
+        "Promoted from Data Scientist to Senior Data Scientist based on expanded technical leadership and modeling scope"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Analytics & Predictive Modeling",
+      "items": ["Predictive Modeling", "Risk Scoring", "Machine Learning", "Statistical Methods", "Ensemble Models", "Model Selection & Validation"]
+    },
+    {
+      "category": "Data Engineering & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "AWS", "Data Pipelines", "Data Architecture"]
+    },
+    {
+      "category": "Governance & Strategy",
+      "items": ["Data Governance", "Data Quality Management", "KPI & Metric Definition", "Compliance & Regulated Environments", "Third-Party Data Integration"]
+    },
+    {
+      "category": "Leadership & Organization",
+      "items": ["Team Leadership & Mentoring", "Cross-Functional Partnership", "Executive Stakeholder Management", "Data Literacy & Enablement", "BI & Self-Service Analytics"]
+    }
+  ],
+  "presentations": [],
+  "publications": [],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Assistant Vice President, Data Analytics role at Symetra. The opportunity to lead an enterprise data transformation - building the analytics strategy, governance, and modeling capabilities that power business decisions across a complex, regulated organization - is exactly the kind of challenge I have been driving throughout my career, and I am excited by the prospect of bringing that experience to the insurance industry.",
+    "body": [
+      "While my background is in pharmaceutical and life sciences rather than insurance, the core challenges are remarkably parallel - and in several cases, my experience maps more directly than it might first appear. Pharmaceutical companies operate in heavily regulated environments where data governance, compliance, and responsible data usage are non-negotiable, not aspirational. Risk scoring and predictive modeling are central to decision-making in pharma manufacturing and quality - the same statistical rigor and model selection discipline that actuarial and underwriting analytics demand. And the enterprise-scale data transformation work I have led - consolidating fragmented data sources, building trusted data lakes, establishing governance frameworks, and driving self-service analytics adoption - is the same type of transformation Symetra is describing. At Gilead, I built a centralized data lake from scratch and established the governance model that governed how data was defined, owned, and used across the organization. At Redica, I built risk-scoring models end-to-end and designed a data architecture to harmonize data from multiple external sources - work that directly mirrors the third-party data enrichment and multi-source consolidation that insurance analytics depends on.",
+      "I am a hands-on leader who stays close to the technical work while setting strategic direction. I have built predictive models myself, designed data pipelines, and written governance frameworks - but I have also led teams, hired and developed analysts, partnered with executive leadership on strategy, and driven analytics adoption across organizations that were not yet data-driven. That combination of depth and breadth is what it takes to drive the kind of transformation Symetra is pursuing, and I am confident my track record demonstrates the ability to deliver it in a new industry context.",
+      "I would welcome the opportunity to discuss how my experience in regulated-industry analytics leadership, risk modeling, and enterprise data transformation can contribute to Symetra's journey toward becoming a data-driven enterprise."
+    ],
+    "closing": "Thank you for your time and consideration. I look forward to the possibility of continuing this conversation."
+  }
+}

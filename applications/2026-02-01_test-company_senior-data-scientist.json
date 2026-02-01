@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "target_company": "Test Company",
+    "target_role": "Senior Data Scientist",
+    "date_applied": "2026-02-01",
+    "status": "draft",
+    "notes": "Test run to verify generator output"
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Data Scientist",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "PhD-level data scientist with over a decade of experience building predictive models, deploying production ML systems, and leading data strategy initiatives across life sciences and technology. Proven track record of translating complex data into actionable business insights — from designing enterprise data architectures to shipping end-to-end machine learning pipelines. Equally comfortable driving technical implementation and partnering with senior stakeholders to shape analytics roadmaps.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Designed and operationalized a reference data architecture to harmonize data from multiple pharmaceutical clients and sources into a unified internal framework",
+        "Built a suite of risk scoring models from scratch leveraging company and client data, implemented end-to-end in Sigma workbooks",
+        "Developed a Python library for generating brand-specific custom data visualizations used in industry conference presentations and client webinars",
+        "Onboarded multiple data sources into Snowflake and packaged analytics dashboards for customer delivery",
+        "Performed extensive data cleanup and quality work — matching fields across messy Excel files, inferring missing values, and engineering custom join columns"
+      ]
+    },
+    {
+      "company": "Matt Oremland, LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2024",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Designed and built a production ML model (random forest) for quote fingerprinting at Paradigm, a building supply software company — groups customer quotes into projects using custom text similarity and numerical features",
+        "Engineered custom NLP preprocessing to handle domain-specific text patterns in user-entered address and quote data",
+        "Deployed the model to production where it runs nightly; maintained and iterated on the model post-launch including a full table rebuild",
+        "Worked directly with client stakeholders including VP of Product and data engineering teams throughout the build and deployment"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy for Medical Affairs, serving as strategic advisor to senior leadership",
+        "Led development of a centralized data lake as the single source of truth for analytics and reporting across the organization",
+        "Built custom dashboards and reports from scratch in Spotfire and managed the internal Spotfire team",
+        "Established data governance frameworks and wrote formal data requirements to improve data quality and transparency",
+        "Managed vendors and internal teams to deliver scalable analytics solutions on time and within budget"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led the digital and data science group as well as the statistical monitoring group",
+        "Implemented predictive modeling programs using machine learning for manufacturing and quality decision-making",
+        "Served as Spotfire system administrator, ensuring platform reliability and enterprise adoption",
+        "Led semi-annual APQR (Annual Product Quality Review) meetings — a regulatory-facing responsibility",
+        "Wrote data requirements and championed digital transformation through development of enterprise dashboards"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built predictive models and applied machine learning to optimize manufacturing processes and improve product quality over a 5-year tenure",
+        "Automated data compilation and pipeline processes to enable real-time decision-making across teams",
+        "Presented analytical findings and risk insights to senior leadership to support production investigations",
+        "Promoted from Data Scientist to Senior Data Scientist based on expanded scope and impact"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Developed agent-based models of biological systems including fungal lung infection, virus transmission in cattle, and cellular dynamics",
+        "Solved multi-objective optimization problems using genetic and evolutionary algorithms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Research focus: mathematical modeling and multi-objective optimization"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "Sigma", "AWS"]
+    },
+    {
+      "category": "Machine Learning & Modeling",
+      "items": ["Random Forest", "Ensemble Models", "PLS", "PCA", "Agent-Based Modeling", "Mechanistic Modeling", "Symbolic Regression"]
+    },
+    {
+      "category": "Analytics & Visualization",
+      "items": ["Spotfire", "Scikit-Learn", "Pandas", "Dashboard Development", "Data Visualization"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management (3-7)", "Data Governance", "Data Strategy", "Stakeholder Engagement", "Vendor Management"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Annual Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "Panel discussion on AI in manufacturing life-cycle"
+    },
+    {
+      "event": "ISPE National Conference",
+      "year": "2025",
+      "type": "co-presented",
+      "description": "Regulatory and Inspection Trends at 503b Facilities"
+    },
+    {
+      "event": "PDA Korea",
+      "year": "2025",
+      "type": "authored",
+      "description": "Regulatory trends in Asia and Korea"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Data Scientist position at Test Company. With a PhD in Mathematics and over a decade of hands-on experience building and deploying predictive models across life sciences and technology, I am excited by the opportunity to contribute to your team.",
+    "body": [
+      "Throughout my career, I have consistently delivered end-to-end ML solutions — from designing the data architecture and engineering features through to production deployment and ongoing maintenance. At Paradigm, I built a random forest model from scratch that now runs nightly in production, grouping customer quotes into projects using custom text similarity and numerical features. At Redica, I designed a reference data architecture harmonizing data across multiple pharmaceutical clients and built a full suite of risk models implemented in Sigma. These projects required not only strong technical depth but also close collaboration with stakeholders at every level.",
+      "I am particularly drawn to Test Company's mission and the opportunity to work at the intersection of advanced analytics and real business impact. My background spans both the hands-on modeling work and the strategic side — I have led teams, partnered with senior leadership, and presented at industry conferences — and I am equally comfortable in either mode depending on what the role demands."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience aligns with what you are looking for. Thank you for your time and consideration."
+  }
+}

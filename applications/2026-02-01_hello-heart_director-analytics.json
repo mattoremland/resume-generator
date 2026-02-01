@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "target_company": "Hello Heart",
+    "target_role": "Director, Analytics",
+    "date_applied": "2026-02-01",
+    "status": "draft",
+    "notes": "Digital health company, Director-level analytics leadership. Strong fit on leadership, governance, cross-functional work, team management. Gap: no Tableau experience (have Sigma, Spotfire, Sigma). EST zone - matches."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director, Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Analytics leader with 10+ years of progressive experience building and scaling data teams, establishing data governance frameworks, and driving data-driven decision-making across complex organizations. Proven track record of partnering with cross-functional stakeholders to translate data into actionable business insights, combined with hands-on technical depth in Python, SQL, and predictive modeling. Experienced in hiring, mentoring, and developing analyst teams while maintaining accountability for data quality, governance, and strategic alignment with business objectives.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead analytics strategy and delivery for a life science platform serving pharmaceutical clients, partnering directly with product and go-to-market teams to define data requirements and translate analytics outputs into client-facing insights",
+        "Built risk-scoring models from scratch using company and client data, designing the full pipeline from data ingestion and cleaning through model development and operationalization",
+        "Designed a reference data architecture to harmonize data from multiple sources into a unified framework, resolving complex data quality challenges including cross-source matching and inference of missing values",
+        "Developed a Python library for generating standardized analytics visualizations, reducing manual effort and ensuring consistency across client deliverables and conference presentations"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end predictive modeling engagements for clients across multiple industries, managing full project lifecycle from scoping and stakeholder alignment through deployment and iteration",
+        "Built a production random forest classification model for a SaaS platform that runs nightly, maintaining and iterating on the model post-launch",
+        "Worked directly with client stakeholders including VP-level leadership and engineering teams, translating complex model outputs into actionable business recommendations"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy, serving as strategic advisor to senior leadership and aligning analytics initiatives with organizational priorities",
+        "Led development of a centralized data lake as the single source of truth for analytics and reporting, establishing scalable infrastructure for data-driven decision-making",
+        "Managed the internal analytics team responsible for building custom dashboards and reports in Spotfire, overseeing hiring, onboarding, and performance development",
+        "Established data governance frameworks and wrote formal data requirements to ensure data quality, consistency, and transparency across the organization",
+        "Managed vendors and internal teams to deliver analytics solutions on time and within budget"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led the digital and data science group and the statistical monitoring group, providing cross-functional analytics leadership and team mentorship",
+        "Partnered with manufacturing and quality stakeholders to implement predictive modeling programs, translating complex model outputs into actionable quality decisions",
+        "Led semi-annual Annual Product Quality Review meetings, presenting data-driven assessments to cross-functional executive leadership",
+        "Served as Spotfire system administrator and built real-time process and quality monitoring dashboards"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed and deployed predictive models for biopharmaceutical manufacturing including automated limit calculations, feed quantity optimization, and product quality prediction",
+        "Built and maintained automated data pipelines to ingest, clean, and transform process data into analysis-ready formats",
+        "Presented modeling results and strategic recommendations to senior leadership and cross-functional stakeholders",
+        "Promoted from Data Scientist to Senior Data Scientist based on expanded technical leadership and modeling scope"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Leadership & Management",
+      "items": ["Team Leadership", "Hiring & Mentoring", "Cross-Functional Partnership", "Data Governance", "Strategic Planning", "Stakeholder Management"]
+    },
+    {
+      "category": "Analytics & Data Science",
+      "items": ["Predictive Modeling", "Data Pipelines", "Risk Modeling", "Statistical Methods", "A/B Testing Frameworks", "Data Quality Management"]
+    },
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "AWS", "Sigma", "Spotfire"]
+    },
+    {
+      "category": "Visualization & Reporting",
+      "items": ["Dashboard Development", "Data Visualization", "BI Tools", "Automated Reporting", "Client-Facing Presentations"]
+    }
+  ],
+  "presentations": [],
+  "publications": [],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Director, Analytics role at Hello Heart. With over a decade of experience leading analytics teams, establishing data governance frameworks, and driving data-driven decision-making across complex organizations, I am drawn to Hello Heart's mission to democratize preventive heart health and excited by the opportunity to build and scale the analytics function at a company with clear product-market fit and significant growth ahead.",
+    "body": [
+      "My experience maps directly to the core responsibilities of this role. At Gilead Sciences, I served as Director of Data & Analytics, where I defined enterprise analytics strategy, built a centralized data lake, managed the internal analytics team through hiring and performance development, and established data governance frameworks - all while serving as a strategic advisor to senior leadership. At Takeda, I led both the digital and data science group and the statistical monitoring function, partnering closely with manufacturing and quality stakeholders to translate complex analytics into business decisions. Across both roles, I was responsible for ensuring data quality, aligning analytics with organizational priorities, and developing the analysts on my teams.",
+      "I am particularly interested in the cross-functional partnership and analytics guild model this role describes. Throughout my career, I have consistently operated as a bridge between technical teams and business stakeholders - translating data into language that drives decisions, not just reports. At Redica Systems, I work directly with product and go-to-market teams to define what analytics they need and deliver it in a form that is immediately actionable. I have built analytics infrastructure from the ground up multiple times, including data pipelines, governance policies, and visualization tooling, and I am comfortable owning both the strategic vision and the hands-on execution.",
+      "Hello Heart's position at the intersection of digital health, preventive care, and employer-sponsored benefits represents an exciting challenge. I would welcome the opportunity to discuss how my background in analytics leadership and cross-functional execution can contribute to scaling the data-driven culture you are building."
+    ],
+    "closing": "Thank you for your time and consideration. I look forward to the possibility of discussing this role and Hello Heart's analytics vision in more detail."
+  }
+}

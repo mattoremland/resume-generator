@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "target_company": "Super.com",
+    "target_role": "Director of Analytics & Data Science",
+    "date_applied": "2026-02-01",
+    "status": "draft",
+    "notes": "High-growth travel/fintech. Borderline fit - strong on Snowflake, Python, SQL, cross-functional leadership, analytics org design. Gaps: no manager-of-managers experience, no Looker/dbt. Their stack is mature (Snowflake, dbt, Amplitude) so need to emphasize adaptability to modern data stacks."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Analytics & Data Science",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Analytics and data science leader with 10+ years of experience building and scaling data organizations, embedding analytical capabilities into core business workflows, and partnering with executive leadership to drive data-driven decision-making. Strong technical foundation in Python, SQL, Snowflake, and predictive modeling combined with a track record of designing analytics infrastructure, establishing governance standards, and translating ambiguous business problems into reusable, production-grade data solutions. Experienced in leading cross-functional teams, setting technical standards, and scaling analytics capabilities to support organizational growth.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead analytics strategy and delivery for a life science platform, partnering with product and commercial teams to embed data-driven insights into core business and client-facing workflows",
+        "Built risk-scoring models from scratch using Python and Snowflake, designing end-to-end pipelines from raw data ingestion through transformation, modeling, and operationalization",
+        "Designed a reference data architecture to harmonize data from multiple sources into a unified framework, establishing governance standards and resolving complex data quality challenges",
+        "Developed reusable Python tooling to standardize analytics output across the organization, reducing manual effort and enabling consistent, scalable reporting"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end analytics and modeling engagements across multiple industries, owning full project lifecycle from scoping and requirements definition through deployment and production maintenance",
+        "Built a production classification model and data pipeline for a SaaS platform using Databricks, running nightly with ongoing iteration - demonstrating ability to ship and maintain models in fast-moving product environments",
+        "Built a consumer-facing daily puzzle game from scratch as a solo full-stack project - Python for puzzle generation, React/Node.js/Vite/Tailwind for the frontend, Google OAuth for authentication, and Supabase for backend - running daily with active users, demonstrating end-to-end product ownership in a consumer context",
+        "Partnered with client engineering teams and VP-level stakeholders to translate business questions into analytical solutions, balancing technical rigor with speed of delivery"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise analytics strategy, aligning analytics roadmap with business objectives and serving as strategic advisor to senior leadership on data-driven decision-making",
+        "Led development of a centralized data lake, designing data models and ingestion pipelines to support self-service analytics and reusable reporting across the organization",
+        "Hired, developed, and led the internal analytics team, setting standards for dashboard quality, documentation, and analytical rigor",
+        "Established data governance frameworks including metric definitions, data quality standards, and ownership models to ensure consistency and reliability across the organization",
+        "Managed vendor relationships for analytics tooling, driving selection and integration decisions aligned with platform scalability and business needs"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led the digital and data science group and statistical monitoring function, setting technical direction and partnering with engineering on platform architecture and tooling decisions",
+        "Embedded predictive modeling into manufacturing and quality decision-making workflows, ensuring analytical outputs drove operational action rather than just reporting",
+        "Led semi-annual quality review meetings presenting data-driven assessments to executive leadership, demonstrating ability to translate complex analytical findings into business context",
+        "Designed and implemented training and enablement programs to drive adoption of analytics capabilities across operational teams"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built and maintained automated data pipelines to ingest, transform, and serve process data from multiple systems, supporting both real-time monitoring and batch predictive analytics",
+        "Developed and deployed production predictive models using ensemble methods, PLS, and PCA, iterating on model performance and expanding scope over time",
+        "Set technical standards for data workflows and analytical frameworks within the team, mentoring junior analysts and ensuring modeling quality and reproducibility",
+        "Promoted from Data Scientist to Senior Data Scientist based on expanded technical ownership and leadership contributions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": ""
+    }
+  ],
+  "skills": [
+    {
+      "category": "Analytics & Data Science",
+      "items": ["Predictive Modeling", "Machine Learning", "Experimentation Design", "Statistical Methods", "Data Modeling", "Production ML Systems"]
+    },
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "AWS", "Scikit-Learn", "Pandas"]
+    },
+    {
+      "category": "Leadership & Organization Design",
+      "items": ["Team Leadership & Mentoring", "Analytics Org Design", "Technical Standards", "Cross-Functional Partnership", "Executive Stakeholder Management"]
+    },
+    {
+      "category": "Governance & Infrastructure",
+      "items": ["Data Governance", "Data Quality & Validation", "KPI Definition", "Dashboard Development", "Data Architecture", "Vendor Management"]
+    }
+  ],
+  "presentations": [],
+  "publications": [],
+  "cover_letter": {
+    "opening": "I am interested in the Director of Analytics & Data Science role at Super.com. The opportunity to scale an analytics and data science organization within a mission-aligned team model - embedding data-driven capabilities into core business workflows while partnering with product and engineering to build reusable, intelligent systems - is the kind of challenge I have been building toward across my career.",
+    "body": [
+      "My experience centers on exactly what this role asks for: taking analytics from a supporting function to a core business capability. At Gilead Sciences, I defined enterprise analytics strategy, built the data lake infrastructure, established governance and metric-definition standards, and hired and developed the internal analytics team - all while serving as a strategic advisor to senior leadership. At Takeda, I led the digital and data science group, partnered with engineering on platform decisions, and embedded predictive models directly into operational workflows so that analytical outputs drove decisions, not just reports. At Redica Systems, I have designed end-to-end data architecture and built production models using Python and Snowflake while simultaneously defining the analytics strategy for the organization. Across all of these roles, the common thread has been translating ambiguous business problems into scalable data solutions and ensuring those solutions get adopted and used.",
+      "I am drawn to Super.com's technical maturity and the clarity of your operating model. The fact that your team already has established practices around Snowflake, dbt, and experimentation - and is looking for leadership to scale that, not justify it - is exactly the environment where I do my best work. I am comfortable operating at both the strategic and hands-on levels simultaneously, and I bring a strong foundation in the kind of analytical rigor and cross-functional partnership this role requires. I would welcome the opportunity to discuss how my background in analytics leadership and data platform work can contribute to Super.com's next phase of growth."
+    ],
+    "closing": "Thank you for your time and consideration. I look forward to the possibility of discussing this role further."
+  }
+}
