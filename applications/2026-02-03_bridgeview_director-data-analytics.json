@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "target_company": "Bridgeview",
+    "target_role": "Director of Data & Analytics",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "Enterprise data and analytics leadership role building capability from strategy through execution. Requires 10+ years technical/business experience in data/analytics, 5+ years leadership, extensive experience in general business/revenue cycle/organizational operations. Remote eligible. GOOD MATCH with manageable stretches: I meet 10+ years data/analytics, 5 years leadership (actually ~4-5), data strategy/governance, AI strategy, analytics platforms, healthcare domain. Stretch: revenue cycle and organizational operations experience (I have pharma manufacturing operations, not healthcare revenue cycle). This is about building enterprise analytics capability which I've done. Healthcare services (appears to be clinical/behavioral health) vs pharma manufacturing - different but analytics fundamentals transfer. Role is at my director level, not executive."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Data & Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data and analytics leader with 10+ years of experience building enterprise data and analytics capabilities in healthcare and pharmaceutical organizations. Proven expertise developing and executing data strategy, governance models, and AI initiatives that enable insight-driven decision-making across clinical, operational, and business functions. Deep technical knowledge of analytics platforms, data warehouses, reporting solutions, and data governance practices with track record delivering measurable business outcomes. Strong leadership experience building and mentoring high-performing teams, influencing senior stakeholders, and fostering cultures of data-driven decision-making. Recognized thought leader on responsible AI application in healthcare and regulated industries.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Led development and execution of enterprise data, analytics, and AI strategy for pharmaceutical clients (Eli Lilly, Merck) supporting regulatory intelligence, quality operations, and risk management—defined long-term vision incorporating industry best practices and evolving organizational needs",
+        "Established policies and standards for data management, integration, analytics, and reporting across core operational and quality systems and cloud platforms (Snowflake)—ensured alignment with architectural standards, priorities, and delivery timelines",
+        "Identified business requirements and opportunities where data and analytics materially improved decision-making, efficiency, performance, and growth—built risk-scoring models enabling clients to optimize resource allocation and reduce compliance risks",
+        "Oversaw enterprise analytics initiatives delivering accurate, timely, and actionable insights across quality operations, regulatory intelligence, and performance management—served as primary analytics advocate promoting culture of data-driven decision-making",
+        "Developed and executed responsible AI strategy including production LLM classifier—established governance frameworks, validation protocols, and monitoring ensuring AI applications were trustworthy and compliant with healthcare regulatory standards",
+        "Partnered with client IT and business leaders to manage data and analytics roadmap ensuring alignment with enterprise goals, technical standards, and value realization while balancing near-term delivery with long-term capability building"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led development and execution of Bridgeview-scale enterprise data and analytics strategy for Medical Affairs organization supporting clinical engagement, operational planning, and performance management across therapeutic areas",
+        "Defined and maintained long-term vision for data and analytics capabilities building centralized data lake, enterprise analytics platform (Spotfire), and governance frameworks from ground up—incorporated industry best practices and organizational needs",
+        "Established comprehensive data governance model including policies for data quality, security, access controls, stewardship, and HIPAA compliance for healthcare professional (HCP) and organization (HCO) reference data",
+        "Oversaw enterprise analytics initiatives delivering insights across clinical engagement tracking, healthcare provider relationships, operational efficiency, and strategic planning—enabled data-driven decision-making for Medical Affairs leadership",
+        "Provided leadership, coaching, and direction to data and analytics team of ~5 including analysts and dashboard developers—supported education and adoption of analytics tools and insights across organization",
+        "Collaborated with IT, Medical Affairs leadership, Legal, Regulatory, and cross-functional stakeholders to align data capabilities with business priorities and ensure compliance with healthcare regulations and privacy standards",
+        "Developed and managed operating budgets for data and analytics initiatives in alignment with IT and enterprise financial plans—delivered measurable ROI through improved operational efficiency and data quality"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led enterprise analytics and data science capability for manufacturing and quality operations supporting operational planning, performance management, and continuous improvement initiatives",
+        "Defined data strategy and governance model including policies for data integration, quality standards, reporting solutions, and analytics platforms—ensured alignment between data capabilities and business priorities",
+        "Served as analytics platform owner for enterprise Spotfire system establishing standards, governance, training programs, and adoption initiatives—promoted culture of data-driven decision-making across manufacturing organization",
+        "Identified business requirements and opportunities where analytics materially improved operational efficiency, quality performance, and cost reduction—delivered predictive models for risk detection and process optimization",
+        "Provided leadership and direction to data science and statistical monitoring teams—built collaborative, high-performing teams linked to business objectives including quality excellence and operational performance",
+        "Participated in IT planning, governance, and prioritization forums contributing to enterprise standards, metrics, and value realization for analytics and digital capabilities"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered enterprise analytics and AI capabilities for multiple clients including production ML models, analytics platforms, and data governance frameworks—demonstrated ability to identify business needs and develop scalable solutions",
+        "Built production analytics systems on modern cloud platforms (Databricks, Snowflake) with emphasis on governance, quality, and actionable insights driving business outcomes"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed enterprise analytics capabilities supporting manufacturing operations, quality management, and performance optimization—delivered predictive models and reporting solutions enabling data-driven operational decisions",
+        "Established data governance practices including quality standards, validation protocols, and audit trails supporting GxP compliance and regulatory submissions—ensured data integrity and trustworthiness",
+        "Identified opportunities where advanced analytics materially improved operational efficiency including 80% reduction in manual effort through automated limit calculations, improved manufacturing yields, and reduced quality failures",
+        "Collaborated with cross-functional teams including Manufacturing, Quality, Regulatory, and IT to align analytics capabilities with business priorities and regulatory requirements"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data & Analytics Strategy",
+      "items": ["Enterprise Data Strategy", "Analytics Roadmap Development", "Strategic Planning", "Business Requirements Analysis", "Opportunity Identification", "Value Realization"]
+    },
+    {
+      "category": "Data Governance & Management",
+      "items": ["Data Governance Frameworks", "Data Quality Standards", "Data Integration", "Stewardship Models", "Compliance (HIPAA, FDA, GxP)", "Data Security & Privacy", "Policy Development"]
+    },
+    {
+      "category": "AI & Advanced Analytics",
+      "items": ["AI Strategy", "Responsible AI", "Machine Learning", "Predictive Analytics", "LLM/GenAI", "Production ML Systems", "Model Governance", "Applied Analytics"]
+    },
+    {
+      "category": "Analytics Platforms & Technology",
+      "items": ["Spotfire", "Snowflake", "Databricks", "AWS", "Data Warehouses", "Data Marts", "Reporting Solutions", "BI Platforms", "Sigma", "ETL/ELT"]
+    },
+    {
+      "category": "Technical Capabilities",
+      "items": ["Python", "SQL", "Data Modeling", "Data Pipelines", "Cloud Platforms", "Analytics Architecture", "Integration Standards", "Metadata Management"]
+    },
+    {
+      "category": "Leadership & Management",
+      "items": ["Team Leadership", "Talent Development", "Stakeholder Influence", "Cross-Functional Collaboration", "Budget Management", "Change Management", "Performance Management", "Culture Building"]
+    },
+    {
+      "category": "Business & Operations",
+      "items": ["Operational Excellence", "Performance Management", "Business Acumen", "Project Management", "Decision Making Support", "Workforce Analytics", "Financial Planning"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director of Data & Analytics position at Bridgeview. With over 10 years of combined technical and business experience building enterprise data and analytics capabilities in healthcare and pharmaceutical organizations, combined with proven leadership experience and deep expertise in data strategy, governance, analytics platforms, and AI applications, I am excited about the opportunity to lead Bridgeview's enterprise data and analytics capability to enable insight-driven decision-making across clinical, operational, financial, and growth initiatives.",
+    "body": [
+      "Throughout my career at Regeneron Pharmaceuticals, Takeda Pharmaceuticals, Gilead Sciences, and Redica Systems, I have led the development and execution of enterprise data, analytics, and AI strategies supporting organizational goals. At Gilead, I built the enterprise data and analytics capability for Medical Affairs from the ground up—I defined the long-term vision, established comprehensive data governance frameworks including HIPAA compliance for healthcare professional data, built centralized data lake and analytics platform (Spotfire), and delivered insights across clinical engagement, operational planning, and performance management. I provided leadership to a team of analysts and developers, supported education and adoption of analytics tools across the organization, and collaborated with IT, Medical Affairs leadership, Legal, Regulatory, and cross-functional stakeholders to align data capabilities with business priorities. At Redica Systems, I led data, analytics, and AI strategy for pharmaceutical clients establishing policies for data management, integration, and reporting across operational and quality systems on cloud platforms (Snowflake). I identified business requirements where analytics materially improved decision-making and efficiency, built risk-scoring models enabling optimized resource allocation, and served as analytics advocate promoting data-driven culture.",
+      "I have deep technical knowledge of analytics platforms, data warehouses, reporting solutions, and data governance practices. At Takeda, I owned the enterprise Spotfire analytics platform establishing governance, standards, training programs, and adoption initiatives while leading data science and statistical monitoring teams. I participated in IT planning and governance forums contributing to enterprise standards and value realization. At Regeneron, I developed analytics capabilities supporting manufacturing operations and quality management, established data governance practices including quality standards and validation protocols supporting GxP compliance, and delivered predictive models that improved operational efficiency including 80% reduction in manual effort and reduced quality failures. My technical stack includes modern cloud platforms (Snowflake, Databricks, AWS), analytics and BI tools (Spotfire, Sigma), programming languages (Python, SQL), and data engineering capabilities (pipelines, warehouses, integration).",
+      "I have proven expertise in responsible AI application. At Redica, I developed and executed AI strategy including a production LLM classifier—I established governance frameworks, validation protocols, bias testing, monitoring, and audit trails ensuring AI applications were trustworthy and compliant with healthcare regulatory standards. I am a recognized thought leader presenting at industry conferences (CHPA, ISPE) on AI applications in healthcare and regulated industries. While my healthcare experience has been in pharmaceutical manufacturing and medical affairs operations rather than revenue cycle management specifically, I have consistently demonstrated ability to understand complex operational environments, partner with business and clinical leaders, identify analytics opportunities that drive measurable outcomes, and build enterprise data capabilities that enable trusted, actionable insights. The core competencies—defining data strategy, establishing governance, building analytics platforms, delivering insights across clinical and operational functions, leading teams, and driving adoption—are directly transferable to Bridgeview's healthcare services environment. I would be excited to bring this experience to lead Bridgeview's enterprise data and analytics capability and advance the organization's commitment to data-driven excellence in patient care."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience building enterprise data and analytics capabilities in healthcare organizations can contribute to Bridgeview's strategic goals. Thank you for considering my application."
+  }
+}

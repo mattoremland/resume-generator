@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "target_company": "Point",
+    "target_role": "Head of Data",
+    "date_applied": "2026-02-03",
+    "status": "draft",
+    "notes": "Fintech/proptech company - emphasize modern data stack (Snowflake, Sigma), hands-on leadership, business impact. Good fit for technical leader who can scale data function."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Head of Data",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data leader with 12+ years driving analytical rigor, platform modernization, and measurable business impact across high-growth technology and life sciences organizations. Proven track record building and scaling data teams, architecting modern data platforms (Snowflake, Sigma, dbt-adjacent pipelines), and translating ambiguous business problems into clear analytical frameworks. Deep expertise in metrics design, data governance, and hands-on leadership - equally comfortable setting strategic direction and diving into technical implementation to ensure data efforts deliver meaningful outcomes.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead analytics strategy for pharma clients (Eli Lilly, Merck) using modern data stack: Snowflake for data warehousing, Python for modeling, and custom visualization libraries for client-facing analytics",
+        "Architected reference data platform consolidating multi-source regulatory intelligence data - designed data models, established governance frameworks, and implemented quality controls ensuring analytical accuracy across the organization",
+        "Built production machine learning classifier (OpenAI API) for FDA 483 severity scoring - owned end-to-end design, prompt engineering, and validation methodology; model runs in production across entire platform",
+        "Developed risk-scoring models from scratch in Python and Snowflake, translating ambiguous compliance requirements into clear analytical frameworks that directly influence client decision-making",
+        "Designed scalable data architecture to harmonize messy client data sources (inferring missing values, custom join logic, reference data standardization) - created reusable patterns now used across all client implementations"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Paradigm (building supply software): Built production quote fingerprinting model using Random Forest in Databricks - groups quotes into projects using text and numerical features, runs nightly in production, drove measurable business impact on revenue attribution",
+        "Denari (tax tech startup): Designed and implemented RAG system advising businesses on tax filing requirements - ingested IRS and state tax documents, built retrieval pipeline in Python using HuggingFace and PyTorch",
+        "Tidal Wave Games: Built full-stack daily puzzle game (Escalators) from scratch - React/Node.js/Vite/Tailwind frontend, Python puzzle generation, Supabase backend, Google OAuth authentication - demonstrates hands-on technical range across data and engineering"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy as strategic advisor to senior Medical Affairs leadership - established analytical frameworks that directly influenced organizational priorities and resource allocation",
+        "Built centralized data lake as single source of truth for healthcare professional (HCP) and healthcare organization (HCO) reference data - consolidated multiple sources, established data governance policies, and drove adoption across Medical Affairs",
+        "Led team of 5+ analysts and Spotfire developers delivering analytics dashboards tracking HCP/HCO interactions and relationships - set analytical standards, prioritized roadmap, and ensured outputs drove actionable business decisions",
+        "Owned metric definitions and data requirements for Medical Affairs analytics - established company-wide standards ensuring consistency and clarity in decision-making",
+        "Managed vendor relationships and internal teams for data acquisition, cleansing, and standardization - translated business needs into technical requirements and drove execution"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group plus statistical monitoring team - set technical direction, allocated resources, and ensured analytics efforts aligned with highest-priority business problems",
+        "Built predictive models using machine learning (Random Forest, ensemble methods) for manufacturing and quality decisions - drove measurable impact on process optimization and risk mitigation",
+        "Served as Spotfire system administrator - evaluated tooling, managed platform evolution, and established best practices for dashboard development and analytical usability",
+        "Led semi-annual APQR (Annual Product Quality Review) meetings with cross-functional stakeholders - translated complex analytics into executive-ready insights driving strategic manufacturing decisions"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built automated data pipelines for biopharmaceutical manufacturing analytics - designed ingestion, transformation, and modeling workflows enabling scalable, repeatable analytical processes",
+        "Developed production predictive models (PLS, PCA, ensemble methods) for feed quantity optimization and product quality forecasting - models directly influenced manufacturing operations and reduced waste",
+        "Established analytical methodologies for automated limit calculations and process monitoring - created frameworks adopted across multiple manufacturing teams",
+        "Presented analytical findings to senior leadership and cross-functional stakeholders - translated technical work into business-relevant insights driving operational decisions"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Developed agent-based computational models and optimization algorithms for biological systems - published 5 peer-reviewed papers demonstrating ability to translate ambiguous research questions into rigorous analytical approaches",
+        "Applied multi-objective optimization using genetic algorithms to complex systems - built frameworks for hypothesis-driven analysis and model validation"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Platforms & Engineering",
+      "items": ["Snowflake", "Databricks", "Sigma", "AWS", "Supabase", "ETL/ELT Pipelines", "Data Modeling", "Data Governance"]
+    },
+    {
+      "category": "Programming & Analysis",
+      "items": ["Python (Advanced)", "SQL", "Pandas", "Scikit-Learn", "HuggingFace", "PyTorch", "TensorFlow"]
+    },
+    {
+      "category": "Machine Learning & Modeling",
+      "items": ["Random Forest", "Ensemble Models", "PLS", "PCA", "LLM Integration (OpenAI API)", "RAG Systems", "Predictive Modeling"]
+    },
+    {
+      "category": "Analytics & BI",
+      "items": ["Spotfire", "Sigma", "Data Visualization", "Metrics Design", "Dashboard Development", "Decision Analytics"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Leadership", "Data Strategy", "Analytics Roadmap", "Stakeholder Engagement", "Hiring & Mentorship", "Cross-Functional Collaboration"]
+    }
+  ],
+  "presentations": [],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Head of Data role at Point. With over 12 years leading analytics, data engineering, and data science teams to drive measurable business impact, I'm excited by the opportunity to scale Point's data function and raise the bar on analytical rigor in a high-growth environment.",
+    "body": [
+      "Throughout my career, I've built and evolved modern data platforms that translate directly to Point's stack and priorities. At Redica Systems, I architected a Snowflake-based regulatory intelligence platform, designed scalable data models, and built production ML systems (including an LLM classifier running across our entire platform). At Gilead Sciences, I built a centralized data lake as single source of truth for healthcare reference data, established company-wide metric definitions and governance frameworks, and led a team of 5+ analysts delivering analytics that directly influenced strategic decisions. These experiences mirror Point's mandate: inherit a strong technical foundation, drive analytical rigor, and ensure data efforts align tightly with business priorities.",
+      "What excites me most about this role is the balance of hands-on technical work and strategic leadership. I've consistently operated at this intersection - personally building production models (quote fingerprinting in Databricks, RAG systems, risk scoring algorithms) while simultaneously setting analytical strategy, owning metric definitions, and ensuring team efforts drive meaningful outcomes. At Takeda, I led both the data science group and statistical monitoring team, managed our Spotfire platform, and translated complex analytics into executive-ready insights for APQR meetings. I know when to dive in technically and when to delegate, and I've built teams that deliver business impact rather than just technical outputs.",
+      "I thrive on translating ambiguous business problems into clear analytical frameworks. Whether designing reference data architecture to harmonize messy multi-source client data at Redica, or establishing data governance policies at Gilead that brought clarity and consistency to Medical Affairs analytics, I focus on solving the problems that matter most. I'm drawn to Point's emphasis on decision-oriented analytics and measurable impact - data work should drive better business decisions, not just produce dashboards. I'd bring both the technical depth to evaluate data architectures and tooling, and the leadership approach to build a high-performing team that delivers outcomes."
+    ],
+    "closing": "I'd welcome the opportunity to discuss how my experience scaling data platforms, leading cross-functional analytics teams, and driving business impact through rigorous, decision-oriented analytics could help Point achieve its growth objectives. Thank you for considering my application."
+  }
+}

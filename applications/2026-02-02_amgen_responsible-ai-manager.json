@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "target_company": "Amgen",
+    "target_role": "Responsible AI Manager",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "Individual contributor role reporting to Director of Responsible AI. Focus on designing and operationalizing Responsible AI governance framework, AI inventory management, and lifecycle governance. Requires strong technical fluency with AI/ML systems, process design, regulatory knowledge (EU AI Act, NIST AI RMF, FDA/EMA), and cross-functional collaboration. Pharma/biotech/life sciences experience is a nice-to-have that I have in spades."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Responsible AI Manager",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science leader with PhD in Mathematics and 10+ years of experience developing, deploying, and governing AI/ML systems in FDA-regulated pharmaceutical and biotech environments. Proven track record building and operationalizing governance frameworks for AI/ML systems across their full lifecycle, from validation and documentation to ongoing performance monitoring. Deep expertise in regulatory compliance (FDA, 21 CFR Part 11, GxP), data governance, and translating complex requirements into clear, practical workflows. Recognized speaker on AI applications in FDA-regulated industries with strong cross-functional collaboration skills across Legal, Quality, Compliance, and IT teams.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Built and operationalized production LLM classifier (OpenAI API) that processes unstructured FDA 483 data\u2014owned end-to-end governance including design requirements, validation framework using confusion matrices, documentation of model behavior and limitations, and collaboration with data engineering to ensure production accuracy and auditability",
+        "Designed reference data architecture and data governance frameworks from scratch for pharmaceutical clients (Eli Lilly, Merck), establishing data quality standards, validation processes, lineage tracking, and audit-ready documentation to ensure compliance with regulatory requirements",
+        "Defined and documented AI/ML model lifecycle processes including development, validation, deployment monitoring, and ongoing performance assessment, providing traceability and evidence of responsible oversight across all analytics systems",
+        "Presented at industry conferences (CHPA, ISPE) on AI/ML applications in FDA-regulated industries, including ethical considerations, regulatory compliance requirements, and practical guidance for implementing AI responsibly in quality and regulatory intelligence use cases",
+        "Collaborated cross-functionally with data engineering, product teams, and client stakeholders to translate complex governance requirements into clear, actionable workflows and documentation that teams could understand and apply in practice"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built production random forest model for Paradigm using Databricks, establishing model documentation, performance monitoring, and lifecycle management practices\u2014worked directly with VP of Product and data engineering teams to ensure model governance and operational controls",
+        "Developed RAG system for Denari using HuggingFace and PyTorch, implementing data sourcing documentation, model behavior characterization, and guardrails for responsible deployment in tax compliance advisory context",
+        "Owned end-to-end ML system design and deployment across multiple client engagements, establishing documentation standards, validation approaches, and operational monitoring that ensured models were traceable, explainable, and aligned with business and ethical requirements"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Established comprehensive data governance framework for Medical Affairs organization, including data standards, quality controls, access policies, validation processes, and audit documentation aligned with FDA regulatory requirements and internal compliance standards",
+        "Built centralized data lake as single source of truth, designing data inventory, lineage tracking, and metadata management systems to maintain visibility and traceability across all enterprise data assets",
+        "Wrote formal data requirements and governance documentation that translated complex regulatory and business objectives into clear, practical workflows and decision points for cross-functional teams",
+        "Collaborated with Legal, Quality Assurance, Regulatory Affairs, and IT teams to integrate data governance requirements into existing enterprise processes, ensuring governance was robust, auditable, and accessible to stakeholders at all seniority levels",
+        "Managed vendor relationships and internal teams to ensure deliverables met governance standards, timelines, and compliance requirements, maintaining continuous oversight of data operations"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led development and deployment of predictive ML models for manufacturing and quality decisions, establishing model validation frameworks, documentation standards, and ongoing performance monitoring to ensure models met GMP compliance and regulatory expectations",
+        "Served as Spotfire system administrator, designing and managing data platform governance including user access controls, validation documentation, and compliance with 21 CFR Part 11 requirements for electronic records and signatures",
+        "Wrote standard operating procedures and formal requirements documentation for data management, statistical analysis, and system validation activities, translating regulatory requirements into clear operational guidance",
+        "Led cross-functional teams across Quality, Manufacturing, IT, and Regulatory to integrate data science and digital capabilities into existing enterprise processes, ensuring alignment with business objectives and compliance requirements",
+        "Monitored analytics systems performance and compliance signals across manufacturing and quality operations, maintaining visibility into model behavior, data quality, and emerging risks"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed predictive models for biopharmaceutical manufacturing with rigorous validation and documentation to support GMP operations, including ensemble methods, PLS, and PCA for automated limit calculations, feed quantity optimization, and product quality prediction",
+        "Built automated data pipelines for ingestion, cleaning, and transformation of manufacturing data, implementing data quality checks, validation rules, and audit trails to ensure data integrity throughout the lifecycle",
+        "Collaborated with Quality Assurance, Manufacturing, Process Development, and Regulatory Affairs teams to ensure models met compliance requirements and supported regulatory submissions",
+        "Documented model assumptions, limitations, validation results, and operational controls to provide audit-ready evidence of responsible model development and deployment in regulated manufacturing environment"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted research on agent-based models of biological systems, applying multi-objective optimization using genetic and evolutionary algorithms\u2014published 5 peer-reviewed papers plus 1 textbook chapter demonstrating strong technical writing and ability to communicate complex analytical methods"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Research focused on developing algorithmic frameworks and validation methods for complex computational models."
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI/ML Systems & Lifecycle Management",
+      "items": [
+        "Production ML Deployment",
+        "Model Validation",
+        "Performance Monitoring",
+        "OpenAI API",
+        "Scikit-Learn",
+        "TensorFlow",
+        "PyTorch",
+        "HuggingFace",
+        "Random Forest",
+        "Ensemble Models",
+        "LLM Classification"
+      ]
+    },
+    {
+      "category": "Data & Technology Governance",
+      "items": [
+        "Data Governance Frameworks",
+        "Data Quality Standards",
+        "Data Lineage & Metadata Management",
+        "Validation & Documentation",
+        "Audit Trail Design",
+        "Access Controls",
+        "System Administration"
+      ]
+    },
+    {
+      "category": "Regulatory & Compliance",
+      "items": [
+        "FDA Regulations",
+        "21 CFR Part 11",
+        "GMP/GLP Compliance",
+        "EU AI Act (Awareness)",
+        "NIST AI RMF (Awareness)",
+        "Ethical AI Principles",
+        "Risk Management",
+        "SOP Development"
+      ]
+    },
+    {
+      "category": "Technical & Analytical",
+      "items": [
+        "Python (Advanced)",
+        "SQL",
+        "SDLC Knowledge",
+        "Database Design",
+        "Snowflake",
+        "Databricks",
+        "AWS",
+        "Data Pipelines (ETL/ELT)",
+        "Analytics Platform Management"
+      ]
+    },
+    {
+      "category": "Process Design & Collaboration",
+      "items": [
+        "Process Design & Documentation",
+        "Cross-Functional Collaboration",
+        "Stakeholder Management",
+        "Requirements Translation",
+        "Workflow Optimization",
+        "Communication Across Seniority Levels"
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Responsible AI Manager position within Amgen's AI & Data Science organization. With a PhD in Mathematics and over 10 years of experience developing, deploying, and governing AI/ML systems in FDA-regulated pharmaceutical and biotech environments, I am excited to contribute to Amgen's commitment to responsible AI development and use.",
+    "body": [
+      "Throughout my career in pharma and biotech (Regeneron, Takeda, Gilead, Redica Systems with clients including Eli Lilly and Merck), I have built and operationalized governance frameworks for AI/ML systems across their full lifecycle. At Redica Systems, I designed and deployed a production LLM classifier for FDA 483 analysis, owning the complete governance workflow from validation framework design (using confusion matrices) to documentation of model behavior, limitations, and ongoing performance monitoring. At Gilead, I established comprehensive data governance frameworks including data inventory, lineage tracking, quality standards, and audit-ready documentation that served as the foundation for responsible data and analytics operations. At Takeda, I validated and deployed predictive ML models in GMP manufacturing while serving as Spotfire system administrator, ensuring compliance with 21 CFR Part 11 and maintaining continuous oversight of system performance and data integrity.",
+      "My technical fluency spans modern AI/ML platforms (OpenAI API, Scikit-Learn, TensorFlow, PyTorch, HuggingFace), enterprise data platforms (Snowflake, Databricks, AWS), and the software development lifecycle. I have hands-on experience writing SQL queries to analyze system and inventory data, and I understand how AI systems are designed, deployed, and operated in enterprise environments including platform integrations, data flows, and operational controls. Critically, I excel at translating complex governance requirements into clear, intuitive workflows and documentation\u2014at Gilead, I wrote formal data requirements that cross-functional teams could understand and apply; at Takeda, I developed SOPs that made regulatory requirements accessible to stakeholders at all levels; at Redica, I designed practical guidance for implementing AI responsibly in quality and regulatory intelligence use cases.",
+      "I am particularly drawn to this role's focus on designing governance that is not only robust and auditable, but also understandable and accessible to the people who rely on it every day. As a recognized speaker on AI/ML applications in FDA-regulated industries (CHPA, ISPE conferences), I have demonstrated my ability to communicate complex technical and ethical concepts to diverse audiences. My experience collaborating with Legal, Quality, Compliance, IT, and Digital Trust teams across pharmaceutical organizations positions me well to partner cross-functionally as you integrate Responsible AI requirements into existing enterprise processes. I am excited about the opportunity to help shape how Responsible AI is experienced at Amgen\u2014rethinking process flows, designing practical guardrails, and ensuring governance provides clear visibility, traceability, and continuous oversight across your AI inventory."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience governing AI/ML systems in regulated pharmaceutical environments can support Amgen's Responsible AI framework. Thank you for considering my application."
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "target_company": "Danaher",
+    "target_role": "Senior Director of Artificial Intelligence & Data Infrastructure",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "Reports to VP, AI Platform within Chief Technology and AI Office (CTAIO). Fully remote role. Focus on enterprise-wide AI platform strategy and execution, leading team of cloud/ML/AI/data architects and engineers. Requires 10+ years software dev with data engineering/AI/ML focus PLUS 5+ years leadership in AI platforms. Major gaps: software architecture/engineering background (I'm data scientist not software architect), no 5+ years dedicated AI platform leadership, no enterprise self-service platform building experience. Strengths: PhD, life sciences domain, some cloud platforms, team leadership, regulatory compliance. This is a significant reach - role is more software engineering/architecture than data science leadership."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Director of Artificial Intelligence & Data Infrastructure",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Technology and data platform leader with PhD in Mathematics and 10+ years of experience designing, building, and leading data and AI platforms in life sciences and biotechnology organizations. Proven track record architecting and delivering enterprise data platforms that accelerate research, enhance product development, and drive operational excellence. Deep expertise in cloud platforms (AWS, Azure Databricks, Snowflake), production ML systems, and data engineering with extensive experience in FDA-regulated pharmaceutical environments. Strong leadership experience building and mentoring technical teams, establishing best practices, and collaborating across R&D, quality, manufacturing, and regulatory functions.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Led strategic development and execution of data and AI platform capabilities for pharmaceutical clients (Eli Lilly, Merck), designing scalable data architecture in Snowflake that supports enterprise-wide analytics and machine learning workflows",
+        "Architected and deployed production LLM classification system (OpenAI API) that processes unstructured regulatory data\u2014designed end-to-end platform including data ingestion, model inference, validation framework, and analytics output, enforcing best practices for data quality, security, and auditability by design",
+        "Built reference data architecture from scratch supporting multi-tenant clients, implementing data governance frameworks, quality controls, and compliance standards that enable self-service analytics while maintaining data integrity and regulatory requirements",
+        "Drove adoption of advanced AI/ML methodologies across client organizations by delivering production models, establishing validation standards, and providing technical guidance to data science teams on responsible AI development and deployment",
+        "Collaborated with data engineering teams to implement scalable data pipelines, optimize platform performance, and ensure system reliability for mission-critical analytics workloads"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Architected and deployed production ML platform on Azure Databricks for Paradigm, designing data infrastructure that integrates multiple source systems, processes features, and delivers nightly predictions to operational workflows\u2014collaborated directly with data engineering teams and VP of Product",
+        "Built RAG system infrastructure for Denari using cloud platforms, implementing data ingestion pipelines, document repositories, and ML inference architecture using HuggingFace and PyTorch that enables AI-driven tax compliance advisory",
+        "Developed full-stack web application (Escalators puzzle game) using modern cloud architecture\u2014Python backend, React/Node.js/Vite frontend, Google OAuth integration, Supabase for data management\u2014demonstrating ability to design and implement scalable, user-facing platforms end-to-end"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed strategic roadmap for enterprise data and analytics platform serving Medical Affairs organization, aligning technical architecture with business objectives and growth initiatives across commercial and medical functions",
+        "Architected and delivered centralized data lake as single source of truth, designing scalable cloud-based infrastructure that consolidated disparate data sources, enabled self-service analytics, and accelerated data-driven research and decision-making",
+        "Built business intelligence platform in Spotfire from scratch, leading team of dashboard developers and establishing technical standards, governance frameworks, and best practices for analytics delivery across the organization",
+        "Established comprehensive data governance, quality, and security frameworks by design, implementing access controls, validation processes, and audit trails that ensured compliance with FDA regulatory requirements",
+        "Led hiring, mentorship, and performance development for technical team, fostering culture of continuous learning, technical rigor, and innovation while building consensus across cross-functional stakeholders",
+        "Developed strategic partnerships with technology vendors and managed external consultants to leverage expertise and accelerate platform capabilities"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led strategic roadmap and execution for digital and data science platforms supporting manufacturing and quality operations, managing teams of data scientists, engineers, and statistical analysts",
+        "Architected and deployed predictive ML models in production for manufacturing forecasting, quality risk detection, and process optimization\u2014designed infrastructure, implemented monitoring, and ensured models met performance, security, and compliance requirements",
+        "Served as Spotfire system administrator and platform architect, designing integrations with enterprise systems (ERP, MES, LIMS), implementing security controls, and maintaining platform compliance with 21 CFR Part 11 and GxP standards",
+        "Built self-service analytics capabilities enabling data scientists and engineers across manufacturing and quality organizations to develop dashboards, explore data, and deploy insights into operational workflows",
+        "Drove adoption of advanced analytics and ML methodologies by establishing best practices, providing technical mentorship, and collaborating with cross-functional teams to identify high-impact use cases",
+        "Led technical design and governance for real-time monitoring platforms that enhanced manufacturing processes and product quality, demonstrating ability to deliver scalable, high-performance systems in regulated environments"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Architected automated data engineering pipelines for biopharmaceutical manufacturing, designing ETL infrastructure that ingested data from multiple enterprise systems (ERP, MES, LIMS), transformed and validated data, and delivered analytics-ready datasets",
+        "Developed and deployed production ML models (ensemble methods, PLS, PCA) that accelerated research, enhanced manufacturing processes, and improved product quality\u2014models ran in production for automated limit calculations, feed optimization, and quality prediction",
+        "Designed data architecture supporting both operational reporting and advanced analytics, implementing data quality controls, lineage tracking, and governance standards that ensured compliance with GxP and regulatory requirements",
+        "Collaborated with Quality Assurance, Manufacturing, Process Development, and IT teams across matrixed organization to integrate analytics capabilities into operational workflows and drive adoption of data-driven methodologies",
+        "Presented technical solutions and analytics findings to senior leadership and cross-functional stakeholders, demonstrating ability to influence at all levels and communicate complex concepts effectively"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted advanced research on computational models of biological systems, developing optimization algorithms and multi-objective methods using genetic and evolutionary algorithms\u2014published 5 peer-reviewed papers plus 1 textbook chapter"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Research involved designing computational algorithms, implementing scalable simulation architectures, and applying optimization methods to complex systems."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Cloud Platforms & Data Infrastructure",
+      "items": [
+        "AWS (S3, data storage)",
+        "Azure (Databricks)",
+        "Snowflake",
+        "Databricks",
+        "Data Lake Architecture",
+        "ETL/ELT Pipelines",
+        "Data Modeling",
+        "Platform Integration"
+      ]
+    },
+    {
+      "category": "AI/ML & Software Development",
+      "items": [
+        "Python (Advanced)",
+        "ML Model Deployment",
+        "Scikit-Learn",
+        "TensorFlow",
+        "PyTorch",
+        "HuggingFace",
+        "OpenAI API",
+        "Production ML Systems",
+        "Model Validation",
+        "Performance Monitoring"
+      ]
+    },
+    {
+      "category": "Data Engineering & Architecture",
+      "items": [
+        "Data Engineering (10+ years)",
+        "Database Design",
+        "Data Pipelines",
+        "SQL",
+        "Data Quality & Governance",
+        "Metadata Management",
+        "System Integration",
+        "API Design"
+      ]
+    },
+    {
+      "category": "Full-Stack & Web Technologies",
+      "items": [
+        "JavaScript/TypeScript",
+        "React",
+        "Node.js",
+        "Vite",
+        "Tailwind CSS",
+        "Google OAuth",
+        "Supabase",
+        "REST APIs"
+      ]
+    },
+    {
+      "category": "Regulatory & Compliance",
+      "items": [
+        "GxP Compliance",
+        "FDA Regulations",
+        "21 CFR Part 11",
+        "HIPAA (Awareness)",
+        "Data Governance",
+        "Quality Standards",
+        "Audit Trails",
+        "Security Controls"
+      ]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": [
+        "Team Leadership (3-7 direct reports)",
+        "Strategic Roadmap Development",
+        "Cross-Functional Collaboration",
+        "Stakeholder Influence",
+        "Vendor Management",
+        "Hiring & Mentorship",
+        "Matrixed Organizations"
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Director of Artificial Intelligence & Data Infrastructure position within Danaher's Chief Technology and AI Office. With a PhD in Mathematics and over 10 years of experience designing, building, and leading data and AI platforms in life sciences and biotechnology organizations, I am excited about the opportunity to help shape Danaher's next-generation AI infrastructure and accelerate innovation across your operating companies.",
+    "body": [
+      "Throughout my career at Regeneron Pharmaceuticals, Takeda Pharmaceuticals, Gilead Sciences, and Redica Systems, I have architected and delivered enterprise data and AI platforms that accelerate research, enhance product development, and drive operational excellence. At Gilead, I defined and executed the strategic roadmap for Medical Affairs' enterprise analytics platform, architecting a centralized data lake that served as single source of truth and enabled self-service analytics across commercial and medical functions. At Takeda, I led digital and data science platforms supporting manufacturing and quality operations, architecting predictive ML systems that ran in production while serving as Spotfire platform administrator responsible for integrations, governance, and compliance. At Redica Systems, I have designed scalable multi-tenant data architectures in Snowflake and deployed production LLM systems with comprehensive governance, quality, and security controls by design. My experience spans cloud platforms including AWS, Azure Databricks, and Snowflake, and I have extensive experience integrating data services and building high-performance infrastructure for AI/ML workloads.",
+      "I have a proven track record building and mentoring high-performing technical teams. At Gilead, I hired and led a team of dashboard developers and analysts, establishing technical standards and fostering a culture of continuous learning and innovation. At Takeda, I managed teams of data scientists, engineers, and statistical analysts across digital and data science functions, driving adoption of advanced ML methodologies and establishing best practices. I excel at building consensus and influencing stakeholders at all levels\u2014I have collaborated with R&D, quality, manufacturing, regulatory, and commercial teams across matrixed pharmaceutical and biotech organizations, and I have presented technical solutions to senior leadership and cross-functional audiences at industry conferences. My experience working in industries governed by rigorous regulatory standards (FDA, 21 CFR Part 11, GxP) and implementing comprehensive data governance frameworks positions me well to ensure Danaher's AI platform meets compliance requirements while enabling innovation.",
+      "My life sciences background\u2014including roles at three major pharmaceutical/biotech companies (Regeneron, Takeda, Gilead) plus consulting work supporting Eli Lilly and Merck\u2014provides deep domain expertise in partnering with R&D, quality, clinical, manufacturing, and commercial teams to deliver AI-driven solutions that create value. I have designed platforms that accelerate new product development (automated feed optimization at Regeneron), enhance existing products and processes (quality prediction models at Takeda), and enable data scientists to self-serve (built analytics sandboxes at Gilead and Takeda). I am passionate about staying ahead of the curve on emerging AI/ML technologies\u2014I have deployed LLM systems in production, built RAG architectures, and actively evaluate cutting-edge approaches to maintain competitive technical capabilities. I would be excited to bring this combination of technical platform expertise, team leadership, life sciences domain knowledge, and strategic vision to help Danaher build world-class AI infrastructure that transforms how your operating companies innovate and serve customers globally."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience architecting AI and data platforms in life sciences organizations can contribute to Danaher's technology vision. Thank you for considering my application."
+  }
+}

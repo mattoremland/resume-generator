@@ -1,0 +1,217 @@
+{
+  "metadata": {
+    "target_company": "Biogen",
+    "target_role": "Director of Advanced Analytics, Data Science & AI",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "US Commercial role focused on brand/TA analytics, marketing mix optimization, channel optimization, digital analytics for pharmaceutical company. Requires 10 years advanced analytics in US commercial settings (pharma/biotech or consulting). MODERATE STRETCH: My 10+ years pharma experience is in manufacturing/quality/medical affairs, NOT commercial/marketing analytics. Commercial functions (brand analytics, marketing mix, attribution, channel optimization) are outside my experience. Strengths: 10+ years pharma, ML/AI expertise, Python/R/SQL, team leadership, stakeholder influence, predictive modeling. Need to emphasize transferable analytics leadership and pharma domain while acknowledging commercial analytics gap."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Advanced Analytics, Data Science & AI",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science and analytics leader with PhD in Mathematics and 10+ years of experience in pharmaceutical and biotech organizations developing advanced analytics, machine learning, and AI solutions that drive strategic decision-making. Proven track record building and deploying production ML models (LLM classifiers, predictive analytics, ensemble methods) that deliver measurable business impact. Deep expertise in Python, R, SQL, and modern data platforms (Snowflake, Databricks) with extensive hands-on experience across the ML technology stack. Strong leadership experience managing data science teams, influencing executive stakeholders, and effectively communicating complex technical concepts to diverse audiences in regulated pharmaceutical environments.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Led development and implementation of data-driven solutions using advanced analytics, machine learning, and AI-powered tools (production LLM classifier using OpenAI API) to extract actionable insights driving strategic decisions for pharmaceutical clients including Eli Lilly and Merck",
+        "Influenced end-to-end delivery of data science insights from framing business questions through designing solutions to delivering recommendations\u2014built risk-scoring models from scratch that enabled clients to optimize resource allocation in quality operations and proactively identify compliance risks",
+        "Provided enterprise view of insights across multiple pharmaceutical clients on key topics including regulatory intelligence, quality analytics, risk management, and predictive modeling\u2014consolidated insights and actionable recommendations ensuring alignment with strategic objectives",
+        "Broke down technical ML/AI concepts into digestible insights for diverse stakeholders including client executives, quality leaders, and regulatory teams\u2014presented at industry conferences (CHPA, ISPE) effectively communicating value proposition of data science to senior audiences",
+        "Built reference data architecture and data catalogs in Snowflake supporting advanced analytics and ML workloads, implementing modern data stack with distributed systems ensuring scalability and performance for enterprise analytics"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of ~5 data scientists and analysts generating data-driven insights for Medical Affairs organization supporting strategic initiatives across therapeutic areas\u2014managed and mentored team to deliver high-quality analytics results driving innovation",
+        "Developed and implemented enterprise analytics strategy aligned with Medical Affairs business goals, building centralized data lake and BI platform from scratch that delivered actionable insights to commercial and medical stakeholders",
+        "Defined and tracked key performance indicators measuring success and impact of analytics solutions\u2014built dashboards tracking HCP/HCO engagement metrics, affiliations, and relationship networks enabling data-driven decision-making",
+        "Built strong relationships with key stakeholders across Commercial, Medical Affairs, Regulatory, and IT organizations, effectively communicating value proposition of data science and fostering culture of data-driven decision-making",
+        "Managed budgets, resource allocation, and timelines for analytics projects\u2014developed vendor relationships and led cross-functional collaboration ensuring seamless integration of insights into strategic initiatives"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led data science and analytics team driving innovation and delivering data-driven solutions using machine learning techniques (random forest, ensemble models, PLS, PCA) and predictive algorithms to optimize manufacturing and quality operations",
+        "Developed and deployed predictive models that extracted actionable insights from manufacturing data\u2014models for quality risk detection, process optimization, and automated limit calculations drove measurable business impact including reduced batch failures and improved operational efficiency",
+        "Stayed current with latest advancements in data science and AI, evaluating emerging technologies and applying them to improve processes and outcomes\u2014drove adoption of advanced analytics methodologies across manufacturing and quality organizations",
+        "Collaborated within analytics team and with cross-functional partners (Manufacturing, Quality, Supply Chain, IT) to develop and execute comprehensive analytics plans ensuring alignment with strategic objectives",
+        "Continuously evaluated and enhanced existing data science capabilities, identifying opportunities for optimization and innovation to drive greater business impact and ROI from analytics investments"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Led development and implementation of machine learning solutions for multiple clients using Python, SQL (Snowflake, Databricks), and modern ML technology stack including scikit-learn, TensorFlow, and PyTorch",
+        "Built production random forest model on Databricks for Paradigm that delivered predictive insights driving business decisions\u2014worked directly with VP of Product and cross-functional teams translating business requirements into technical solutions",
+        "Developed RAG system using advanced AI techniques (HuggingFace, PyTorch) that extracted insights from complex data sources to support strategic decision-making for tax compliance advisory"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed and implemented data-driven solutions using advanced analytics and machine learning techniques (ensemble methods, PLS, PCA) that extracted actionable insights driving manufacturing strategy and quality improvements",
+        "Led execution and interpretation of predictive models from problem framing through solution design to recommendation delivery\u2014automated limit calculations reduced manual effort by 80%, feed optimization improved yields, and quality prediction models reduced batch failures",
+        "Influenced business partners across Manufacturing, Quality, Process Development, and Regulatory Affairs by communicating clear and impactful data-driven insights\u2014presented complex technical concepts to senior leadership in digestible format guiding strategic decisions",
+        "Built automated data pipelines processing large-scale distributed data from manufacturing systems, implementing modern data engineering practices ensuring data quality and accessibility for advanced analytics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Research focused on advanced analytical methods and optimization algorithms."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Advanced Analytics & Machine Learning",
+      "items": [
+        "Machine Learning",
+        "Predictive Modeling",
+        "Random Forest",
+        "Ensemble Models",
+        "PLS",
+        "PCA",
+        "Deep Learning",
+        "LLM/GenAI",
+        "Statistical Analysis",
+        "Optimization Algorithms"
+      ]
+    },
+    {
+      "category": "AI & ML Technology Stack",
+      "items": [
+        "Python (Advanced)",
+        "R",
+        "Scikit-Learn",
+        "TensorFlow",
+        "PyTorch",
+        "HuggingFace",
+        "OpenAI API",
+        "Production ML Deployment",
+        "Model Monitoring"
+      ]
+    },
+    {
+      "category": "Data Engineering & Platforms",
+      "items": [
+        "SQL (Advanced)",
+        "Snowflake",
+        "Databricks",
+        "AWS",
+        "Hadoop-style Distributed Systems",
+        "ETL/ELT Pipelines",
+        "Data Lakes",
+        "Data Warehouses",
+        "NoSQL (Awareness)"
+      ]
+    },
+    {
+      "category": "Analytics & Visualization",
+      "items": [
+        "Spotfire",
+        "Sigma",
+        "Dashboard Development",
+        "Data Visualization",
+        "BI Platforms",
+        "KPI Tracking",
+        "Performance Measurement"
+      ]
+    },
+    {
+      "category": "Pharmaceutical Industry Expertise",
+      "items": [
+        "Biotech/Pharmaceutical Operations (10+ years)",
+        "Therapeutic Area Knowledge",
+        "Regulatory Environment (FDA, GxP)",
+        "Cross-Functional Collaboration",
+        "Stakeholder Influence"
+      ]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": [
+        "Team Leadership & Mentorship",
+        "Data Science Team Management",
+        "Strategic Vision",
+        "Executive Communication",
+        "Business Acumen",
+        "Resource Allocation",
+        "Budget Management",
+        "Vendor Management"
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director of Advanced Analytics, Data Science & AI position. With a PhD in Mathematics and over 10 years of experience in pharmaceutical and biotech organizations developing and deploying advanced analytics, machine learning, and AI solutions that drive strategic decision-making, combined with proven leadership of high-performing data science teams, I am excited about the opportunity to generate data-driven insights that enhance innovative capabilities.",
+    "body": [
+      "Throughout my career at Regeneron Pharmaceuticals, Takeda Pharmaceuticals, Gilead Sciences, and Redica Systems (supporting pharmaceutical clients including Eli Lilly and Merck), I have led the development and implementation of data-driven solutions using advanced analytics, machine learning, and AI-powered tools to extract actionable insights. At Redica, I built a production LLM classifier using OpenAI API that processes regulatory data and delivers predictive insights enabling clients to optimize resource allocation and identify risks proactively. At Regeneron, I developed predictive models using ensemble methods, PLS, and PCA that drove measurable business impact\u2014automated limit calculations reduced manual effort by 80%, feed optimization improved manufacturing yields, and quality prediction models reduced batch failures. At Takeda, I led data science teams deploying ML models for quality risk detection and process optimization. I have extensive hands-on expertise with machine learning technology including Python, R, big data platforms (Snowflake, Databricks, Hadoop-style distributed systems), and visualization techniques, combined with 10+ years of deep experience in pharmaceutical and biotech organizations.",
+      "I have proven ability to influence end-to-end delivery of data science insights from framing business questions through designing solutions to delivering recommendations. At Gilead, I led a team of ~5 data scientists and analysts generating insights for Medical Affairs across therapeutic areas\u2014I built BI platforms from scratch, defined KPIs measuring analytics impact, and delivered consolidated insights to stakeholders ensuring alignment with strategic objectives. I excel at breaking down technical ML/AI concepts into digestible insights for diverse stakeholders\u2014I have presented at industry conferences (CHPA, ISPE) on AI applications in FDA-regulated industries, effectively communicating complex technical concepts to senior leadership and cross-functional teams. At Regeneron, Takeda, and Gilead, I collaborated with Manufacturing, Quality, Medical Affairs, Commercial, Regulatory, and IT teams ensuring seamless integration of analytics insights into decision-making processes and strategic initiatives. I have managed budgets, resource allocation, and timelines for data science projects, and I have built strong relationships with key stakeholders fostering cultures of data-driven decision-making.",
+      "My pharmaceutical industry expertise spans 10+ years across three major biotech/pharma companies (Regeneron, Takeda, Gilead) plus consulting work supporting additional pharmaceutical clients. While my experience has been primarily in manufacturing, quality, and medical affairs operations rather than US commercial/brand analytics specifically, the core data science capabilities\u2014developing predictive models, deploying ML solutions, leading high-performing teams, influencing strategic decisions through data-driven insights, and communicating effectively with senior stakeholders\u2014are directly transferable. I stay current with latest advancements in data science and AI, continuously evaluating emerging technologies and applying them to drive innovation. I would be excited to bring this combination of advanced analytics expertise, AI/ML technical depth, pharmaceutical industry knowledge, and proven leadership to spearhead data-driven insights that bolster brands, therapeutic areas, and enterprise initiatives at your organization."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience developing advanced analytics and AI solutions in pharmaceutical organizations can contribute to driving strategic insights and innovation. Thank you for considering my application."
+  }
+}

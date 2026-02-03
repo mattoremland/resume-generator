@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "target_company": "Veeva Systems",
+    "target_role": "Senior Director of Engineering and Data Operations",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "OpenData team role - leading both engineering and data operations teams. Focus on building data & software products for healthcare reference data (HCP/HCO profiles). Remote/work anywhere role. CRITICAL MATCH: At Gilead, primary dataset was HCP/HCO profiles - built dashboards tracking HCP/HCO interactions, affiliations, engagements, led team of ~5 managing HCP/HCO data operations. This is direct healthcare reference data experience with same entity types. Remaining gaps: no 5+ years leading engineering teams specifically (led data science/analytics teams), moderate software engineering architecture background. Strengths now much stronger with HCP/HCO experience."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Director of Engineering and Data Operations",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data platform and operations leader with direct experience managing HCP and HCO healthcare reference data at Gilead Sciences, combined with 10+ years architecting enterprise data platforms and leading technical teams in life sciences. Proven expertise in data acquisition, cleansing, standardization, and quality management for healthcare professional and organization profiles. Strong background in cloud platforms (AWS, Snowflake, Databricks), ETL/ELT processes, data governance, and building scalable data systems that handle complex data source integration. Hands-on technical leader with experience in Python, SQL, full-stack development, and production ML deployment in pharmaceutical and biotech organizations.",
+  "experience": [
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of ~5 people (dashboard developers and analysts) managing HCP and HCO healthcare reference data operations for Medical Affairs\u2014primary dataset was healthcare professional and healthcare organization profiles including interactions, affiliations, engagements, and relationships",
+        "Built comprehensive Spotfire dashboards from scratch tracking HCP/HCO profiles, affiliations, engagements, and relationship networks, enabling Medical Affairs to monitor healthcare professional interactions and ensure compliance",
+        "Architected centralized data lake consolidating HCP/HCO data from multiple internal and external sources, implementing data acquisition, cleansing, standardization, and quality checking processes to maintain accurate, up-to-date healthcare reference data",
+        "Established data governance frameworks specifically for healthcare reference data, implementing data quality standards, metadata management, access controls, and validation procedures ensuring data integrity and regulatory compliance",
+        "Managed vendors responsible for data acquisition and enrichment of HCP/HCO profiles, defining requirements, assessing quality, and ensuring deliverables met standards for accuracy and completeness",
+        "Owned end-to-end data platform architecture, build, and delivery\u2014designed scalable cloud-based infrastructure, implemented ETL pipelines, and enabled self-service analytics across Medical Affairs organization",
+        "Provided technical leadership and strategic guidance to team, fostering culture of data quality excellence and continuous improvement while collaborating with Product, IT, and business stakeholders"
+      ]
+    },
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Led architecture, build, and delivery of multi-tenant data platform on Snowflake supporting pharmaceutical clients (Eli Lilly, Merck)\u2014owned data source ingestion from government sources (FDA inspection reports), data pipeline design, curation/standardization, and comprehensive data governance",
+        "Architected and deployed production LLM classification system that acquires, cleanses, and standardizes unstructured government data (FDA 483 reports) into structured profiles\u2014designed data acquisition pipelines, implemented quality checking processes, and established data integrity controls",
+        "Built reference data architecture to harmonize complex data sources including governmental regulatory data, manufacturing site profiles, and entity relationships\u2014implemented data modeling, ETL/ELT processes, and master data management",
+        "Drove technical decisions and design, translating complex data source requirements and product vision into scalable technical architecture supporting multiple clients on shared platform infrastructure",
+        "Developed data management policies and procedures ensuring data quality, security, access controls, and compliance\u2014collaborated cross-functionally with data engineering teams and client stakeholders"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Architected and delivered production data platform on AWS Databricks for Paradigm, designing scalable data pipelines that ingest data from multiple enterprise sources, standardize features, and deliver predictions to operational workflows",
+        "Built data acquisition and curation infrastructure for Denari, implementing automated ingestion from external government sources (IRS, state tax authorities), data cleansing and standardization pipelines, and document management platform",
+        "Developed full-stack software platform (Escalators puzzle game) demonstrating hands-on technical leadership\u2014designed and implemented backend data pipelines (Python), frontend application (React/Node.js/Vite), authentication (Google OAuth), and cloud data management (Supabase)"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led engineering and data operations teams (3-7 engineers, data scientists, and analysts) responsible for digital platforms and data science capabilities supporting manufacturing and quality operations",
+        "Architected and delivered Big Data solutions for large-scale manufacturing data, designing data pipelines, data warehouses, and analytics platforms processing real-time and batch data from enterprise systems",
+        "Served as technical leader and platform administrator for Spotfire\u2014owned architecture decisions, data modeling, ETL processes, integrations with enterprise data sources, security controls, and platform governance",
+        "Drove technical architecture decisions for predictive ML models deployed in production, overseeing full development process from data acquisition through deployment, monitoring, and optimization",
+        "Implemented data governance principles, data quality standards, and data management procedures ensuring data integrity, security, and regulatory compliance in GxP environment",
+        "Hired, developed, and mentored high-performing team, fostering culture of technical rigor and cross-functional collaboration"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Architected automated data pipelines for acquisition, cleansing, standardization, and quality checking of manufacturing data from multiple enterprise sources\u2014implemented ETL processes ensuring high-quality, analytics-ready datasets",
+        "Built and delivered data products including automated limit calculations, feed optimization models, and quality prediction systems\u2014owned full development lifecycle from requirements through production deployment",
+        "Designed data models and data warehousing solutions supporting operational reporting and advanced analytics, implementing data governance, lineage tracking, and audit trails",
+        "Collaborated with QA, Manufacturing, IT, and cross-functional teams in Agile environment to deliver data products that improved operational efficiency and product quality"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Research involved designing computational architectures, implementing scalable data processing pipelines, and developing algorithmic solutions."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Healthcare Reference Data",
+      "items": [
+        "HCP/HCO Profile Management",
+        "Healthcare Professional Data",
+        "Healthcare Organization Data",
+        "Affiliation Tracking",
+        "Data Acquisition from Healthcare Sources",
+        "Healthcare Data Quality",
+        "Healthcare Data Governance"
+      ]
+    },
+    {
+      "category": "Data Platform & Cloud Architecture",
+      "items": [
+        "AWS (S3, Databricks)",
+        "Snowflake",
+        "Databricks",
+        "Azure",
+        "Data Lake Architecture",
+        "Big Data Solutions",
+        "Scalable Platform Design",
+        "Cloud Data Warehouses"
+      ]
+    },
+    {
+      "category": "Data Engineering & Operations",
+      "items": [
+        "ETL/ELT Processes",
+        "Data Pipelines",
+        "Data Acquisition & Ingestion",
+        "Data Cleansing & Standardization",
+        "Data Quality Management",
+        "Data Modeling",
+        "Data Warehousing",
+        "Master Data Management"
+      ]
+    },
+    {
+      "category": "Data Governance & Compliance",
+      "items": [
+        "Data Governance Frameworks",
+        "Data Management Policies",
+        "Data Quality Standards",
+        "Data Security & Access Controls",
+        "Regulatory Compliance (FDA, 21 CFR Part 11)",
+        "Data Integrity",
+        "Metadata Management"
+      ]
+    },
+    {
+      "category": "Technical Leadership & Development",
+      "items": [
+        "Platform Architecture",
+        "Technical Decision Making",
+        "Hands-on Development",
+        "Python (Advanced)",
+        "SQL",
+        "API Design",
+        "System Integration",
+        "Full-stack Development (React, Node.js)"
+      ]
+    },
+    {
+      "category": "Team Leadership & Collaboration",
+      "items": [
+        "Engineering & Data Ops Team Leadership",
+        "Team Building (5+ direct reports at Gilead)",
+        "Hiring & Development",
+        "Technical Mentorship",
+        "Cross-Functional Collaboration",
+        "Agile Development",
+        "Vendor Management"
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Director of Engineering and Data Operations position for Veeva's OpenData team. With direct experience managing HCP and HCO healthcare reference data at Gilead Sciences, over 10 years architecting enterprise data platforms, and proven leadership of engineering and data operations teams in life sciences, I am excited about the opportunity to build and scale Veeva's healthcare reference data platform.",
+    "body": [
+      "My experience is directly aligned with OpenData's mission. At Gilead Sciences, I led a team of ~5 people managing HCP and HCO healthcare reference data for Medical Affairs\u2014healthcare professional and healthcare organization profiles were the primary dataset. I built Spotfire dashboards tracking HCP/HCO interactions, affiliations, engagements, and relationship networks, architected a centralized data lake consolidating HCP/HCO data from multiple sources, and managed vendors for data acquisition, cleansing, and standardization of HCP/HCO profiles. I established comprehensive data governance frameworks for healthcare reference data ensuring data quality, integrity, and compliance. This direct experience with HCP/HCO reference data\u2014the same entity types OpenData manages\u2014positions me uniquely to understand the data quality challenges, relationship complexities, and operational requirements of maintaining accurate healthcare professional and organization profiles at enterprise scale.",
+      "Beyond healthcare reference data, I have owned architecture, build, and delivery of large-scale data platforms across their full lifecycle. At Redica Systems, I architected a multi-tenant platform on Snowflake that acquires data from government sources (FDA inspection reports), implements data pipelines for ingestion and processing, performs curation and standardization, and enforces comprehensive data governance. At Takeda, I led engineering and data operations teams (3-7 people), architected Big Data solutions, and served as platform administrator for Spotfire, owning data modeling, ETL processes, enterprise integrations, and governance. My experience spans AWS, Snowflake, Databricks, and Azure, and I have deep expertise in data engineering, ETL/ELT pipelines, data warehousing, and building scalable cloud platforms that handle complex data source acquisition and quality management.",
+      "I am a hands-on technical leader who can help build and design platforms alongside teams. At Redica, I personally architected and deployed a production LLM classification system processing government data end-to-end. At Tidal Wave Analytics, I built production ML platforms on AWS Databricks and developed full-stack applications including backend data pipelines (Python), frontend applications (React/Node.js), and cloud data management (Supabase). I drive technical architecture decisions, translate complex requirements into sound technical design, and provide technical guidance and mentorship to foster cultures of technical excellence. I have experience hiring, developing, and leading high-performing teams in fast-paced life sciences environments (Regeneron, Takeda, Gilead, plus consulting for Eli Lilly and Merck). I collaborate effectively with Product Management, QA, and cross-functional R&D teams in Agile environments, and my life sciences background provides deep domain expertise in healthcare data operations and regulated environments. I would be excited to bring this combination of healthcare reference data experience, data platform architecture expertise, and technical leadership to help Veeva build world-class HCP/HCO data products serving the life sciences industry."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience managing HCP/HCO healthcare reference data and building enterprise data platforms can contribute to OpenData's growth. Thank you for considering my application."
+  }
+}

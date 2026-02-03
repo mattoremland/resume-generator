@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "target_company": "Alimentiv",
+    "target_role": "Director, Enterprise Data",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "Reports to Chief Digital & Technology Officer. Role focused on enterprise data architecture in Azure, clinical operations data flows, BI platforms, and AI/ML enablement. Requires CRO/clinical trial operations experience which I lack. Need to emphasize pharma data architecture, platform building, cross-functional data support, and transferable skills. Gaps: no CRO experience, no clinical trial workflow expertise (CTMS, EDC, Veeva Vault Clinical), no Power BI/Tableau, no Microsoft Fabric. Strengths: pharma background, data architecture, team leadership, value-driven analytics."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director, Enterprise Data",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data architecture and analytics leader with 10+ years of experience architecting enterprise data platforms, building analytics capabilities, and driving business value from data in pharmaceutical and life sciences organizations. Proven expertise designing and implementing scalable data platforms (Snowflake, Databricks, AWS) that support structured and unstructured data across regulated operations. Strong background in data governance frameworks, ETL/ELT pipelines, and delivering measurable improvements through predictive analytics. Experience managing cross-functional teams, vendor relationships, and ensuring compliance with GxP and FDA regulatory requirements in pharmaceutical manufacturing and quality operations.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Led enterprise data strategy and architecture for pharmaceutical clients (Eli Lilly, Merck, ProQuality Network), designing reference data architecture from scratch to harmonize multi-source data including regulatory intelligence, quality metrics, and operational data flows",
+        "Built scalable data platform using Snowflake that supports both structured and unstructured data (FDA 483 text, inspection reports, quality metrics), implementing ETL pipelines, data quality controls, and governance frameworks that ensure data integrity and compliance with FDA regulatory standards",
+        "Developed production LLM classifier (OpenAI API) that processes unstructured regulatory data and generates structured insights\u2014designed data flows from ingestion through model inference to analytics output, ensuring secure, auditable, and performant architecture",
+        "Drove measurable business value from data by building risk-scoring models that enabled clients to optimize quality unit resource allocation, proactively identify compliance risks, and improve regulatory intelligence\u2014moved beyond traditional dashboards to deliver predictive analytics that informed strategic decisions",
+        "Established right-sized data governance frameworks including data stewardship roles, metadata management, data quality standards, and audit documentation that balanced regulatory compliance requirements with operational agility",
+        "Collaborated cross-functionally with client stakeholders, data engineering teams, and executive leadership to identify high-impact use cases, communicate technical concepts effectively, and align data initiatives with business goals"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Architected and deployed production ML systems using Azure Databricks for Paradigm, designing end-to-end data pipelines that integrated data from multiple source systems, processed text and numerical features, and delivered nightly predictions to operational workflows",
+        "Built data infrastructure and analytics capabilities for Denari using cloud platforms, implementing data ingestion from external sources (IRS, state tax authorities), designing data repositories for document corpus, and enabling RAG-based analytics using HuggingFace and PyTorch",
+        "Drove business value through predictive analytics\u2014quote fingerprinting model enabled Paradigm to automatically group quotes into projects, improving operational efficiency and unlocking new business intelligence capabilities across the organization"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy for Medical Affairs organization, architecting centralized data lake as single source of truth that consolidated disparate data sources across commercial, medical, and operational functions",
+        "Designed and implemented scalable data repositories and pipelines supporting both real-time and batch processing, ensuring data integrity, security, and compliance with FDA regulatory requirements and internal governance standards",
+        "Extended data architecture and analytics capabilities to support cross-functional stakeholders including Commercial, Regulatory Affairs, Quality, and Medical Affairs leadership\u2014mapped end-to-end data flows and optimized data integration across enterprise systems",
+        "Built and scaled business intelligence platform using Spotfire, managing internal BI team and delivering actionable dashboards that enabled data-driven decision-making across commercial and medical operations",
+        "Established comprehensive data governance framework including data stewardship, metadata management, data quality standards, and audit readiness for regulatory inspections",
+        "Led team of dashboard developers and analysts, fostering culture of continuous improvement and effectively communicating insights to executive leadership and non-technical stakeholders"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital transformation and data science initiatives across manufacturing and quality operations, architecting data pipelines and repositories that supported predictive analytics, real-time monitoring, and operational reporting",
+        "Deployed AI/ML models in production for manufacturing forecasting, quality risk detection, and process optimization\u2014partnered with data engineers and IT to ensure models were scalable, secure, and compliant with GxP requirements",
+        "Served as Spotfire system administrator, designing data architecture, managing integrations with manufacturing systems (ERP, MES, LIMS), implementing user access controls, and ensuring compliance with 21 CFR Part 11",
+        "Built business intelligence platforms that delivered real-time insights to manufacturing, quality, and supply chain stakeholders\u2014enabled self-service analytics while maintaining governance and data quality standards",
+        "Led cross-functional teams across Manufacturing, Quality, IT, and Regulatory to map operational data flows, identify high-impact analytics use cases, and drive continuous improvement in trial execution and operational efficiency",
+        "Managed team of data scientists and statistical analysts, establishing best practices for model development, validation, and deployment in regulated pharmaceutical environment"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Architected automated data pipelines for biopharmaceutical manufacturing, implementing ETL processes for ingestion, cleaning, and transformation of data from multiple source systems including ERP, MES, and laboratory systems",
+        "Developed and deployed predictive models (ensemble methods, PLS, PCA) that drove measurable improvements in manufacturing operations\u2014automated limit calculations reduced manual effort by 80%, feed optimization improved yields, and quality prediction models reduced batch failures",
+        "Designed data repositories and data models supporting both operational reporting and advanced analytics, ensuring data quality, lineage tracking, and audit trails to support GxP compliance and regulatory submissions",
+        "Collaborated with Quality Assurance, Manufacturing, Process Development, and IT teams to integrate analytics capabilities into operational workflows and enable data-driven decision-making across the organization",
+        "Championed use of automation and predictive analytics to enhance manufacturing execution, moving beyond traditional monitoring dashboards to uncover hidden patterns and inform strategic process improvements"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Research involved architecting complex computational models, designing data structures for large-scale simulations, and applying optimization algorithms."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Architecture & Cloud Platforms",
+      "items": [
+        "Enterprise Data Architecture (10+ years)",
+        "Azure (Databricks)",
+        "AWS (S3, data storage)",
+        "Snowflake",
+        "Data Lake Design",
+        "ETL/ELT Pipelines",
+        "Data Modeling",
+        "Real-time & Batch Processing"
+      ]
+    },
+    {
+      "category": "Analytics, BI & AI/ML",
+      "items": [
+        "Business Intelligence Platforms",
+        "Spotfire (System Admin)",
+        "Sigma",
+        "Predictive Analytics",
+        "ML Model Deployment",
+        "Scikit-Learn",
+        "TensorFlow",
+        "PyTorch",
+        "HuggingFace",
+        "OpenAI API",
+        "Random Forest",
+        "Ensemble Models"
+      ]
+    },
+    {
+      "category": "Life Sciences & Regulatory",
+      "items": [
+        "Pharmaceutical Manufacturing",
+        "Quality Operations",
+        "GxP Compliance",
+        "FDA Regulations",
+        "21 CFR Part 11",
+        "Data Integrity",
+        "Regulatory Inspections",
+        "Audit Readiness"
+      ]
+    },
+    {
+      "category": "Data Governance & Compliance",
+      "items": [
+        "Data Governance Frameworks",
+        "Data Stewardship",
+        "Metadata Management",
+        "Data Quality Standards",
+        "Security & Access Controls",
+        "GDPR Awareness",
+        "Audit Trails"
+      ]
+    },
+    {
+      "category": "Technical & Programming",
+      "items": [
+        "Python (Advanced)",
+        "SQL",
+        "Pandas",
+        "Data Pipeline Design",
+        "System Integration",
+        "Database Design",
+        "API Integration"
+      ]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": [
+        "Team Leadership (3-7 direct reports)",
+        "Data Strategy Development",
+        "Cross-Functional Collaboration",
+        "Stakeholder Management",
+        "Executive Communication",
+        "Change Management"
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Director, Enterprise Data position at Alimentiv. With over 10 years of experience architecting enterprise data platforms, building analytics capabilities, and driving business value from data in pharmaceutical and life sciences organizations, I am excited about the opportunity to lead Alimentiv's data architecture and business intelligence strategy.",
+    "body": [
+      "Throughout my career at Regeneron, Takeda, Gilead, and Redica Systems (supporting pharmaceutical clients including Eli Lilly and Merck), I have architected and implemented enterprise-grade data platforms that support structured and unstructured data across regulated operations. At Gilead, I designed and built a centralized data lake that served as the single source of truth for Medical Affairs, implementing scalable data pipelines supporting both real-time and batch processing while ensuring data integrity, security, and compliance with FDA regulatory standards. At Redica Systems, I architected multi-tenant data platforms in Snowflake that integrated regulatory intelligence, quality metrics, and operational data flows for multiple pharmaceutical clients. At Takeda, I designed data architectures supporting predictive analytics and real-time monitoring across manufacturing and quality operations. My experience spans Azure Databricks (deployed production ML systems for Paradigm), AWS, Snowflake, and enterprise data repositories designed for compliance with GxP and 21 CFR Part 11 requirements.",
+      "I have consistently driven measurable business value from data by moving beyond traditional dashboards to develop predictive and prescriptive analytics. At Regeneron, my automated limit calculation models reduced manual effort by 80%, feed optimization improved yields, and quality prediction models reduced batch failures. At Redica Systems, I built risk-scoring models that enabled clients to optimize resource allocation and proactively identify compliance risks. At Takeda, I deployed AI/ML models for manufacturing forecasting and quality risk detection that improved operational efficiency. I excel at collaborating with stakeholders to identify high-impact use cases where data solves real business problems\u2014at Gilead, I extended data architecture to support Commercial, Medical Affairs, Quality, and Regulatory functions; at Takeda, I mapped end-to-end operational data flows across manufacturing and quality to uncover optimization opportunities.",
+      "My leadership experience includes building and mentoring high-performing teams (managed 3-7 direct reports across roles), establishing data governance frameworks that balance agility with regulatory compliance, and communicating technical concepts effectively to executive leadership and cross-functional stakeholders. At Gilead, I managed a BI team delivering Spotfire dashboards to commercial and medical stakeholders. At Takeda, I served as Spotfire system administrator while leading digital and data science groups. I have implemented data stewardship roles, metadata management practices, and data quality standards across multiple organizations, and I have led data audits ensuring readiness for regulatory inspections. While my background is in pharmaceutical manufacturing and quality rather than CRO clinical operations, the core competencies\u2014architecting scalable data platforms, integrating data from multiple enterprise systems, implementing governance in regulated environments, deploying AI/ML in production, and driving business outcomes from data\u2014are directly applicable to Alimentiv's clinical research environment."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience architecting enterprise data platforms and driving value from data in pharmaceutical organizations can support Alimentiv's mission. Thank you for considering my application."
+  }
+}

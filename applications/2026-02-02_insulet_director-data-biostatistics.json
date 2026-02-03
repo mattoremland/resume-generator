@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "target_company": "Insulet",
+    "target_role": "Director of Data and Biostatistics",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "Clinical Affairs role focused on medical device data management and biostatistics. Strong emphasis on regulatory compliance, database design, and team leadership. Need to highlight data governance, statistical analysis, and cross-functional collaboration experience."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Data and Biostatistics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Results-driven data science leader with 10+ years of experience in regulated industries, specializing in data management strategy, statistical analysis, and regulatory compliance. Proven expertise in designing and implementing scalable data systems, establishing data governance frameworks, and leading cross-functional teams to deliver high-quality clinical and quality data. Deep background in FDA-regulated environments with demonstrated success in building centralized data platforms, managing vendor relationships, and mentoring technical teams. Recognized speaker on AI/ML applications in regulated industries with strong knowledge of 21 CFR Part 11 compliance and data integrity requirements.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Led data strategy and analytics operations for pharmaceutical clients (Eli Lilly, Merck) supporting regulatory intelligence and quality management, directly aligning with FDA compliance requirements and data integrity standards",
+        "Designed and implemented reference data architecture from scratch to harmonize multi-source client data, establishing data governance frameworks and quality assurance processes that ensure accurate, validated datasets for regulatory reporting",
+        "Built production LLM classifier (OpenAI API) that processes unstructured FDA 483 data, assigns severity levels and weighted topic categories—owned design, validation using confusion matrices, and collaborated with data engineering on deployment to ensure production accuracy",
+        "Developed risk-scoring models using Python and Snowflake to evaluate regulatory compliance trends, applying statistical methods to large datasets and delivering actionable insights to senior leadership and cross-functional stakeholders",
+        "Managed vendor relationships and internal teams to deliver analytics projects on time and within budget, establishing SOPs and best practices for data management and analytics workflows",
+        "Presented at industry conferences (CHPA, ISPE) on AI/ML applications in FDA-regulated industries and regulatory compliance trends, demonstrating expertise in communicating complex data science concepts to diverse audiences"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built production random forest model for Paradigm (building supply software) that groups quotes into projects using text and numerical features, running nightly in production—worked directly with VP of Product and data engineering teams using Databricks",
+        "Developed RAG system for Denari (tax tech startup) that advises businesses on tax filing requirements, including downloading and ingesting IRS and state tax forms as document corpus and building retrieval pipeline using HuggingFace and PyTorch",
+        "Delivered end-to-end modeling engagements across multiple industries, demonstrating versatility in applying statistical methods and machine learning techniques to solve diverse business problems"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy for Medical Affairs organization, serving as strategic advisor to senior leadership on data governance, system design, and analytics capabilities",
+        "Built centralized data lake as single source of truth, consolidating disparate data sources and establishing data standards, quality controls, and validation processes to ensure data integrity across the organization",
+        "Designed and implemented dashboards from scratch in Spotfire, managing internal team of dashboard developers and establishing best practices for data visualization and reporting",
+        "Established comprehensive data governance frameworks and wrote formal data requirements documentation aligned with regulatory standards and business needs",
+        "Managed multiple vendor relationships and internal cross-functional teams, ensuring deliverables met quality standards and timelines while maintaining budget constraints",
+        "Led hiring and performance development for technical staff, providing mentorship and establishing career development pathways for data professionals"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group plus statistical monitoring group, managing teams of 3-7 people and establishing technical roadmaps for predictive analytics in manufacturing and quality operations",
+        "Built predictive models using machine learning for manufacturing and quality decisions, applying appropriate statistical methods to evaluate process capability and product quality metrics",
+        "Served as Spotfire system administrator, overseeing database design, user access controls, and system validation in compliance with 21 CFR Part 11 requirements",
+        "Led semi-annual APQR (Annual Product Quality Review) meetings with cross-functional stakeholders, presenting statistical analyses and data-driven recommendations to senior leadership",
+        "Developed digital dashboards for real-time process and quality monitoring, implementing automated data pipelines and alert systems to enable proactive decision-making",
+        "Wrote formal data requirements and standard operating procedures for data management, statistical analysis, and system validation activities"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed predictive models for biopharmaceutical manufacturing including automated limit calculations, feed quantity optimization, and product quality prediction using ensemble methods, PLS, and PCA",
+        "Built automated data pipelines for ingestion, cleaning, and transformation of manufacturing data, ensuring data quality and integrity throughout the process lifecycle",
+        "Presented analytical findings and model recommendations to senior leadership and cross-functional stakeholders, effectively communicating complex statistical concepts to non-technical audiences",
+        "Collaborated with Quality Assurance, Manufacturing, and Process Development teams to ensure models met regulatory requirements and supported GMP operations",
+        "Promoted from Data Scientist to Senior Data Scientist over 5-year tenure, demonstrating consistent technical excellence and leadership within the organization"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted advanced research on agent-based models of biological systems including fungal lung infection, virus transmission, and cellular models, applying multi-objective optimization using genetic and evolutionary algorithms",
+        "Published 5 peer-reviewed papers plus 1 textbook chapter during postdoc, demonstrating strong scientific writing skills and ability to communicate complex analytical methods to academic audiences"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Research focused on applying advanced statistical and optimization techniques to complex biological data, directly relevant to clinical data analysis and biostatistics."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Management & Database Systems",
+      "items": ["Database Design", "Data Standards (CDISC-adjacent)", "Data Quality Assurance", "Data Governance", "ETL/ELT Pipelines", "Snowflake", "Databricks", "AWS", "Supabase"]
+    },
+    {
+      "category": "Statistical Analysis & Biostatistics",
+      "items": ["Statistical Methods", "Random Forest", "Ensemble Models", "PLS", "PCA", "Multi-Objective Optimization", "Predictive Modeling", "Confusion Matrices", "Risk Scoring Models"]
+    },
+    {
+      "category": "Programming & Analytics Tools",
+      "items": ["Python (Advanced)", "SQL", "Scikit-Learn", "Pandas", "TensorFlow", "PyTorch", "HuggingFace", "Spotfire", "Sigma"]
+    },
+    {
+      "category": "Regulatory & Compliance",
+      "items": ["FDA Regulations", "21 CFR Part 11", "GMP/GLP", "Data Integrity", "SOP Development", "Validation", "Regulatory Reporting"]
+    },
+    {
+      "category": "Leadership & Project Management",
+      "items": ["Team Management (3-7 direct reports)", "Vendor Management", "Cross-Functional Collaboration", "Strategic Planning", "Stakeholder Communication", "Hiring & Mentorship"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director of Data and Biostatistics position within your Clinical Affairs team. With over 10 years of leadership experience in data management, statistical analysis, and regulatory compliance across FDA-regulated pharmaceutical and biotech environments, I am confident I can drive data operations excellence and support your medical device clinical trials program.",
+    "body": [
+      "Throughout my career, I have built and led data management and analytics functions in highly regulated environments. At Gilead Sciences, I designed and implemented a centralized data lake that served as the single source of truth for Medical Affairs, establishing comprehensive data governance frameworks and validation processes that ensured data integrity across the organization. At Takeda, I led both digital/data science and statistical monitoring groups, developing predictive models for manufacturing and quality decisions while maintaining 21 CFR Part 11 compliance as the Spotfire system administrator. Most recently at Redica Systems, I have designed reference data architectures from scratch, built production machine learning models with rigorous validation, and established data quality assurance processes for pharmaceutical clients including Eli Lilly and Merck.",
+      "My technical expertise spans the full data lifecycle, from database design and EDC system experience to advanced statistical methods and regulatory reporting. I have extensive experience with statistical analysis including ensemble methods, PCA, PLS, and risk scoring models, and I consistently apply appropriate statistical rigor to ensure accurate analyses. My background managing cross-functional teams, vendor relationships, and CRO partnerships positions me well to oversee your clinical data systems and biostatistics operations. I have directly managed teams of 3-7 people, mentored technical staff, and collaborated effectively with Clinical Operations, Medical Affairs, Regulatory Affairs, and Quality Assurance stakeholders.",
+      "I am particularly drawn to this opportunity to apply my data strategy and statistical analysis expertise to medical device clinical trials. My proven track record of building scalable data systems, establishing best practices, and ensuring regulatory compliance - combined with my experience presenting at industry conferences on AI/ML applications in FDA-regulated industries - aligns directly with your need for a leader who can oversee data operations, support study design, and provide strategic guidance to the Clinical Affairs team."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience in data management, biostatistics, and regulatory compliance can contribute to your clinical trials program. Thank you for considering my application."
+  }
+}

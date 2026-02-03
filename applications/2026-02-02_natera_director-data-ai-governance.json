@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "target_company": "Natera",
+    "target_role": "Director of Data & AI Governance",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "Enterprise-wide data and AI governance role overseeing Data Governance Council, stewardship model, and technical governance implementation. Requires 15+ years in data/AI governance with 7+ in leadership. STRETCH: I don't have 15 years focused on governance specifically. Strengths: data governance frameworks (Gilead, Redica), AI governance (LLM classifier validation), regulatory compliance (FDA, 21 CFR Part 11, GxP), technical implementation. Healthcare regulatory frameworks (HIPAA, CLIA, FDA AI guidance) are relevant but I lack deep healthcare-specific governance experience. Technical governance (embed controls in code, pipelines) aligns well with my hands-on work."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Data & AI Governance",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data and AI governance leader with 10+ years of experience building and operationalizing governance frameworks in FDA-regulated pharmaceutical and biotech organizations. Proven expertise establishing data quality standards, implementing AI risk management, and embedding technical governance controls into data pipelines and ML systems. Strong background in regulatory compliance (HIPAA, FDA, 21 CFR Part 11, GxP) with hands-on experience translating governance policies into practical technical implementations. Skilled at leading cross-functional governance initiatives with Legal, Quality, Compliance, and IT teams while fostering cultures of responsible AI adoption. Recognized speaker on AI applications in regulated industries.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Built and operationalized AI governance framework for production LLM classifier processing FDA regulatory data\u2014developed comprehensive risk management approach including validation framework (confusion matrices), documentation of model behavior and limitations, bias testing, monitoring dashboards, and audit trails ensuring compliance with regulatory standards",
+        "Established enterprise data governance frameworks from scratch for pharmaceutical clients (Eli Lilly, Merck), defining data quality standards, metadata management, data lineage tracking, stewardship roles, and validation processes that ensure data accuracy, completeness, and compliance with FDA regulations",
+        "Translated governance policies into technical implementations by embedding data quality controls directly into ETL pipelines, implementing automated validation rules and anomaly detection in Snowflake data platform, and ensuring governance guardrails were adopted without friction",
+        "Developed data catalogs and reference data architecture that made data discoverable, trustworthy, and reusable across client organizations\u2014implemented master data management for regulatory intelligence data including site profiles, product relationships, and quality metrics",
+        "Collaborated cross-functionally with legal, compliance, quality assurance, and IT teams to integrate governance requirements into engineering delivery and operational workflows, ensuring policies were both robust and practically implementable"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Established comprehensive data governance program for Medical Affairs organization managing HCP/HCO healthcare reference data\u2014defined enterprise data management strategy, implemented data quality frameworks with validation rules and automated testing, and ensured HIPAA compliance for healthcare professional information",
+        "Built and maintained enterprise data catalog for HCP/HCO profiles, implementing metadata management, data lineage tracking, and stewardship model ensuring business units owned data while governance enforced consistency and compliance across the organization",
+        "Chaired cross-functional governance forums with stakeholders from Legal, Regulatory Affairs, Quality, IT, and Medical Affairs to drive decision-making, accountability, and consistent adoption of data governance policies and standards",
+        "Embedded data quality checks and lineage tracking directly into data pipelines supporting HCP/HCO data acquisition, cleansing, and standardization\u2014ensured governance controls were integrated into engineering workflows from data ingestion through analytics delivery",
+        "Developed and enforced vendor governance framework for third-party HCP/HCO data providers, establishing evaluation criteria for data quality, security, compliance posture, and ongoing monitoring processes"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Built and operated data governance framework for manufacturing and quality data operations, implementing policies for data quality, security, access controls, and compliance with 21 CFR Part 11 and GxP regulations in pharmaceutical manufacturing environment",
+        "Served as platform administrator for Spotfire analytics system, establishing technical governance controls including user access management, validation documentation, audit logging, data lineage tracking, and change management processes ensuring regulatory compliance",
+        "Embedded governance controls into ML model deployment pipelines for predictive manufacturing and quality models\u2014implemented model registries, version control, drift detection, performance monitoring, and explainability documentation ensuring models met regulatory and quality standards",
+        "Led cross-functional governance initiatives with Manufacturing, Quality Assurance, IT, Compliance, and Regulatory Affairs teams to ensure data and analytics capabilities aligned with enterprise policies and regulatory requirements",
+        "Developed and delivered training programs on data governance, analytics best practices, and regulatory compliance requirements to data science and manufacturing teams, driving adoption of governance standards across the organization"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Implemented AI governance practices for production ML systems on Databricks including model documentation, risk assessment, performance monitoring, and audit trails ensuring responsible AI deployment for client engagements",
+        "Built RAG system with governance guardrails for tax compliance advisory including prompt logging, output validation, and documentation of model limitations and appropriate use cases"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Implemented data governance and quality controls for biopharmaceutical manufacturing data pipelines, establishing validation rules, data lineage tracking, audit trails, and metadata management supporting GxP compliance and regulatory submissions",
+        "Developed and documented governance standards for predictive models in regulated manufacturing environment including model validation, change control, performance monitoring, and regulatory documentation ensuring models met FDA and internal quality standards",
+        "Collaborated with Quality Assurance and Regulatory Affairs teams to ensure data and analytics capabilities maintained compliance with pharmaceutical regulations and supported regulatory filings"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Governance",
+      "items": [
+        "Enterprise Data Governance Programs",
+        "Data Quality Frameworks",
+        "Metadata Management",
+        "Data Catalogs",
+        "Data Lineage & Stewardship",
+        "Master Data Management",
+        "Data Standards & Policies",
+        "Vendor Governance"
+      ]
+    },
+    {
+      "category": "AI Governance & Risk Management",
+      "items": [
+        "AI Risk Management Framework (RMF)",
+        "Model Validation & Testing",
+        "Bias/Fairness Testing",
+        "LLM/GenAI Governance",
+        "Prompt Logging",
+        "Drift Detection",
+        "Explainability",
+        "Model Registries",
+        "AI Use Case Risk Assessment"
+      ]
+    },
+    {
+      "category": "Healthcare Regulatory & Compliance",
+      "items": [
+        "HIPAA Compliance",
+        "FDA Regulations",
+        "21 CFR Part 11",
+        "GxP (GMP/GLP)",
+        "CLIA (Awareness)",
+        "GDPR (Awareness)",
+        "NIST AI RMF (Awareness)",
+        "EU AI Act (Awareness)",
+        "Healthcare Data Privacy"
+      ]
+    },
+    {
+      "category": "Technical Governance Implementation",
+      "items": [
+        "Governance in Code",
+        "ETL/ELT Pipeline Controls",
+        "CI/CD for ML Models",
+        "Automated Validation Rules",
+        "Anomaly Detection",
+        "Audit Trails",
+        "Access Controls",
+        "Change Management"
+      ]
+    },
+    {
+      "category": "Data & AI Platform Technologies",
+      "items": [
+        "Snowflake",
+        "Databricks",
+        "AWS",
+        "Python",
+        "SQL",
+        "Data Pipelines",
+        "ML Model Deployment",
+        "Feature Stores",
+        "Model Monitoring"
+      ]
+    },
+    {
+      "category": "Leadership & Stakeholder Management",
+      "items": [
+        "Cross-Functional Collaboration",
+        "Governance Council Leadership",
+        "Executive Communication",
+        "Change Management",
+        "Training & Awareness Programs",
+        "Policy Development",
+        "Federated Stewardship Models"
+      ]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director of Data & AI Governance position. With over 10 years of experience building and operationalizing data and AI governance frameworks in FDA-regulated pharmaceutical and biotech organizations, combined with hands-on expertise embedding technical governance controls into data pipelines and ML systems, I am excited about the opportunity to establish enterprise-wide governance programs that ensure safe, compliant, high-quality data and AI.",
+    "body": [
+      "Throughout my career at Regeneron, Takeda, Gilead Sciences, and Redica Systems, I have built comprehensive data governance programs and AI governance frameworks that balance robust controls with practical implementation. At Gilead, I established an enterprise data governance program for Medical Affairs managing HCP/HCO healthcare reference data\u2014I defined data management strategy, implemented data quality frameworks with automated validation and testing, built enterprise data catalogs with metadata management and lineage tracking, and ensured HIPAA compliance for healthcare professional information. I chaired cross-functional governance forums with Legal, Regulatory, Quality, IT, and Medical Affairs stakeholders, led a federated stewardship model where business units owned data while governance enforced consistency, and developed vendor governance frameworks for third-party data providers. Critically, I embedded data quality checks and lineage tracking directly into data pipelines, ensuring governance guardrails were adopted without friction in engineering delivery.",
+      "My AI governance experience includes building and operationalizing frameworks for production AI/ML systems. At Redica Systems, I developed comprehensive AI governance for a production LLM classifier processing FDA regulatory data\u2014I implemented risk management including validation frameworks using confusion matrices, documentation of model behavior and limitations, bias testing, monitoring dashboards, drift detection, and audit trails. I translated governance policies into technical implementations by embedding data quality controls into ETL pipelines in Snowflake, implementing automated validation rules and anomaly detection, and ensuring compliance with FDA regulatory standards. At Takeda, I embedded governance controls into ML model deployment pipelines for manufacturing and quality predictions, implementing model registries, version control, performance monitoring, and explainability documentation. I have hands-on experience with the technical aspects of governance\u2014building frameworks, deploying controls in code, and integrating governance into CI/CD workflows for ML systems.",
+      "My healthcare regulatory experience spans FDA regulations, 21 CFR Part 11, GxP compliance in pharmaceutical manufacturing, and HIPAA compliance for healthcare reference data at Gilead. I have presented at industry conferences (CHPA, ISPE) on AI applications in FDA-regulated industries including ethical considerations and regulatory compliance requirements. I have tracked external regulatory trends and understand emerging AI regulations including NIST AI RMF, EU AI Act, and FDA AI/ML guidance. While my governance experience has been primarily in pharmaceutical manufacturing and quality operations rather than dedicated governance leadership roles for 15 years, the core competencies\u2014building governance councils, implementing stewardship models, translating policies into technical controls, managing vendor AI risks, driving change management and training, and ensuring regulatory compliance\u2014are directly applicable. I have proven ability to lead cross-functional governance initiatives, influence executive stakeholders, and build cultures of responsible data and AI adoption. I would be excited to bring this combination of technical governance expertise, regulatory compliance experience, and hands-on implementation capability to establish enterprise-wide data and AI governance programs at your organization."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience building data and AI governance frameworks in regulated pharmaceutical environments can contribute to your governance vision. Thank you for considering my application."
+  }
+}

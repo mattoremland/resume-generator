@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "target_company": "SmarterDx",
+    "target_role": "Director of Data Science",
+    "date_applied": "2026-02-02",
+    "status": "draft",
+    "notes": "Clinical AI platform for hospital revenue optimization. Requires 10+ years data science/ML with significant people leadership, experience owning outcomes across multiple teams, NLP and healthcare data expertise, and executive stakeholder influence. Salary: $260k-$280k, Remote. MODERATE STRETCH: I meet 10+ years data science/ML, healthcare domain, production ML systems, and tech stack (Python, SQL, PyTorch, SageMaker, Snowflake). Gaps: people leadership scope (managed 3-7 vs multiple teams), limited NLP depth (one LLM project vs deep NLP expertise), pharma manufacturing vs clinical healthcare/hospital operations domain, no clinical workflows experience. Strengths: production ML deployment, healthcare data governance, regulatory compliance mindset, stakeholder management. This is healthcare but clinical/hospital setting vs my pharma R&D/manufacturing background."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Data Science",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science and machine learning leader with PhD in Mathematics and 10+ years of experience building and deploying production ML systems in healthcare and pharmaceutical organizations. Proven track record architecting ML systems from problem framing through deployment, monitoring, and iteration with end-to-end ownership. Deep expertise in machine learning fundamentals including ensemble methods, deep learning, and LLM-based systems deployed in regulated healthcare environments. Strong people leadership experience building and mentoring high-performing teams with focus on responsible AI, model quality standards, and real-world deployment. Exceptional stakeholder management and communication skills translating complex technical concepts for executive audiences and driving measurable business impact.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "2024",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Owned and evolved data science strategy for pharmaceutical clients (Eli Lilly, Merck) translating company objectives into clear, prioritized roadmap with measurable business impact—built production ML systems driving regulatory intelligence and quality optimization",
+        "Architected and deployed production LLM classifier (OpenAI API) with end-to-end ownership from problem framing and data strategy through deployment, monitoring, and iteration—system processes unstructured healthcare regulatory text in production serving multiple client use cases",
+        "Set technical direction and standards for production ML systems including validation frameworks (confusion matrices), bias testing, performance monitoring, and responsible AI practices ensuring models were appropriate for healthcare regulatory use and real-world deployment",
+        "Partnered closely with client stakeholders including executives, quality leaders, and data engineering teams to embed data science into operational workflows and decision-making—represented data science in strategic planning forums communicating tradeoffs, risks, and impact",
+        "Connected technical work to business outcomes by building risk-scoring models that enabled clients to optimize resource allocation, reduce compliance risks, and improve operational efficiency—demonstrated tangible ROI through cost savings and risk mitigation",
+        "Championed responsible and interpretable AI by implementing comprehensive documentation of model behavior, limitations, explainability approaches, and audit trails ensuring transparency and regulatory compliance in healthcare applications"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2024",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led and scaled Data Science and Analytics organization of ~5 people including analysts and dashboard developers with clear expectations, ownership, and career development—owned hiring, onboarding, and talent development building high-performing team",
+        "Owned data science and analytics strategy across Medical Affairs organization translating business objectives into prioritized roadmap balancing near-term delivery (dashboard releases, data quality improvements) with longer-term platform investments (data lake architecture, governance frameworks)",
+        "Architected enterprise data platform and ML-ready infrastructure on cloud supporting analytics and machine learning workloads—built scalable data pipelines, implemented data quality controls, and established MLOps-adjacent best practices for analytics delivery",
+        "Partnered with Product, IT, Medical Affairs leadership, and cross-functional stakeholders to embed analytics into strategic decision-making and operational workflows—influenced executive stakeholders on data strategy and capability investments",
+        "Demonstrated ability to connect technical work to business outcomes by building analytics capabilities that improved HCP/HCO engagement tracking, enabled data-driven medical strategy, and optimized resource allocation across therapeutic areas",
+        "Established model evaluation and monitoring practices for analytics systems including data quality scorecards, performance dashboards, and feedback loops ensuring reliable systems that stakeholders depended on"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led data science team driving ML model development and deployment for manufacturing and quality operations—owned strategy, prioritization, and delivery across predictive analytics, real-time monitoring, and optimization use cases",
+        "Set technical direction and standards for production ML systems including ensemble methods, PLS, and PCA deployed for quality risk detection, process optimization, and automated limit calculations—established model validation, version control, and monitoring practices",
+        "Architected ML systems with end-to-end ownership from problem framing (identifying quality risks, optimizing processes) through data strategy (pipeline design, feature engineering) to deployment (production integration) and monitoring (performance tracking, drift detection)",
+        "Deep understanding of model evaluation and real-world feedback loops—implemented continuous monitoring of model performance, established retraining triggers, and iterated based on manufacturing outcomes and quality metrics",
+        "Partnered with Manufacturing, Quality, Supply Chain, and IT leaders embedding data science into operational decision-making—represented data science in strategic forums communicating technical tradeoffs and business impact to senior stakeholders",
+        "Connected ML systems directly to business outcomes including reduced batch failures, improved yields, optimized resource allocation, and cost savings—demonstrated measurable ROI and margin impact from predictive analytics"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built and deployed production random forest model on Databricks (AWS SageMaker-adjacent) for Paradigm—owned end-to-end ML system from problem definition through production deployment with nightly predictions serving operational workflows",
+        "Architected RAG system using PyTorch and HuggingFace processing unstructured text data—implemented data pipelines, model inference, and monitoring demonstrating experience with NLP and production ML systems",
+        "Demonstrated ability to work in high-growth startup environments delivering ML systems rapidly while maintaining quality standards—partnered directly with VP of Product and engineering teams balancing speed with rigor"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed and deployed production ML systems (ensemble methods, PLS, PCA) for biopharmaceutical manufacturing with demonstrated business impact—automated limit calculations reduced manual effort by 80%, feed optimization improved yields, quality prediction reduced batch failures",
+        "Architected automated data pipelines and ML infrastructure processing large-scale manufacturing data—implemented ETL processes, feature engineering, model training workflows, and deployment pipelines establishing foundation for scalable ML operations",
+        "Deep expertise in model evaluation, monitoring, and experimentation—designed validation frameworks, conducted A/B testing on process parameters, implemented performance monitoring, and iterated models based on manufacturing outcomes and quality feedback",
+        "Exceptional communication skills translating complex ML concepts for non-technical manufacturing and quality stakeholders—presented to senior leadership, influenced strategic decisions, and drove adoption of predictive analytics across organization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Research involved machine learning algorithms, optimization methods, and computational modeling."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Production ML Systems", "Deep Learning", "NLP", "LLM/GenAI", "Ensemble Methods", "Random Forest", "PLS/PCA", "PyTorch", "TensorFlow", "Scikit-Learn", "HuggingFace", "OpenAI API"]
+    },
+    {
+      "category": "MLOps & Infrastructure",
+      "items": ["ML System Architecture", "Model Deployment", "Model Monitoring", "Performance Tracking", "Version Control", "AWS SageMaker (via Databricks)", "Cloud Infrastructure", "Data Pipelines", "Feature Engineering"]
+    },
+    {
+      "category": "Data Platforms & Tools",
+      "items": ["Python (Advanced)", "SQL", "Snowflake", "Databricks", "AWS", "Pandas", "Data Warehouses", "ETL/ELT", "Big Data Processing"]
+    },
+    {
+      "category": "Healthcare & Regulated Environments",
+      "items": ["Healthcare Data", "Pharmaceutical Operations", "Regulatory Compliance (FDA, GxP)", "Responsible AI", "Model Validation", "Audit Trails", "Explainable AI", "Data Governance"]
+    },
+    {
+      "category": "Model Development & Evaluation",
+      "items": ["Model Evaluation Frameworks", "Experimentation & A/B Testing", "Real-world Feedback Loops", "Bias Testing", "Performance Monitoring", "Drift Detection", "Validation Protocols"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Leadership & Development", "Hiring & Onboarding", "Technical Direction", "Strategy Development", "Portfolio Prioritization", "Executive Communication", "Stakeholder Management", "Cross-functional Partnership"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director of Data Science position at SmarterDx. With a PhD in Mathematics and over 10 years of experience building and deploying production machine learning systems in healthcare and pharmaceutical organizations, combined with proven people leadership and deep expertise in ML fundamentals, I am excited about the opportunity to own the direction and impact of data science across SmarterDx's Clinical AI platform.",
+    "body": [
+      "Throughout my career at Regeneron Pharmaceuticals, Takeda Pharmaceuticals, Gilead Sciences, and Redica Systems, I have owned end-to-end machine learning systems from problem framing through production deployment, monitoring, and iteration. At Redica Systems, I architected and deployed a production LLM classifier processing unstructured healthcare regulatory text—I owned the complete system from data strategy and model design through validation frameworks, bias testing, deployment, and ongoing monitoring. At Takeda, I led data science teams building production ML systems for quality risk detection and process optimization, setting technical direction and standards including model validation, version control, and performance monitoring. At Regeneron, I developed ML systems that drove measurable business impact including 80% reduction in manual effort, improved manufacturing yields, and reduced batch failures. My tech stack aligns directly with SmarterDx: Python, SQL, PyTorch (used for RAG system development), AWS SageMaker ecosystem (via Databricks), and Snowflake.",
+      "I have proven experience leading and scaling data science organizations. At Gilead, I led a team of ~5 analysts and developers—I owned hiring, onboarding, talent development, and built clear career paths and expectations. I translated Medical Affairs business objectives into a prioritized roadmap balancing near-term delivery (dashboard releases, data quality) with longer-term platform investments (data lake architecture, governance frameworks). I partnered closely with Product, IT, Medical Affairs leadership, and cross-functional stakeholders embedding analytics into strategic decision-making and operational workflows. I influenced executive stakeholders on data strategy and capability investments, representing data science in planning forums and communicating tradeoffs, risks, and impact. I have deep understanding of model evaluation, monitoring, and real-world feedback loops—I implemented continuous performance tracking, established retraining triggers, and iterated based on operational outcomes and quality metrics.",
+      "My healthcare background spans pharmaceutical and biotech organizations where I championed responsible, interpretable AI appropriate for regulated environments. I implemented comprehensive model validation, bias testing, explainability approaches, and audit trails ensuring models met regulatory standards and real-world deployment requirements in FDA-regulated settings. I have experience with NLP and unstructured text through my LLM classifier work and RAG system development using PyTorch and HuggingFace. While my healthcare experience has been in pharmaceutical manufacturing and quality operations rather than clinical workflows or hospital revenue cycle specifically, I have consistently demonstrated the ability to understand complex operational environments, partner with domain experts, and build ML systems that stakeholders depend on. I excel at connecting technical work to business outcomes—my ML systems have delivered measurable ROI through cost savings, efficiency improvements, and risk reduction. I have exceptional communication skills translating complex ML concepts for non-technical audiences including executives, quality leaders, and operational stakeholders. My strong judgment in balancing speed, rigor, and long-term scalability has enabled me to deliver production ML systems in fast-paced environments while maintaining quality standards appropriate for healthcare applications."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience building production ML systems in healthcare environments can contribute to SmarterDx's Clinical AI platform and company growth. Thank you for considering my application."
+  }
+}
