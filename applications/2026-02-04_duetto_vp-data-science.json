@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "target_company": "Duetto",
+    "target_role": "Vice President, Data Science",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "VP Data Science - hospitality revenue management SaaS, ML-powered forecasting/pricing, agentic workflows. Strong match on ML production systems, FDA-regulated environment experience translates to auditability/governance requirements."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Vice President, Data Science",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science executive with 9+ years leading ML-powered product development in highly regulated, production-grade environments. Proven track record building data science organizations, delivering business outcomes through forecasting and optimization models, and establishing rigorous ML governance frameworks. Deep expertise in causal methods, pricing optimization, and deploying production ML systems at scale. PhD in Mathematics with specialized research in optimization algorithms and computational modeling. Successfully led cross-functional teams delivering intelligence-driven products that changed operational decisions and drove measurable ROI.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead data science strategy and execution for pharma SaaS platform serving clients including Eli Lilly, Merck, and ProQuality Network; established vision for ML-powered regulatory intelligence and risk scoring",
+        "Built production LLM classifier using OpenAI API analyzing FDA enforcement data; established responsible AI framework including model validation, auditability standards, and data governance guardrails for deployment",
+        "Developed Python-based risk scoring models processing regulatory text and facility attributes in Snowflake; balanced model complexity with system performance to meet latency and cost constraints in production environment",
+        "Established rigorous analytics practice prioritizing reproducibility and decision-grade insights; created evaluation frameworks measuring business impact of model-driven recommendations on client risk mitigation strategies",
+        "Lead cross-functional collaboration with engineering and product teams to integrate ML capabilities into platform UX; influenced product roadmap priorities based on data science opportunities"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist / Founder",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered production ML systems across multiple SaaS clients; managed full model lifecycle from research to deployment including monitoring, versioning, and performance evaluation",
+        "Built random forest model for Paradigm deployed to Databricks with nightly batch processing; designed monitoring framework tracking data drift, model performance degradation, and system latency",
+        "Engineered agentic RAG system for tax compliance using HuggingFace and PyTorch; architected document ingestion pipeline, vector store, and query generation for intelligent decisioning workflow",
+        "Managed resource allocation and strategic tradeoffs between model accuracy, computational cost, and delivery timelines across concurrent client engagements"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy for Medical Affairs organization serving as strategic advisor to VP-level leadership on data-driven decision-making",
+        "Built and led team of 5+ data professionals (analysts, Spotfire developers, vendors) managing HCP/HCO analytics; established hiring standards, professional development programs, and performance management frameworks",
+        "Architected centralized data lake consolidating 5+ disparate sources with automated ETL pipelines; designed data quality validation logic, schema normalization, and governance framework ensuring auditability and lineage tracking",
+        "Established formal data governance standards including data quality metrics, access controls, and compliance requirements for healthcare reference data; ensured all analytics met regulatory and privacy standards",
+        "Delivered measurable business outcomes through analytics-driven insights reducing manual operations by 70% and enabling data-informed Medical Affairs strategy"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led data science organization spanning digital analytics and statistical monitoring groups; managed team priorities, resource allocation, and strategic roadmap balancing research initiatives with operational delivery",
+        "Built predictive ML models for manufacturing optimization using ensemble methods, PLS, and PCA; deployed production models driving real-time quality decisions with rigorous validation and monitoring frameworks",
+        "Designed experimentation framework for process optimization evaluating causal impact of manufacturing parameter changes on product quality; established statistical rigor standards for decision-grade analytics",
+        "Served as Spotfire system administrator managing platform governance, user access, and technical standards across enterprise analytics environment",
+        "Led semi-annual APQR (Annual Product Quality Review) process coordinating cross-functional stakeholders and presenting insights to senior leadership; communicated complex analytical findings to executive audiences"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built ML-powered forecasting and optimization systems for biopharmaceutical manufacturing; developed models that changed operational business decisions and production planning strategies",
+        "Engineered automated feed quantity optimization system using constrained optimization algorithms; balanced multiple competing objectives including material costs, process constraints, and quality targets",
+        "Designed predictive modeling platform for product quality forecasting using ensemble methods and PLS regression; established rigorous evaluation framework with cross-validation, holdout testing, and performance monitoring",
+        "Developed automated statistical limit calculation system processing historical batch data; implemented statistical algorithms for distribution fitting, outlier detection, and confidence interval estimation meeting regulatory compliance requirements",
+        "Built end-to-end ML pipelines including data ingestion, feature engineering, model training, validation, and deployment; established reproducibility standards and version control practices",
+        "Presented technical work and business impact to senior leadership and cross-functional stakeholders; demonstrated ROI through quantified improvements in process efficiency and quality outcomes"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted research in computational biology applying optimization algorithms and causal modeling methods to agent-based systems; published 5 peer-reviewed papers and 1 textbook chapter",
+        "Developed multi-objective optimization frameworks using genetic and evolutionary algorithms; established rigorous experimental design and reproducibility standards for computational research"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control of agent-based models in biological systems. Published 7 peer-reviewed papers applying optimization theory, causal methods, and computational algorithms to complex systems modeling."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Science Leadership & Strategy",
+      "items": ["ML Product Development", "Team Building & Management", "Data Science Roadmap", "Resource Allocation", "Cross-Functional Leadership", "Executive Communication"]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Forecasting Models", "Optimization Algorithms", "Ensemble Methods", "Causal Inference", "LLM Integration", "Agentic Systems", "RAG Architectures"]
+    },
+    {
+      "category": "ML Operations & Platform",
+      "items": ["Model Lifecycle Management", "MLOps", "Production Deployment", "Model Monitoring", "Data Quality Validation", "A/B Testing", "Experimentation Frameworks"]
+    },
+    {
+      "category": "Technical Foundations",
+      "items": ["Python", "Scikit-Learn", "TensorFlow", "PyTorch", "SQL", "Snowflake", "Databricks", "AWS", "Statistical Modeling", "PLS", "PCA"]
+    },
+    {
+      "category": "Governance & Compliance",
+      "items": ["Responsible AI", "Model Auditability", "Data Governance", "Regulatory Compliance", "Privacy Standards", "Reproducibility Frameworks"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends - analytics-driven insights for regulated industries"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - data intelligence for regulatory decision-making"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries - responsible AI frameworks"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve Quality Operations"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "Optimal control of sugarscape agent-based model via a PDE approximation model",
+      "journal": "Optimal Control Applications and Methods",
+      "year": "2016"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Vice President, Data Science role at Duetto. With 9+ years building ML-powered products in production-grade environments and leading data science organizations, I'm excited about the opportunity to drive Duetto's evolution from heuristic-based approaches to intelligent, agentic revenue optimization systems.",
+    "body": [
+      "My experience aligns directly with Duetto's transformation goals. At Redica Systems, I'm leading the data science strategy for a pharma SaaS platform, building production ML systems including an LLM classifier processing regulatory data with rigorous responsible AI frameworks. I've established model governance standards ensuring auditability, transparency, and data quality - critical capabilities for decision-grade products. At Gilead, I built and led a team of 5+ data professionals, defined enterprise analytics strategy, and delivered measurable outcomes (70% reduction in manual operations) through data-driven product development. These experiences demonstrate my ability to balance high-uncertainty ML research with pragmatic roadmap delivery.",
+      "I have deep technical expertise in the core capabilities Duetto needs: forecasting and optimization algorithms (my PhD dissertation focused on optimization and control methods), production ML lifecycle management (from my work deploying models in high-scale manufacturing environments at Regeneron and Takeda), and causal methods and experimentation (designed rigorous frameworks evaluating process interventions in regulated settings). At Regeneron, I built optimization systems that changed operational business decisions - exactly the type of intelligence-driven decisioning that powers revenue strategy. My experience operating in FDA-regulated environments translates directly to establishing the responsible AI guardrails and governance standards required for enterprise SaaS.",
+      "Beyond technical delivery, I've proven my ability to influence cross-functional partners and communicate vision to executive audiences. I've presented to senior leadership across multiple organizations, led semi-annual quality review processes coordinating stakeholders, and spoken at industry conferences (CHPA, ISPE) on AI-driven decision intelligence. I understand how to build the business case for ML investments, allocate resources strategically, and make pragmatic tradeoffs between model performance, latency, and operational costs. My experience hiring and developing technical talent, combined with my track record raising the bar for analytical rigor, positions me to build the world-class data science organization Duetto needs."
+    ],
+    "closing": "I'm energized by Duetto's ambition to redefine hospitality revenue strategy through intelligent automation. The opportunity to build an agentic revenue operating system that helps operators run better businesses resonates deeply with my passion for delivering measurable outcomes through ML innovation. I'd welcome the chance to discuss how my background leading data science organizations and delivering production ML systems can accelerate Duetto's vision. Thank you for considering my application."
+  }
+}

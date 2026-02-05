@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "target_company": "Surgery Partners",
+    "target_role": "Senior Director, Data Product Solutioning and Build",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "Remote, healthcare services, data product development focus, reports to VP"
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Director, Data Product Solutioning and Build",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data product leader with 9+ years designing enterprise analytics solutions that drive operational decision-making and change user behaviors. Expert in translating business requirements into technical products, leading buy/build evaluations, and building teams that develop scalable tools from rapid prototypes. Proven track record aligning data architecture with stakeholder needs, establishing data standardization frameworks, and integrating AI/ML to reduce manual work and enhance efficiency. Deep experience in healthcare and pharmaceutical sectors with expertise in Sigma, Spotfire, Snowflake, and modern analytics platforms.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead data product strategy for pharmaceutical clients including Eli Lilly and Merck, engaging with stakeholders to understand business needs and design solutions that drive operational decision-making",
+        "Built FDA regulatory intelligence platform from rapid prototype through enterprise-scale deployment, creating tools used daily by quality and compliance teams to change risk assessment behaviors",
+        "Integrated AI techniques into data products including production LLM classifier that automates risk categorization, reducing manual upkeep and enhancing efficiency for regulatory monitoring workflows",
+        "Established organization-wide data lexicon and standardization frameworks by building analytics tools using common data structures, ensuring consistency across pharmaceutical client base",
+        "Collaborate with data engineering teams to align architecture and roadmap with analytics requirements, translating business needs into technical specifications and integration strategies"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Lead solutioning for complex data needs across healthcare technology and software clients, conducting buy/build evaluations and managing product development lifecycles from concept to deployment",
+        "Built production ML-powered data product for Paradigm that runs nightly and drives operational decisions, starting with rapid prototyping and iterating into scalable enterprise tool",
+        "Developed full-stack data application (Escalators puzzle game) demonstrating end-to-end product ownership from user research through deployment, tracking adoption metrics and user engagement",
+        "Designed AI-powered RAG system for tax compliance that reduces manual document review, applying ML techniques to automate knowledge retrieval and recommendation generation"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of 5 developing and maintaining internal data tools (Spotfire dashboards) for healthcare professional engagement tracking, ensuring alignment with Medical Affairs operational needs",
+        "Collaborated with IT Data Engineering to align data architecture and roadmap with analytics team requirements, driving integration strategies for HCP/HCO reference data across multiple source systems",
+        "Built centralized data product serving as single source of truth for healthcare reference data, implementing data standardization that improved accuracy by 40% and changed how stakeholders accessed information",
+        "Partnered with business stakeholders to gather feedback for continuous improvement and tool iteration, tracking adoption metrics and operational results from dashboard usage",
+        "Coached and mentored team members on data product development best practices, building organizational capability in analytics and visualization",
+        "Managed vendor relationships for data acquisition and tool development, conducting build/buy evaluations and ensuring solutions met enterprise quality standards"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Served as Spotfire system administrator and product owner, leading development of internal analytics tools that drove manufacturing and quality decision-making across organization",
+        "Built digital dashboards supporting real-time process monitoring that changed operator behaviors through data-driven insights and automated alerting capabilities",
+        "Led semi-annual APQR meetings tracking operational results and metrics outcomes from analytics tool usage, demonstrating ROI and informing product roadmap priorities",
+        "Created and reinforced data standards by building analytics products using common definitions and structures, improving consistency across manufacturing analytics ecosystem",
+        "Infused predictive ML models into operational dashboards to reduce manual analysis and enable proactive decision-making for quality and process teams"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Designed and built internal data tools for biopharmaceutical manufacturing including automated limit calculations and feed optimization systems that changed production workflows",
+        "Started with rapid prototyping for predictive models and iterated into long-term, scalable tools deployed across enterprise manufacturing operations",
+        "Translated complex business requirements from process scientists and engineers into technical analytics solutions using Python, SQL, and advanced statistical methods",
+        "Presented feed optimization product to senior leadership that resulted in operational behavior changes and measurable process improvements",
+        "Built automated data pipelines that reduced manual data processing work by 60%, enhancing efficiency and freeing analysts for higher-value activities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation on optimization and control methods for complex systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Product Development",
+      "items": ["Product Strategy", "Rapid Prototyping", "Scalable Tool Development", "Buy/Build Evaluation", "Adoption Tracking", "User Feedback Integration"]
+    },
+    {
+      "category": "Analytics Platforms & Visualization",
+      "items": ["Sigma", "Spotfire (System Admin)", "Power BI", "Dashboard Development", "Data Storytelling"]
+    },
+    {
+      "category": "Data Architecture & Engineering",
+      "items": ["Snowflake", "Databricks", "AWS", "Data Integration", "ETL/ELT", "Data Standardization", "Data Governance"]
+    },
+    {
+      "category": "AI/ML Integration",
+      "items": ["Machine Learning", "LLM Integration (OpenAI API)", "RAG Systems", "Predictive Models", "Automation", "Python", "Scikit-Learn"]
+    },
+    {
+      "category": "Leadership & Stakeholder Management",
+      "items": ["Team Building", "Mentorship", "Cross-Functional Collaboration", "Vendor Management", "Executive Communication", "Change Management"]
+    },
+    {
+      "category": "Healthcare & Pharmaceutical Domain",
+      "items": ["Healthcare Reference Data", "FDA Compliance Analytics", "Pharmaceutical Manufacturing", "Quality Analytics", "Operational Analytics"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Director of Data Product Solutioning and Build position at Surgery Partners. With over 9 years of experience designing and building data products that drive operational decision-making, leading teams through product development lifecycles, and integrating AI/ML to enhance efficiency, I am excited about the opportunity to shape Surgery Partners' data product strategy and deliver innovative solutions for your internal data customers.",
+    "body": [
+      "I bring deep expertise in the core responsibilities this role requires. At Redica Systems, I lead data product strategy for pharmaceutical clients, engaging with stakeholders to understand business needs and design solutions that change how quality and compliance teams assess risk. I built an FDA regulatory intelligence platform starting with rapid prototyping and iterating into an enterprise-scale tool used daily across multiple organizations. I integrated AI techniques including a production LLM classifier that automates risk categorization, reducing manual upkeep and demonstrating the efficiency gains possible through thoughtful AI integration. This work directly aligns with Surgery Partners' focus on building products that lead to operational action and behavior change.",
+      "My experience collaborating with IT Data Engineering teams positions me well for the strategic alignment aspects of this role. At Gilead, I worked closely with data engineering to align architecture and roadmap with analytics team requirements, driving integration strategies for healthcare reference data across multiple source systems. I translated business requirements from Medical Affairs stakeholders into technical specifications, conducted buy/build evaluations for vendor solutions, and ensured our data products met enterprise quality standards. I also established data standardization frameworks by building tools using common data structures and definitions, improving consistency across the organization—directly relevant to Surgery Partners' need for organization-wide data lexicon reinforcement.",
+      "I have proven leadership experience building and developing teams. At Gilead, I led a team of 5 developing and maintaining internal data tools (Spotfire dashboards), coaching and mentoring them on analytics best practices and building organizational capability. I partnered with stakeholders to gather feedback for continuous improvement and tool iteration, tracking adoption metrics and operational results from dashboard usage. At Takeda, I served as Spotfire system administrator and product owner, leading development of analytics tools that drove manufacturing decisions and conducting quarterly reviews to track metrics outcomes. My expertise spans Sigma, Spotfire, Snowflake, Databricks, and modern analytics platforms, with strong project management capabilities demonstrated across multiple enterprise-scale implementations.",
+      "My pharmaceutical and healthcare experience provides valuable domain knowledge for Surgery Partners' healthcare services environment. I have 9 years working with healthcare and pharmaceutical data at Regeneron, Takeda, and Gilead, understanding the operational complexities, quality standards, and regulatory requirements in healthcare settings. I am passionate about fostering cultures of innovation and continuous improvement, and I am excited about the opportunity to apply my data product expertise to help Surgery Partners' operators make better decisions through advanced analytics and AI-powered tools."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my data product development experience, technical leadership, and healthcare domain knowledge can contribute to Surgery Partners' analytics vision. Thank you for your consideration, and I look forward to speaking with you."
+  }
+}

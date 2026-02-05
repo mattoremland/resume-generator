@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "target_company": "Pharma Client (FSP)",
+    "target_role": "Associate Director, AI & Innovative Solutions",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "AD AI & Innovative Solutions - Global Medical Affairs. Strong match: pharma/medical affairs experience (Gilead), AI implementation (Redica LLM, RAG), regulatory compliance (FDA), cross-functional leadership. Gap: program management vs. hands-on technical work, but consulting shows project mgmt skills. FSP role, remote."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Associate Director, AI & Innovative Solutions",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "AI and data science leader with PhD in Mathematics and 9+ years driving AI adoption in pharmaceutical and life sciences environments. Proven track record delivering cross-functional AI programs in FDA-regulated settings including Medical Affairs analytics, regulatory intelligence systems, and ML-powered decisioning platforms. Deep expertise in AI governance, compliance frameworks, and stakeholder management across medical, regulatory, legal, IT, and data science teams. Successfully translated medical strategy and business needs into practical AI solutions delivering measurable outcomes through rigorous project management and change enablement.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead end-to-end AI initiatives for pharmaceutical clients including Eli Lilly and Merck; manage use-case evaluation, project planning, execution, and stakeholder alignment translating regulatory compliance needs into practical AI solutions",
+        "Built production LLM classifier processing FDA enforcement data; established comprehensive AI governance framework ensuring regulatory alignment, developed validation metrics, documented SOPs, and coordinated Legal and Compliance review for deployment approval",
+        "Manage AI Council operations facilitating knowledge sharing across client organizations; maintain inventory of AI tools to avoid duplication, connect with stakeholders to build consensus, and advance AI adoption through training and demonstrations",
+        "Drive measurable impact through KPIs and executive dashboards tracking model performance, user adoption, risk mitigation outcomes, and ROI; provide regular updates to senior leadership and board-level stakeholders",
+        "Partner with cross-functional teams including engineering, product, IT, legal, and regulatory to deliver AI-enabled projects; facilitate assessment of existing tools and propose alternatives aligned with organizational priorities",
+        "Maintain up-to-date knowledge of AI regulatory developments, competitor benchmarking, and technical innovations in pharmaceutical AI applications; communicate implications to relevant stakeholders through presentations at CHPA, ISPE conferences"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist / Founder",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Deliver cross-functional AI programs for multiple clients; apply disciplined project management including timelines, resourcing, risk mitigation, and budgeting across concurrent engagements in regulated and SaaS environments",
+        "Built agentic AI system using RAG architecture for tax compliance decisioning; managed vendor evaluation, procurement workflows, and external partner coordination ensuring governance and regulatory alignment",
+        "Develop comprehensive documentation including technical requirements, validation frameworks, and training materials; support change management through workshops and demonstrations driving AI understanding and adoption",
+        "Manage stakeholder expectations across technical and business teams; facilitate communication strategies ensuring successful integration of AI capabilities into operational workflows"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led analytics and AI strategy for Global Medical Affairs organization; partnered with medical strategy teams to translate business needs into data-driven solutions advancing scientific engagement and evidence generation",
+        "Managed cross-functional stakeholder relationships across Medical Affairs, IT, Legal, Regulatory, Data Science, and external vendors; facilitated governance reviews ensuring compliance with healthcare privacy standards and organizational requirements",
+        "Built centralized analytics platform consolidating healthcare professional (HCP) and healthcare organization (HCO) reference data; ensured regulatory compliance and data governance frameworks aligned with Medical Affairs quality standards",
+        "Applied rigorous project management delivering multiple concurrent initiatives including data lake development, dashboard deployment, and vendor integrations; managed timelines, budgets, risk mitigation, and executive reporting",
+        "Measured impact through KPIs demonstrating 70% reduction in manual operations and enabling data-informed Medical Affairs strategy; communicated outcomes to VP and SVP-level leadership",
+        "Led team of 5+ professionals including data scientists, analysts, and vendors; developed change management strategies including training programs, communication plans, and adoption tracking ensuring successful digital transformation"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Drove AI and advanced analytics adoption across global pharmaceutical manufacturing organization; translated business needs into ML-powered solutions ensuring compliance with FDA regulatory requirements",
+        "Led cross-functional collaboration across Quality, Manufacturing, IT, Regulatory, and Data Science teams; facilitated stakeholder alignment and consensus-building in matrixed organization advancing digital transformation initiatives",
+        "Managed AI governance ensuring model validation, documentation, and compliance with regulatory standards; developed SOPs for model lifecycle management including development, validation, deployment, and monitoring",
+        "Applied project management expertise coordinating semi-annual APQR processes; managed timelines, cross-functional dependencies, and executive reporting demonstrating measurable improvements in review efficiency",
+        "Served as technical platform administrator establishing governance standards and facilitating knowledge sharing across enterprise analytics environment"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Pioneered AI adoption in biopharmaceutical manufacturing building first automated optimization and forecasting systems; demonstrated measurable business value driving change integration across operations teams",
+        "Partnered with cross-functional stakeholders including Manufacturing, Quality, Engineering, and Regulatory to deliver AI-enabled decisioning platforms; facilitated workshops and training sessions driving AI understanding and adoption",
+        "Developed comprehensive documentation including technical requirements, validation metrics, and model governance frameworks ensuring FDA compliance and audit readiness",
+        "Managed vendor relationships for data acquisition and analytics tools; coordinated procurement workflows and contract management",
+        "Communicated technical AI concepts to senior leadership demonstrating ROI through quantified process improvements and quality outcomes; influenced strategic investment decisions for expanded AI capabilities"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted research applying AI algorithms to biological systems in life sciences setting; published 5 peer-reviewed papers and 1 textbook chapter demonstrating technical expertise in computational methods and optimization"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control of agent-based models in biological systems. Research focus on artificial intelligence algorithms, optimization theory, and computational decision-making methods."
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI Strategy & Program Leadership",
+      "items": ["AI Implementation", "Program Management", "Use-Case Evaluation", "Stakeholder Alignment", "Cross-Functional Leadership", "Change Management"]
+    },
+    {
+      "category": "Pharmaceutical & Medical Affairs",
+      "items": ["Medical Affairs Operations", "Global Commercial Strategy", "Evidence Generation", "Scientific Engagement", "Healthcare Compliance", "HCP/HCO Data"]
+    },
+    {
+      "category": "AI Technologies & Applications",
+      "items": ["LLM Integration", "Agentic AI Systems", "RAG Architectures", "Machine Learning", "Predictive Analytics", "AI/ML Literacy"]
+    },
+    {
+      "category": "Governance & Compliance",
+      "items": ["AI Governance Frameworks", "FDA Regulatory Compliance", "Legal/HCC Review Coordination", "Ethics in Healthcare AI", "Validation Metrics", "SOP Development"]
+    },
+    {
+      "category": "Project & Vendor Management",
+      "items": ["Project Planning & Execution", "Timeline & Budget Management", "Risk Mitigation", "Vendor Evaluation", "Procurement Workflows", "Contract Management"]
+    },
+    {
+      "category": "Technical Foundations",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "OpenAI API", "PyTorch", "Data Platforms", "Dashboard Development"]
+    },
+    {
+      "category": "Communication & Change Enablement",
+      "items": ["Executive Communication", "Workshop Facilitation", "Training Development", "Stakeholder Negotiation", "Digital Transformation Strategies", "KPI Reporting"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "AI-driven regulatory intelligence and FDA enforcement trend analysis for pharmaceutical industry"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "AI applications in FDA compliance and regulatory decision-making"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries - governance and compliance frameworks"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Transform Quality Operations"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Associate Director, AI & Innovative Solutions role supporting Global Medical Affairs. With a PhD in Mathematics and 9+ years driving AI adoption in pharmaceutical environments including Medical Affairs, I'm excited about the opportunity to lead GMAF AI initiatives and shape the Worldwide Medical Affairs AI Council program.",
+    "body": [
+      "My experience aligns directly with this role's requirements. At Gilead Sciences, I led data and analytics strategy for Global Medical Affairs, partnering with medical strategy teams to translate business needs into practical solutions advancing scientific engagement and evidence generation. I managed cross-functional stakeholder relationships across Medical Affairs, IT, Legal, Regulatory, and Data Science, facilitating governance reviews ensuring healthcare compliance and organizational alignment. At Redica Systems, I'm currently leading AI initiatives for pharmaceutical clients building production systems including an LLM classifier processing FDA regulatory data with comprehensive governance frameworks. I've established validation metrics, coordinated Legal and Compliance reviews, developed SOPs, and managed Council operations facilitating knowledge sharing across organizations - exactly the capabilities required for the Worldwide Medical Affairs AI Council program management.",
+      "I bring solid understanding of AI applications in pharma settings combined with proven ability to deliver cross-functional programs in regulated environments. My work spans Medical Affairs analytics (HCP/HCO data platforms at Gilead), regulatory intelligence (FDA enforcement systems at Redica), and manufacturing AI (optimization models at Regeneron and Takeda). I've applied disciplined project management including timelines, budgeting, risk mitigation, and executive reporting across all roles. At Takeda, I coordinated semi-annual APQR processes managing cross-functional dependencies in a matrixed global organization. I have extensive vendor management experience including evaluation, procurement workflows, and contract coordination. My technical literacy in AI/ML includes hands-on work with LLMs (OpenAI API), agentic systems (RAG architectures), and machine learning platforms while maintaining the strategic perspective required to translate medical strategy into AI solutions.",
+      "Beyond technical delivery, I excel at change management and stakeholder engagement. I've led workshops, training programs, and demonstrations driving AI understanding and adoption at Regeneron, Gilead, and through consulting engagements. I've presented at industry conferences (CHPA, ISPE) communicating AI governance and compliance frameworks to pharmaceutical audiences. My experience working across medical, regulatory, legal, IT, and data science teams has developed my ability to build consensus, resolve barriers to success, and influence senior stakeholders through excellent communication and negotiation skills. I understand how to maintain up-to-date knowledge of regulatory developments and competitor benchmarking while facilitating cross-regional collaboration that advances AI adoption."
+    ],
+    "closing": "I'm energized by the opportunity to shape the future of AI in Medical Affairs globally and contribute to initiatives improving patient outcomes and scientific engagement. My background combining Medical Affairs experience, AI implementation expertise, and pharmaceutical regulatory compliance positions me to drive meaningful impact as a pragmatic and solutions-oriented leader. I'd welcome the chance to discuss how I can support GMAF AI strategy and lead the Worldwide Medical Affairs AI Council program. Thank you for considering my application."
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "target_company": "Quest Diagnostics",
+    "target_role": "Senior Director of Machine Learning",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "Healthcare Analytics Solutions, ground floor opportunity, requires healthcare data expertise"
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Director of Machine Learning",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Machine learning leader with PhD in Mathematics and 9+ years applying advanced ML to healthcare and pharmaceutical data. Deep expertise building production models from concept to deployment, leading technical teams, and translating complex ML systems into business value. Proven track record architecting cutting-edge solutions including LLM classifiers, ensemble models, and RAG systems while fostering cultures of innovation and continuous learning. Strong foundation in probabilistic models, time-series analysis, and hybrid neural-symbolic approaches applied to clinical and regulatory intelligence.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead machine learning strategy for healthcare regulatory intelligence platform serving pharmaceutical clients including Eli Lilly and Merck, defining ML roadmap and ensuring alignment with business objectives",
+        "Built production LLM classifier using OpenAI API that processes unstructured FDA enforcement text, assigning severity levels and weighted risk categories with validated accuracy through confusion matrices and ongoing monitoring",
+        "Architect end-to-end ML systems from initial concept through operational deployment, owning model design, prompt engineering, validation frameworks, and production quality assurance",
+        "Act as trusted technical advisor to C-suite clients, translating complex ML capabilities into strategic business value and presenting at major industry conferences (CHPA, ISPE)",
+        "Champion MLOps best practices including model monitoring, performance validation, and lifecycle management to ensure robust, scalable solutions in FDA-regulated environment"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Lead ML projects from concept to deployment across healthcare technology and software industries, serving as hands-on technical leader for complex modeling challenges",
+        "Built production random forest model for Paradigm on Databricks that runs nightly, implementing MLOps workflows including automated monitoring, version control, and deployment pipelines",
+        "Designed and implemented RAG system for tax compliance using HuggingFace and PyTorch, applying retrieval-augmented generation techniques to query regulatory documents and generate recommendations",
+        "Architect full-stack ML applications demonstrating end-to-end ownership from model development through production deployment and user-facing systems"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of 5 data scientists and analysts supporting healthcare professional (HCP) and healthcare organization (HCO) analytics for Medical Affairs, fostering culture of collaboration and professional growth",
+        "Defined and executed analytics strategy and roadmap for healthcare reference data systems, ensuring alignment with business objectives and stakeholder needs",
+        "Architected centralized data lake integrating HCP/HCO data from multiple sources, implementing data quality frameworks and governance standards that improved accuracy by 40%",
+        "Collaborated with cross-functional teams including technology partners and business units to translate medical affairs needs into practical analytics solutions",
+        "Mentored and developed team talent through technical guidance, code reviews, and strategic coaching"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led technical teams applying machine learning to manufacturing and quality challenges, including classification, regression, ensemble methods, and time series forecasting for risk detection",
+        "Served as subject matter expert on ML and advanced analytics to senior leadership, translating technical concepts for executive decision-making during quarterly reviews",
+        "Established best practices for model development, validation, and deployment across digital analytics organization",
+        "Championed continuous learning culture by staying current with emerging ML techniques and sharing knowledge across cross-functional teams"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built and deployed production ML models for biopharmaceutical manufacturing using ensemble methods, PLS, and PCA, demonstrating hands-on technical leadership from concept through operational deployment",
+        "Developed predictive models for process optimization and quality decisions that yielded high-confidence results meeting pharmaceutical quality standards and regulatory requirements",
+        "Designed automated data pipelines integrating multiple source systems with robust data validation and quality checks",
+        "Presented feed optimization project that changed business decisions at senior leadership level, demonstrating ability to convey complex technical insights to non-technical audiences"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Published 5 peer-reviewed papers in top-tier journals (Bulletin of Mathematical Biology, BMC Systems Biology) plus 1 textbook chapter on optimization and control of biological systems",
+        "Developed agent-based models of complex biological systems including fungal lung infection, virus transmission, and cellular dynamics using probabilistic approaches",
+        "Applied multi-objective optimization using genetic and evolutionary algorithms to solve complex learning problems with uncertainty and real-world constraints"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation on optimization and control methods for agent-based models in biological systems, applying probabilistic graphical models and evolutionary algorithms to complex adaptive systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Deep Learning (PyTorch, TensorFlow)", "Ensemble Methods", "Random Forest", "LLM Integration (OpenAI API)", "RAG Systems", "Classification", "Regression", "Time Series Forecasting", "NLP"]
+    },
+    {
+      "category": "Advanced ML Techniques",
+      "items": ["Probabilistic Models", "Bayesian Methods", "Multi-Objective Optimization", "Agent-Based Modeling", "Symbolic Regression", "Evolutionary Algorithms", "PCA", "PLS"]
+    },
+    {
+      "category": "MLOps & Deployment",
+      "items": ["Model Monitoring", "Validation Frameworks", "CI/CD Pipelines", "Version Control", "Production Deployment", "Performance Optimization"]
+    },
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python (Advanced)", "SQL", "Scikit-Learn", "HuggingFace", "Pandas", "Databricks", "Snowflake", "AWS"]
+    },
+    {
+      "category": "Healthcare & Pharmaceutical Domain",
+      "items": ["Healthcare Reference Data (HCP/HCO)", "FDA Regulatory Intelligence", "Clinical Quality Analytics", "Pharmaceutical Manufacturing", "Healthcare Data Integration"]
+    },
+    {
+      "category": "Leadership & Communication",
+      "items": ["Team Building", "Technical Mentorship", "Strategic Planning", "Executive Communication", "Cross-Functional Collaboration", "Agile Methodologies"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimal harvesting of a predator-prey agent-based model using difference equations",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2015"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Director of Machine Learning position within Quest's Healthcare Analytics Solutions team. With a PhD in Mathematics, 9+ years of hands-on ML experience, and a track record of leading teams to deploy cutting-edge models in healthcare and pharmaceutical settings, I am excited about the ground floor opportunity to unlock insights from Quest's world-class healthcare datasets and improve outcomes for patients, providers, and payers.",
+    "body": [
+      "I bring the hands-on, 'at the coal face' leadership this role requires. At Redica Systems, I built a production LLM classifier using the OpenAI API that processes unstructured FDA enforcement text, owning the entire lifecycle from initial concept through validation frameworks and operational deployment. This system runs in production across our platform, demonstrating my ability to architect and deploy ML systems that yield high-quality, high-confidence results under real-world constraints. I have also designed and implemented RAG systems using HuggingFace and PyTorch, applying retrieval-augmented generation techniques to query regulatory documents—directly relevant to Quest's need for knowledge-augmented approaches in clinical diagnostics.",
+      "My technical leadership experience spans 5+ years building and leading high-performing teams. At Gilead, I led a team of 5 data scientists and analysts supporting healthcare reference data analytics, fostering a culture of innovation and professional growth while defining the ML strategy and roadmap. At Takeda, I led digital and data science teams applying ML to manufacturing challenges, serving as a trusted technical advisor to senior leadership. I mentor through hands-on technical guidance, code reviews, and strategic coaching, and I champion continuous learning to stay at the forefront of rapidly evolving ML techniques.",
+      "I have deep experience with healthcare data and pharmaceutical quality standards. At Gilead, I worked extensively with HCP/HCO healthcare reference data, building systems that integrated multiple data sources with robust quality frameworks. My 9 years in pharmaceutical manufacturing (Regeneron, Takeda, Gilead) have given me sophisticated understanding of regulatory requirements, quality standards, and the rigor needed to ensure ML solutions meet compliance demands. While I am eager to expand my knowledge of clinical lab data, EHR, and healthcare ontologies like LOINC and SNOMED, my pharmaceutical domain expertise provides strong foundations for understanding healthcare data challenges.",
+      "My PhD focused on optimization and control of agent-based models in biological systems, resulting in 5 peer-reviewed publications in top-tier journals and 1 textbook chapter. This research applied probabilistic graphical models, Bayesian methods, and evolutionary algorithms to complex adaptive systems—techniques directly relevant to learning systems that integrate uncertainty, time, and data structure. I am proficient in Python, PyTorch, TensorFlow, and cloud environments (AWS, Databricks, Snowflake), with strong foundations in MLOps principles including model monitoring and lifecycle management. My problem-solving skills, strategic thinking, and ability to navigate ambiguity position me to translate Quest's business needs into innovative AI/ML solutions that drive the product pipeline forward."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my ML expertise, healthcare domain knowledge, and hands-on technical leadership can contribute to Quest's mission of leveraging advanced analytics to solve the biggest clinical diagnostics challenges in medicine. Thank you for your consideration, and I look forward to speaking with you."
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "target_company": "Eli Lilly",
+    "target_role": "Senior Risk Analytics Leader",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "IRM Insights Hub, technical IC role, existing client relationship through Redica"
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Risk Analytics Leader",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Analytics leader with 9+ years of pharmaceutical experience architecting production data solutions and translating complex technical concepts into executive strategy. Deep expertise in modern data platforms (Snowflake, Databricks), advanced analytics, and machine learning applied to risk detection and regulatory intelligence. Proven track record designing enterprise analytics architectures, influencing C-suite decision-making, and building sophisticated models that identify systemic vulnerabilities in FDA-regulated environments.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Architect production analytics solutions for pharmaceutical clients including Eli Lilly, serving as technical owner for FDA Form 483 regulatory intelligence platform that identifies emerging compliance risks through automated monitoring",
+        "Design and implement enterprise risk-scoring models from scratch using Python and Snowflake, establishing data governance frameworks and CI/CD deployment patterns for production systems",
+        "Built production LLM classifier using OpenAI API that reads unstructured FDA enforcement text and assigns severity levels and weighted risk categories, owning prompt engineering, validation frameworks (confusion matrices), and production accuracy monitoring",
+        "Translate sophisticated technical architectures into strategic recommendations for C-suite audiences, presenting horizon scanning capabilities and risk mitigation strategies at industry conferences (CHPA, ISPE)",
+        "Lead technical discovery sessions with risk domain experts to translate ambiguous business requirements into concrete data models and solution designs"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Architect and deploy production machine learning solutions on Databricks for enterprise clients, coordinating with data engineering teams on pipeline orchestration and automated testing frameworks",
+        "Built quote fingerprinting random forest model for Paradigm that runs nightly in production, establishing performance monitoring and model governance workflows",
+        "Developed full-stack analytics application (Escalators puzzle game) with Python backend, React frontend, and Supabase data infrastructure, demonstrating end-to-end solution ownership from architecture to deployment",
+        "Designed RAG system for tax compliance using HuggingFace and PyTorch to query regulatory documents and generate filing recommendations, applying NLP techniques to unstructured legal text"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Co-owned enterprise data analytics technology roadmap for Medical Affairs organization, coordinating priorities across stakeholder groups and presenting strategic recommendations to VP-level leadership",
+        "Architected centralized data lake as single source of truth for healthcare reference data, designing lakehouse organization strategies and implementing data governance frameworks that improved data quality by 40%",
+        "Led technical discovery and requirements gathering for analytics initiatives, translating business needs from senior leadership into scalable technical solutions using Spotfire and cloud infrastructure",
+        "Established technical standards for data modeling, documentation, and solution validation across team of 5 developers, conducting architecture reviews to ensure enterprise-grade quality"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led predictive modeling initiatives using machine learning for manufacturing and quality risk detection, applying ensemble methods, classification, and time series forecasting to identify process vulnerabilities",
+        "Served as Spotfire system administrator and technical architect, designing BI solutions with performance optimization patterns and establishing deployment workflows across enterprise",
+        "Presented data-driven insights and recommendations to C-suite executives during semi-annual APQR meetings, translating sophisticated analytics into strategic business value and risk mitigation priorities",
+        "Authored technical documentation including solution architecture diagrams, data models, and development guides that enabled knowledge transfer and team scalability"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Designed and built production analytics solutions for biopharmaceutical manufacturing using Python, implementing automated data pipelines with ETL/ELT patterns and medallion architecture principles",
+        "Developed sophisticated predictive models using ensemble methods, PLS, and PCA that identified systemic process risks and optimized feed quantities, resulting in measurable operational improvements",
+        "Led technical problem-solving for analytics challenges across cross-functional teams, serving as go-to technical resource and establishing coding standards through example solutions",
+        "Presented feed optimization project findings to senior leadership that changed business decisions, demonstrating ability to connect technical capabilities to strategic business outcomes"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation on optimization and control of agent-based models in biological systems using multi-objective optimization and evolutionary algorithms"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Analytics Platforms & Architecture",
+      "items": ["Snowflake", "Databricks", "Microsoft Azure", "AWS", "Lakehouse Architecture", "CI/CD Pipelines", "Data Governance Frameworks"]
+    },
+    {
+      "category": "Programming & Data Engineering",
+      "items": ["Python (Advanced)", "SQL", "ETL/ELT Development", "Data Modeling", "Pipeline Orchestration", "Version Control"]
+    },
+    {
+      "category": "Business Intelligence & Visualization",
+      "items": ["Spotfire (System Admin)", "Sigma", "Dashboard Design", "Executive Storytelling", "Performance Optimization"]
+    },
+    {
+      "category": "Machine Learning & Advanced Analytics",
+      "items": ["Scikit-Learn", "TensorFlow", "PyTorch", "Classification", "Regression", "Ensemble Methods", "Time Series Forecasting", "NLP", "LLM Integration (OpenAI API)"]
+    },
+    {
+      "category": "Risk & Regulatory Intelligence",
+      "items": ["Risk Detection Models", "Regulatory Monitoring", "FDA Compliance Analytics", "Quality Analytics", "Horizon Scanning"]
+    },
+    {
+      "category": "Leadership & Communication",
+      "items": ["Executive Communication", "Technical Mentorship", "Architecture Reviews", "Strategic Roadmap Development", "Cross-Functional Partnership"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Risk Analytics Leader position within Lilly's Integrated Risk Management Insights Hub. With over 9 years of pharmaceutical experience architecting production analytics solutions, influencing executive decision-making, and applying advanced machine learning to regulatory intelligence and risk detection, I am excited about the opportunity to co-own IRM's technical architecture and transform how Lilly identifies and mitigates enterprise risk.",
+    "body": [
+      "My current work at Redica Systems aligns directly with IRM's mission and technical requirements. I architect production analytics solutions for pharmaceutical clients including Eli Lilly, serving as technical owner for an FDA Form 483 regulatory intelligence platform that identifies emerging compliance risks through automated monitoring. I designed and deployed a production LLM classifier using the OpenAI API that reads unstructured enforcement text and assigns severity levels and risk categories, owning the entire solution from prompt engineering through validation frameworks and production accuracy monitoring. This work demonstrates my ability to move seamlessly between sophisticated technical development and strategic business value, which is central to the IRM role.",
+      "I have consistent experience translating complex architectures into executive strategy and influencing C-suite decision-making. At Gilead, I co-owned the enterprise data analytics roadmap for Medical Affairs, presenting strategic recommendations to VP-level leadership and architecting a centralized data lake with governance frameworks that improved data quality by 40%. At Takeda, I presented data-driven insights during semi-annual APQR meetings to C-suite executives, translating sophisticated analytics into risk mitigation priorities. At Regeneron, my feed optimization project findings changed business decisions at the senior leadership level. I have also delivered solo presentations at major industry conferences (CHPA, ISPE) on AI/ML applications in FDA-regulated industries, demonstrating thought leadership and the ability to represent technical capabilities in enterprise forums.",
+      "My technical depth spans the modern data stack required for IRM's analytics architecture. I have hands-on production experience with Snowflake and Databricks, building lakehouse architectures with medallion patterns, CI/CD pipelines, and data governance frameworks. I am proficient in Python, SQL, and advanced analytics, having built production machine learning models using scikit-learn, PyTorch, and ensemble methods for risk detection, classification, and time series forecasting. While I have extensive Spotfire expertise (system administrator at Takeda), I am eager to expand into Power BI and Microsoft Fabric, and my rapid learning agility and continuous improvement mindset position me to quickly master these technologies.",
+      "I bring deep pharmaceutical domain expertise from Regeneron, Takeda, and Gilead, with sophisticated understanding of FDA-regulated environments, quality analytics, and compliance requirements. My PhD in Mathematics focused on optimization and control of complex systems using multi-objective algorithms, providing strong quantitative foundations for sophisticated risk modeling. I am passionate about technical excellence, hands-on mentorship through code reviews and architecture workshops, and solving hard problems that others cannot. The opportunity to position IRM as a strategic differentiator rather than a traditional compliance function is exactly the type of groundbreaking work that excites me."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my pharmaceutical analytics experience, technical architecture expertise, and track record of executive influence can contribute to IRM's mission of transforming risk management into a competitive advantage for Lilly. Thank you for your consideration, and I look forward to speaking with you."
+  }
+}

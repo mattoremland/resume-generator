@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "target_company": "LinkedIn Contact",
+    "target_role": "Senior Machine Learning Engineer",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "LinkedIn direct message - hands-on backend/ML role, agentic solutions focus"
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Machine Learning Engineer",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Machine learning engineer with 9+ years building production ML systems and data-intensive applications across pharmaceutical manufacturing and SaaS environments. Proven track record deploying end-to-end ML pipelines, agentic AI solutions, and backend services using Python, cloud platforms, and modern ML frameworks. Strong foundation in software engineering with experience building full-stack applications, REST APIs, and scalable data architectures. PhD in Mathematics with expertise in optimization algorithms and computational modeling.",
+  "experience": [
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist / Founder",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built production random forest model for Paradigm (building supply SaaS) that groups quotes into projects using text and numerical features; deployed to Databricks for nightly batch processing with monitoring and alerting",
+        "Engineered RAG system for Denari tax tech startup using HuggingFace and PyTorch; designed document ingestion pipeline downloading IRS and state tax forms, built vector store for semantic search, and implemented query generation for tax filing recommendations",
+        "Developed full-stack daily puzzle game (Escalators) from scratch: Python backend for puzzle generation algorithms, React/Node.js/Vite/Tailwind frontend, Google OAuth integration, and Supabase for data persistence; running in production for 2+ months with competitive leaderboards",
+        "Designed and implemented end-to-end ML workflows including data preprocessing, feature engineering, model training, validation, and deployment across multiple client engagements"
+      ]
+    },
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Built production LLM classifier using OpenAI API to analyze unstructured FDA 483 inspection reports; engineered prompt templates for multi-class severity classification and weighted topic extraction; designed validation framework using confusion matrices and collaborated with data engineering on deployment",
+        "Developed Python-based risk scoring models analyzing FDA enforcement patterns across pharmaceutical facilities; designed feature engineering pipeline processing regulatory text, facility attributes, and historical violation data in Snowflake",
+        "Architected reference data harmonization system consolidating multi-source client data (Excel, databases, APIs); built custom matching algorithms and inference logic for missing values using fuzzy string matching and domain knowledge",
+        "Created reusable Python visualization library for generating client-specific analytics outputs; designed modular architecture supporting multiple chart types, branding configurations, and export formats"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Built centralized data lake consolidating healthcare professional (HCP) and healthcare organization (HCO) data from 5+ disparate sources; designed ETL pipelines, schema normalization, and data quality validation logic",
+        "Developed automated data processing workflows for HCP/HCO profile enrichment including affiliation mapping, relationship graph construction, and engagement tracking; reduced manual data operations by 70%",
+        "Implemented data governance framework with formal data lineage tracking, quality metrics, and access controls for healthcare reference data serving Medical Affairs organization"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Built predictive ML models for manufacturing process optimization using ensemble methods, PLS, and PCA; deployed models driving real-time quality decisions in production environment",
+        "Designed and implemented digital dashboards for real-time manufacturing process monitoring; integrated sensor data streams, statistical process control algorithms, and alerting logic",
+        "Engineered automated data pipelines for Annual Product Quality Review (APQR) generation; built data extraction, transformation, statistical calculation, and report generation workflows reducing review time from weeks to days"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built automated feed quantity optimization system for bioreactor manufacturing; developed optimization algorithms considering process constraints, material availability, and quality targets; system changed business decisions for production planning",
+        "Engineered predictive modeling platform for product quality prediction using ensemble methods and partial least squares regression; designed feature selection pipeline, cross-validation framework, and model performance monitoring",
+        "Developed automated statistical limit calculation system processing historical batch data; implemented outlier detection, distribution fitting, and confidence interval estimation algorithms; reduced manual calculations from weeks to hours",
+        "Built end-to-end data pipelines for manufacturing data ingestion, cleaning, feature engineering, and storage; designed data quality checks, error handling, and logging for production reliability"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control of agent-based models in biological systems. Published 7 peer-reviewed papers applying genetic algorithms and multi-objective optimization to computational biology."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming & Software Engineering",
+      "items": ["Python", "JavaScript/TypeScript", "Node.js", "React", "SQL", "REST APIs", "Git"]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Scikit-Learn", "TensorFlow", "PyTorch", "HuggingFace", "OpenAI API", "Random Forest", "Ensemble Models", "PLS", "PCA", "RAG Systems"]
+    },
+    {
+      "category": "Data Platforms & Cloud",
+      "items": ["Snowflake", "Databricks", "AWS", "Supabase", "Sigma", "ETL/ELT Pipelines"]
+    },
+    {
+      "category": "ML Operations",
+      "items": ["Model Deployment", "Pipeline Automation", "Data Quality Validation", "Production Monitoring", "A/B Testing"]
+    },
+    {
+      "category": "Specialized Domains",
+      "items": ["Agent-Based Modeling", "Optimization Algorithms", "Statistical Process Control", "FDA-Regulated Manufacturing", "Data Governance"]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm reaching out regarding your LinkedIn post about hiring machine learning engineers for a transformational project. With 9+ years building production ML systems, agentic AI solutions, and data-intensive applications, I'm excited about the opportunity to contribute hands-on technical expertise to an ambitious initiative.",
+    "body": [
+      "My background combines strong software engineering fundamentals with deep ML expertise. Recent projects demonstrate this blend: I built a production RAG system using HuggingFace and PyTorch for tax filing recommendations, deployed a random forest model to Databricks for nightly batch processing at a building supply SaaS company, and developed a production LLM classifier using the OpenAI API that processes FDA regulatory documents. I also built a full-stack puzzle game from scratch using Python, React, Node.js, and Supabase - handling everything from algorithm design to authentication to data persistence.",
+      "Throughout my career in pharmaceutical manufacturing and SaaS, I've focused on building systems that work reliably in production. At Regeneron, I built automated optimization algorithms that changed business decisions for production planning. At Gilead, I architected data lakes consolidating multiple sources with automated ETL pipelines and data quality validation. At Takeda, I deployed ML models driving real-time manufacturing quality decisions. These weren't research projects - they were production systems running 24/7 with monitoring, error handling, and performance requirements.",
+      "I'm based in Saratoga Springs, NY (3 hours from NYC) and hold US citizenship. I'm particularly drawn to transformational projects that require both technical depth and hands-on execution. My PhD in Mathematics gives me strong foundations in optimization and algorithms, while my industry experience has taught me how to ship production systems that deliver business value."
+    ],
+    "closing": "I'd welcome the opportunity to discuss how my background in building ML-driven, data-intensive systems aligns with your team's needs. I've attached my resume and look forward to learning more about the project."
+  }
+}

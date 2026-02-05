@@ -1,0 +1,188 @@
+{
+  "metadata": {
+    "target_company": "Lumen",
+    "target_role": "Senior AI Leader",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "Senior AI Leader - company-wide AI strategy and transformation. PhD required (have it). 15+ years experience (only 9 years, significant gap). Strong match on AI execution, governance, cross-functional leadership. Stretch role but worth applying given AI expertise and transformation experience."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior AI Leader",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "AI and data science executive with PhD in Mathematics and 9+ years leading enterprise AI transformation initiatives in regulated, high-stakes environments. Proven track record defining AI strategy, driving measurable business impact through ML-powered products, and establishing governance frameworks ensuring responsible AI deployment. Deep expertise in modern AI capabilities including LLMs, agentic systems, and production ML platforms. Successfully mobilized cross-functional resources across technology, product, and business teams to deliver AI solutions generating quantifiable ROI. Strong executive presence with ability to translate complex AI concepts into clear business priorities and influence senior leadership decision-making.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Define and lead AI strategy for pharma SaaS platform serving enterprise clients including Eli Lilly and Merck; partner with executive leadership to align AI roadmap with business transformation priorities and customer value creation",
+        "Drive customer-facing AI innovation building production LLM classifier that processes FDA regulatory data; ensure AI solutions are scalable, secure, and integrated with platform architecture serving thousands of users",
+        "Establish AI governance framework defining what AI work is happening, how it aligns to strategy, and how it is approved and tracked; partner with engineering and data teams on technical governance, compliance standards, and responsible AI guardrails",
+        "Own AI value realization across platform delivering measurable productivity gains and cost efficiencies; define success metrics tracking model performance, user adoption, and business impact",
+        "Influence cross-functional priorities partnering with product and engineering leaders to embed AI capabilities into customer experiences; translate AI strategy into clear technical requirements and execution roadmap",
+        "Present AI vision and progress to executive leadership and board-level stakeholders at industry conferences (CHPA, ISPE); communicate complex AI concepts as clear business opportunities"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist / Founder",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Lead AI transformation initiatives across multiple clients spanning SaaS, tax technology, and consumer products; define AI strategy balancing near-term business impact with long-term capability building",
+        "Built agentic AI system for tax compliance using RAG architecture with HuggingFace and PyTorch; architected intelligent decisioning workflow automating complex regulatory analysis and recommendations",
+        "Deploy production ML solutions in resource-constrained environments; manage vendor/platform selection and integration ensuring AI ecosystem works as integrated capability rather than siloed tools",
+        "Drive measurable business outcomes through AI including productivity improvements, cost reduction, and revenue growth; establish metrics frameworks demonstrating AI ROI to client stakeholders",
+        "Operate effectively in matrixed organizations securing commitment and prioritization from functional and technical leaders across client companies"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined enterprise data and AI strategy for Medical Affairs organization; served as trusted advisor to VP and SVP-level executives on AI investment decisions and transformation priorities",
+        "Led large-scale transformation initiative consolidating fragmented data systems into unified analytics platform; mobilized resources across IT, data engineering, product, and business teams to deliver integrated solution",
+        "Drove measurable business impact reducing manual operations by 70% through AI-enabled automation and intelligent workflows; established value realization metrics tracking productivity gains and cost efficiencies",
+        "Built and led cross-functional team of 5+ professionals including data scientists, engineers, and analysts; established AI-ready ways of working and enabled workforce transformation tied to analytics adoption",
+        "Partnered with IT, Security, and Legal on data governance and compliance frameworks ensuring responsible AI deployment in healthcare environment with strict privacy and regulatory requirements",
+        "Influenced technical priorities across engineering and platform teams ensuring alignment with analytics strategy; translated business requirements into technical execution roadmap"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led AI and advanced analytics transformation for global pharmaceutical manufacturing organization; defined roadmap balancing innovation with disciplined execution and accountability",
+        "Deployed production ML models driving real-time manufacturing decisions; established governance ensuring AI solutions met regulatory compliance standards while enabling rapid innovation",
+        "Mobilized cross-functional resources across quality, manufacturing, IT, and regulatory teams to execute AI initiatives; resolved execution bottlenecks and misalignment across matrixed organization",
+        "Owned platform strategy as Spotfire system administrator; rationalized analytics tools and ensured integrated capability across enterprise analytics ecosystem",
+        "Communicated AI vision and business value to senior leadership through semi-annual APQR presentations; demonstrated measurable impact reducing review cycles from weeks to days"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Pioneered AI and ML adoption in biopharmaceutical manufacturing building first automated optimization and forecasting systems; defined technical vision and secured executive buy-in for AI-powered decisioning",
+        "Delivered measurable business value through AI including production planning optimization that changed operational business decisions and generated quantifiable cost savings",
+        "Built scalable ML infrastructure including automated data pipelines, model deployment workflows, and monitoring systems; established technical foundations enabling enterprise AI scale",
+        "Partnered with engineering, quality, and manufacturing teams to embed AI into operational workflows; translated complex ML concepts into clear business benefits for non-technical stakeholders",
+        "Established disciplined ML governance balancing innovation velocity with regulatory compliance and quality standards; created frameworks ensuring reproducibility and auditability",
+        "Presented technical AI work to executive leadership demonstrating ROI through process efficiency improvements and quality outcome gains; influenced investment decisions for expanded AI capabilities"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted advanced AI research in computational biology applying optimization algorithms and machine learning to complex systems; published 5 peer-reviewed papers and 1 textbook chapter",
+        "Developed novel AI methodologies combining evolutionary algorithms with mechanistic modeling; established research rigor and reproducibility standards"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control of agent-based models in biological systems. Research focus on AI algorithms, optimization theory, and computational methods for complex decision-making systems. Published 7 peer-reviewed papers and 1 textbook chapter."
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI Strategy & Leadership",
+      "items": ["AI Vision & Roadmap", "Enterprise AI Transformation", "Cross-Functional Leadership", "Executive Advisory", "Value Realization", "Change Management"]
+    },
+    {
+      "category": "Modern AI Capabilities",
+      "items": ["Large Language Models (LLMs)", "Agentic AI Systems", "RAG Architectures", "OpenAI API", "Machine Learning", "Deep Learning", "Forecasting", "Optimization"]
+    },
+    {
+      "category": "AI Governance & Execution",
+      "items": ["Responsible AI Frameworks", "AI Governance", "Risk Management", "Compliance", "Program Management", "Resource Mobilization", "Vendor Management"]
+    },
+    {
+      "category": "Technical Platforms & Tools",
+      "items": ["Python", "TensorFlow", "PyTorch", "HuggingFace", "Scikit-Learn", "Snowflake", "Databricks", "AWS", "MLOps", "Data Platforms"]
+    },
+    {
+      "category": "Business & Communication",
+      "items": ["Executive Presence", "Strategic Planning", "Stakeholder Management", "Business Case Development", "Metrics & Analytics", "Public Speaking"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "AI-driven regulatory intelligence and enforcement trend analysis"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "AI applications in FDA compliance and regulatory decision-making"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Transform Business Operations"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "Optimal control of sugarscape agent-based model via a PDE approximation model",
+      "journal": "Optimal Control Applications and Methods",
+      "year": "2016"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Senior AI Leader role at Lumen. With a PhD in Mathematics and 9+ years driving enterprise AI transformation in complex, regulated environments, I'm energized by the opportunity to define and execute Lumen's company-wide AI strategy and unlock measurable business value across customer-facing products and internal transformation.",
+    "body": [
+      "My experience aligns directly with Lumen's need for both strategic vision and execution discipline. At Redica Systems, I'm defining AI strategy for a SaaS platform serving enterprise pharma clients, partnering with executive leadership to align AI roadmap with business priorities. I've driven customer-facing AI innovation building production LLM systems, established governance frameworks ensuring responsible AI deployment, and presented AI vision to board-level stakeholders at industry conferences. At Gilead, I led large-scale transformation consolidating fragmented systems into unified analytics capability, mobilizing resources across IT, engineering, product, and business teams while delivering 70% productivity improvements. These experiences demonstrate my ability to balance strategic orientation with disciplined execution across matrixed organizations.",
+      "I have deep understanding of modern AI capabilities and limitations spanning LLMs, agentic systems, machine learning platforms, and optimization algorithms. My PhD research in computational AI methods, combined with 9 years deploying production AI systems, gives me technical credibility with engineering teams and the ability to translate complex AI concepts into clear business priorities for executives. I've built agentic RAG systems using HuggingFace and PyTorch, integrated OpenAI API into production workflows with responsible AI guardrails, and deployed ML models in resource-constrained environments requiring careful vendor/platform selection. At Regeneron, I pioneered AI adoption building the first automated forecasting and optimization systems - exactly the type of transformation leadership required to drive company-wide AI excellence.",
+      "Beyond technical execution, I excel at cross-functional influence and executive partnership. I've served as trusted advisor to VP and SVP-level leaders on AI investment decisions at Gilead, mobilized resources across competing priorities at Takeda, and resolved execution bottlenecks in matrixed pharmaceutical organizations with complex governance requirements. I understand how to secure commitment from functional and technical leaders, establish clear pathways to execution including dependencies and sequencing, and drive value realization through disciplined metrics frameworks. My experience operating in FDA-regulated environments with strict compliance requirements translates directly to establishing AI governance that enables innovation without slowing execution. I've communicated AI vision to diverse audiences from senior executives to technical teams to industry conferences, demonstrating executive presence and the ability to mobilize stakeholders."
+    ],
+    "closing": "I'm inspired by Lumen's commitment to transformation through AI excellence and the opportunity to shape how AI is defined, prioritized, and scaled across the enterprise. While I recognize the role seeks 15+ years of experience, my 9 years combines deep technical AI expertise with strategic leadership, measurable business impact, and proven ability to drive transformation in complex organizations. I'd welcome the opportunity to discuss how my background can accelerate Lumen's AI vision and deliver meaningful value aligned with your North Star. Thank you for considering my application."
+  }
+}

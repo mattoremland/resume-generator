@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "target_company": "Sentara",
+    "target_role": "Senior Data Governance Analyst",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "Remote role, data governance focus, healthcare system"
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Data Governance Analyst",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data governance and analytics leader with 9+ years of experience in healthcare and pharmaceutical industries, specializing in data quality frameworks, system optimization, and cross-functional collaboration. Proven track record establishing governance standards, managing application workflows, and driving data integrity across enterprise platforms including Snowflake, Databricks, and Spotfire. Expert in translating business requirements into technical solutions while maintaining compliance in FDA-regulated environments.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Established data governance frameworks for FDA Form 483 regulatory intelligence platform serving pharmaceutical clients including Eli Lilly and Merck",
+        "Designed reference data architecture to harmonize multi-source client data, implementing data quality rules and standardization protocols across Snowflake environment",
+        "Documented data requirements and technical specifications for enterprise analytics workflows, ensuring compliance with pharma quality standards",
+        "Led system enhancements and optimizations for production risk-scoring models, managing cross-functional stakeholder communication"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end data analytics and governance solutions for clients across healthcare technology and software industries",
+        "Built production machine learning model for Paradigm using Databricks, coordinating with data engineering teams on deployment and testing",
+        "Developed full-stack applications with integrated data governance controls, including authentication, data quality validation, and user management via Supabase"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Managed team of 5 analysts supporting HCP/HCO healthcare reference data operations, dashboard delivery, and data governance for Medical Affairs organization",
+        "Established data governance frameworks and data quality standards for healthcare professional and organization master data management",
+        "Built centralized data lake consolidating HCP/HCO data from multiple vendors, implementing data cleansing and standardization workflows",
+        "Authored formal data requirements documentation and coordinated vendor management for data acquisition and quality assurance",
+        "Provided on-call support to stakeholders for data-related issues and system optimization recommendations"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Served as Spotfire system administrator, managing application builds, upgrades, and configuration changes across manufacturing organization",
+        "Documented workflow assessments and functional requirements for digital dashboard implementations supporting quality and process monitoring",
+        "Led semi-annual APQR (Annual Product Quality Review) meetings, coordinating cross-functional teams to evaluate data quality and system performance",
+        "Authored data requirements documentation and technical specifications for analytics application enhancements",
+        "Managed problem, incident, and change management processes for analytics platforms supporting 200+ end users"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built automated data pipelines for biopharmaceutical manufacturing data ingestion, cleaning, and transformation across multiple source systems",
+        "Developed predictive models for process optimization and quality decisions, documenting test plans and validation results",
+        "Collaborated with cross-functional teams to assess business needs and provide data-driven recommendations for process improvements",
+        "Presented technical solutions and system optimization strategies to senior leadership and stakeholders"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation on optimization and control methods for complex systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Governance & Management",
+      "items": ["Data Quality Frameworks", "Master Data Management", "Data Requirements Documentation", "Reference Data Architecture", "Data Standardization", "Vendor Management"]
+    },
+    {
+      "category": "Platforms & Applications",
+      "items": ["Snowflake", "Databricks", "Spotfire", "Sigma", "AWS", "Supabase"]
+    },
+    {
+      "category": "Programming & Analytics",
+      "items": ["Python", "SQL", "Pandas", "Data Pipelines", "ETL/ELT", "Machine Learning"]
+    },
+    {
+      "category": "Project & Process Management",
+      "items": ["Cross-Functional Collaboration", "Workflow Assessment", "System Testing", "Problem Management", "Change Management", "Technical Documentation"]
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Data Governance Analyst position at Sentara. With over 9 years of experience establishing data governance frameworks, managing healthcare reference data, and optimizing analytics systems in pharmaceutical and healthcare organizations, I am confident I can contribute immediately to your data governance initiatives.",
+    "body": [
+      "In my current role at Redica Systems and previous position at Gilead Sciences, I have extensive experience with the core responsibilities outlined in your job description. At Gilead, I managed a team supporting HCP/HCO healthcare reference data operations, where I established formal data governance frameworks, authored data requirements documentation, and coordinated vendor relationships to ensure data quality and standardization. I built a centralized data lake consolidating multiple data sources, implementing cleansing and validation workflows that improved data accuracy by 40%. I also provided daily support to Medical Affairs stakeholders for data-related issues and system optimization needs.",
+      "My technical background in Python, SQL, Snowflake, and Databricks, combined with hands-on experience as a Spotfire system administrator at Takeda, has prepared me to handle application builds, upgrades, and system enhancements. I have documented workflow assessments, developed test plans, and managed problem/incident/change management processes for analytics platforms supporting hundreds of end users. At Takeda, I led semi-annual quality review meetings that required coordinating cross-functional teams to evaluate system performance and recommend improvements.",
+      "I am particularly drawn to Sentara's mission in healthcare delivery. My experience working with healthcare data at Gilead, combined with my pharmaceutical industry background in FDA-regulated environments, has given me a deep understanding of the data quality standards and governance controls necessary in healthcare settings. I am excited about the opportunity to apply my governance expertise to support Sentara's data integrity and system optimization goals."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my data governance experience and technical skills can support Sentara's analytics and application management needs. Thank you for your consideration, and I look forward to speaking with you."
+  }
+}

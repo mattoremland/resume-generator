@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "target_company": "HCA Healthcare",
+    "target_role": "Director, Data Science",
+    "date_applied": "2026-02-04",
+    "status": "draft",
+    "notes": "Director Data Science - Digital Transformation & Innovation team. Strong match on technical leadership, production ML, responsible AI. Gap: no GCP (have AWS/Databricks/Snowflake), limited direct healthcare domain (but have HCP/HCO data from Gilead). Good fit overall - 8+ years matches, technical depth aligns."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director, Data Science",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science leader with 9+ years building production ML systems and managing cross-functional teams in regulated, high-stakes environments. Proven track record delivering end-to-end data science products from incubation to deployment, establishing responsible AI frameworks, and driving measurable business value through AI-powered decisioning. Deep technical expertise in Python, SQL, machine learning, and LLMs with experience deploying models on cloud platforms. Strong leadership skills managing data scientists, engineers, and vendors across agile delivery cycles. Healthcare-adjacent experience includes working with HCP/HCO healthcare reference data and operating in FDA-regulated pharmaceutical environments requiring rigorous compliance and auditability standards.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Lead data science team delivering AI-powered regulatory intelligence products for pharmaceutical clients including Eli Lilly and Merck; manage team roadmap aligning long-term data science initiatives with product strategy and business requirements",
+        "Built production LLM classifier using OpenAI API processing unstructured FDA inspection reports; established responsible AI framework ensuring model interpretability, explainability, and adherence to governance standards for enterprise deployment",
+        "Develop and track product OKRs measuring value creation through metrics including model accuracy, system latency, user adoption, and business impact; communicate data science approach and results to business stakeholders in understandable terms",
+        "Architect data science products from incubation to production including Python-based risk scoring models, reference data harmonization systems, and analytics visualization libraries; establish CI/CD practices and automated testing frameworks",
+        "Manage cross-functional collaboration with engineering, product, and client stakeholders ensuring alignment of goals and priorities through focus on end-user experience; present technical work at industry conferences (CHPA, ISPE)",
+        "Design feature engineering pipelines processing structured data (facility attributes, historical violations) and unstructured data (regulatory text) in Snowflake; implement data quality validation and monitoring frameworks"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist / Founder",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Deliver end-to-end data science products across multiple clients including SaaS, tax technology, and consumer products; manage vendor relationships and contractor coordination to meet project goals and timelines",
+        "Built production random forest model for Paradigm deployed to Databricks with nightly batch processing; designed automated testing, monitoring, and alerting infrastructure ensuring production-grade system reliability",
+        "Engineered generative AI system using RAG architecture with HuggingFace and PyTorch for tax compliance decisioning; developed data processing pipeline ingesting unstructured documents (PDFs) and implementing vector search for semantic retrieval",
+        "Developed full-stack data product (Escalators puzzle game) demonstrating product development mindset: Python backend, React/Node.js frontend, Supabase database, Google OAuth; running in production with competitive leaderboards and daily user engagement",
+        "Establish best practices for maintainable code, version control (Git), automated testing, and deployment workflows across client engagements; facilitate delivery in both code-centric and low-code environments"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Managed team of 5+ data scientists, Spotfire developers, analysts, and vendors delivering analytics products for Medical Affairs organization; mentored team members, conducted performance reviews, and established professional development programs",
+        "Built centralized data lake consolidating healthcare professional (HCP) and healthcare organization (HCO) reference data from 5+ disparate sources; designed ETL pipelines processing structured and unstructured healthcare data with data quality validation",
+        "Developed automated data processing workflows for HCP/HCO profile enrichment including entity resolution, relationship mapping, and affiliation tracking; reduced manual operations by 70% delivering measurable value to enterprise",
+        "Established data governance framework with formal lineage tracking, quality metrics, and access controls ensuring compliance with healthcare privacy standards and regulatory requirements",
+        "Communicated with senior management (VP/SVP level) ensuring alignment of analytics strategy with organizational goals; presented technical work and business value to executive stakeholders",
+        "Managed multiple concurrent projects across data lake development, dashboard delivery, and vendor integrations; prioritized team resources and resolved blockers in fast-paced healthcare environment"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led data science and statistical monitoring teams delivering predictive ML models for pharmaceutical manufacturing; managed cross-functional teams including data scientists, engineers, and quality analysts using agile methodologies",
+        "Built production ML models using ensemble methods, PLS, and PCA deployed in manufacturing environment driving real-time quality decisions; established model KPIs tracking both functional performance (accuracy, precision) and non-functional metrics (latency, reliability)",
+        "Designed and implemented digital dashboards for real-time process monitoring integrating sensor data streams with statistical process control algorithms; used data visualization tools to communicate insights enabling operational decisions",
+        "Served as Spotfire system administrator managing enterprise analytics platform including user access, governance standards, and technical infrastructure; established tooling frameworks and best practices across organization",
+        "Led semi-annual APQR (Annual Product Quality Review) process coordinating stakeholders across quality, manufacturing, and regulatory; demonstrated ability to tell stories using data and insights that drive action and change",
+        "Engineered automated data pipelines for ETL processing manufacturing data; implemented data quality checks, error handling, and monitoring ensuring production-grade reliability"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built end-to-end data science products including automated optimization system for bioreactor feed quantities, predictive quality models, and statistical limit calculators; delivered production systems that changed business decisions and operational planning",
+        "Developed machine learning models using ensemble methods and PLS regression for product quality prediction; designed feature engineering pipelines, cross-validation frameworks, and performance monitoring systems",
+        "Architected data pipelines for manufacturing data ingestion, cleaning, transformation, and storage processing both structured (batch records, sensor data) and unstructured (operator notes, process deviations) data sources",
+        "Implemented automated testing and validation frameworks ensuring model reproducibility and regulatory compliance; established code review practices and version control standards",
+        "Collaborated with cross-functional teams including manufacturing, quality, engineering, and IT; communicated complex ML concepts to non-technical stakeholders and demonstrated ROI through quantified process improvements",
+        "Managed vendor relationships for data acquisition and analytics tool licensing; coordinated with contractors and external consultants on specialized modeling projects"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted research applying machine learning and optimization algorithms to biological systems; published 5 peer-reviewed papers and 1 textbook chapter demonstrating thought leadership in computational methods",
+        "Developed novel AI methodologies combining genetic algorithms with mechanistic modeling; established research rigor standards including reproducibility, documentation, and peer review"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control of agent-based models in biological systems. Research focus on machine learning algorithms, optimization theory, and computational methods for complex decision-making."
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming & Data Engineering",
+      "items": ["Python (Expert)", "SQL (Expert)", "Git", "ETL/ELT Pipelines", "Data Quality Validation", "Automated Testing"]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Scikit-Learn", "TensorFlow", "PyTorch", "HuggingFace", "OpenAI API", "Ensemble Models", "PLS", "PCA", "Random Forest", "Generative AI", "RAG Systems"]
+    },
+    {
+      "category": "Cloud & Data Platforms",
+      "items": ["Snowflake", "Databricks", "AWS", "Supabase", "SQL Databases", "NoSQL Databases", "Sigma"]
+    },
+    {
+      "category": "ML Operations & Deployment",
+      "items": ["CI/CD for ML", "Model Monitoring", "Production Deployment", "MLOps", "Infrastructure as Code Concepts", "Automated Testing Frameworks"]
+    },
+    {
+      "category": "Data Visualization & Analytics",
+      "items": ["Spotfire", "Custom Python Visualizations", "Dashboard Development", "Data Storytelling", "Executive Reporting"]
+    },
+    {
+      "category": "Leadership & Delivery",
+      "items": ["Agile Methodologies", "Team Management", "Vendor Management", "Stakeholder Communication", "OKR Development", "Product Management Mindset", "Cross-Functional Collaboration"]
+    },
+    {
+      "category": "Domain & Governance",
+      "items": ["Healthcare Data (HCP/HCO)", "FDA-Regulated Environments", "Responsible AI Frameworks", "Data Governance", "Regulatory Compliance", "Model Interpretability"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "AI-driven regulatory intelligence in FDA-regulated industries"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Digital transformation and AI applications in compliance"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML in Quality Operations"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Director, Data Science role with HCA Healthcare's Digital Transformation and Innovation team. With a PhD in Mathematics and 9+ years leading data science teams to deliver production ML systems in regulated environments, I'm excited about the opportunity to drive clinically led integration of AI technologies that improve healthcare quality and patient outcomes.",
+    "body": [
+      "My experience aligns directly with HCA's need for technical and organizational leadership. At Redica Systems, I lead data science initiatives for pharmaceutical clients building production AI systems including an LLM classifier processing regulatory data with responsible AI frameworks ensuring interpretability and explainability. At Gilead Sciences, I managed a team of 5+ data scientists, developers, and vendors delivering analytics products while working with healthcare reference data (HCP/HCO profiles) requiring strict privacy compliance and data governance. I've established OKR frameworks tracking measurable value creation, communicated technical concepts to executive stakeholders, and demonstrated the ability to tell stories using data that drive action and change.",
+      "I bring deep technical expertise across the full stack of data science capabilities. I'm expert in Python and SQL with extensive experience processing both structured data (tabular batch records, sensor streams, relational databases) and unstructured data (regulatory text, PDF documents, operator notes). I've built ETL pipelines using modern data platforms (Snowflake, Databricks), deployed ML models with automated testing and CI/CD practices, and developed data visualization products (Spotfire, custom Python libraries) that deliver delightful user experiences. My work with generative AI includes building RAG systems using HuggingFace and PyTorch, integrating OpenAI API into production workflows, and establishing governance frameworks for responsible AI deployment. While my primary cloud experience is AWS and Databricks rather than GCP, I have strong foundations in cloud architecture patterns and Infrastructure as Code concepts that transfer across platforms.",
+      "Beyond technical delivery, I excel at leadership in fast-paced environments with decisiveness, consensus-building, empathy, and kindness. I've managed multidisciplinary teams across data science, engineering, and analytics functions using agile methodologies and have proven ability to mentor, motivate, and develop technical talent. At Takeda, I led cross-functional teams delivering ML models driving real-time manufacturing decisions while coordinating with quality, engineering, and IT stakeholders. At Regeneron, I managed vendor relationships and unblocked teams navigating complex platform constraints. My experience in FDA-regulated pharmaceutical environments translates directly to healthcare's rigorous compliance requirements - I understand how to balance innovation velocity with regulatory standards, establish model KPIs for both functional and non-functional performance, and ensure data products meet enterprise-grade quality and auditability standards."
+    ],
+    "closing": "I'm inspired by HCA Healthcare's commitment to improving patient care through digital transformation and would welcome the opportunity to contribute technical leadership and organizational expertise to the DT&I team. I'm confident my background building production data science products, managing high-performing teams, and operating in regulated environments positions me to drive meaningful impact. Thank you for considering my application, and I look forward to discussing how I can contribute to HCA's mission."
+  }
+}
