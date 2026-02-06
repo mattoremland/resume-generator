@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "target_company": "BeOne",
+    "target_role": "Senior Director, Data Insight",
+    "date_applied": "2026-02-06",
+    "status": "draft",
+    "notes": "Strong fit - AI/ML strategy, business intelligence, data governance, team leadership. Emphasize transformation experience, predictive analytics, and FDA/regulated industry data standards."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Data Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Strategic data leader with 9+ years of pharmaceutical industry experience driving business transformation through AI/ML implementation, predictive analytics, and enterprise data governance. Proven track record building high-performing teams and establishing data as the foundation for executive decision-making across manufacturing, quality, and medical affairs functions. Expert in transitioning organizations from reactive reporting to predictive intelligence systems, with deep expertise in real-time monitoring, automated anomaly detection, and regulatory compliance frameworks.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Sr. Director, Data Strategy & Analytics",
+      "start": "2025",
+      "end": "Present",
+      "location": "Remote",
+      "bullets": [
+        "Led enterprise data strategy for pharmaceutical clients (Eli Lilly, Merck) focusing on regulatory intelligence and operational risk management, directly supporting executive resource allocation decisions",
+        "Designed and deployed production LLM classification system using OpenAI API to automatically score FDA enforcement actions by severity and risk category, enabling proactive quality remediation across client portfolios",
+        "Architected multi-source data integration platform on Snowflake consolidating fragmented regulatory data into single source of truth, establishing data governance standards for FDA-regulated environments",
+        "Built automated risk-scoring models combining process data and regulatory intelligence to predict compliance vulnerabilities, transitioning clients from reactive response to predictive risk management",
+        "Developed Python visualization framework enabling standardized, reusable analytics across client base, eliminating ad-hoc spreadsheet analysis",
+        "Presented data-driven regulatory insights at CHPA and ISPE conferences, establishing thought leadership in AI applications for pharmaceutical quality"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "2023",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end ML solutions across multiple industries, building production random forest models for quote fingerprinting and project clustering on Databricks platform",
+        "Designed and implemented RAG system using HuggingFace and PyTorch to automate tax compliance recommendations by querying unstructured regulatory documents, demonstrating expertise in NLP/GenAI for document intelligence",
+        "Collaborated directly with VP-level stakeholders and data engineering teams to deploy nightly-running production models, establishing closed-loop data-to-action workflows"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "2023",
+      "end": "2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Built and led team of 5 managing enterprise healthcare reference data operations, establishing centralized data lake as single source of truth for HCP/HCO profiles across Medical Affairs organization",
+        "Defined and executed enterprise data and analytics strategy serving as strategic advisor to senior leadership on data-driven decision frameworks for medical engagement and compliance",
+        "Established comprehensive data governance frameworks including formal data requirements, quality standards, and vendor management protocols for healthcare reference data acquisition and standardization",
+        "Developed real-time Spotfire dashboards tracking HCP/HCO interactions and affiliations, enabling Medical Affairs leadership to monitor relationship patterns and optimize resource allocation",
+        "Managed cross-functional teams and external vendors to consolidate fragmented data sources, eliminating silos and implementing scalable data products"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "2021",
+      "end": "2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital transformation initiatives deploying predictive ML models for manufacturing and quality decisions, transitioning organization from hindsight analysis to foresight-driven operations",
+        "Directed semi-annual APQR (Annual Product Quality Review) process synthesizing cross-functional data into executive-level insights for product lifecycle management and regulatory compliance",
+        "Built real-time monitoring dashboards providing automated anomaly detection for process and quality metrics, establishing early warning systems for deviation management",
+        "Authored comprehensive data requirements specifications and led cross-functional teams to implement standardized data collection and reporting frameworks",
+        "Administered enterprise Spotfire platform driving adoption of reusable, governed analytics tools across manufacturing operations"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "2016",
+      "end": "2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Pioneered predictive modeling program for biopharmaceutical manufacturing using ensemble methods, PLS, and PCA to forecast product quality and optimize production efficiency",
+        "Built automated data pipelines ingesting, cleaning, and transforming manufacturing data, establishing foundation for scalable analytics and eliminating manual data preparation bottlenecks",
+        "Developed automated limit calculation system and feed quantity optimization models that reduced cycle time variability and improved manufacturing yield through data-backed process control",
+        "Presented analytics insights to senior leadership and cross-functional stakeholders, translating complex statistical models into actionable business recommendations",
+        "Advanced from Data Scientist to Senior Data Scientist based on impact delivering measurable ROI through ML-driven process improvements"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI/ML & Predictive Analytics",
+      "items": ["Production ML Deployment", "OpenAI API", "Random Forest", "Ensemble Models", "PyTorch", "HuggingFace", "NLP/GenAI", "Predictive Modeling", "Anomaly Detection"]
+    },
+    {
+      "category": "Data Strategy & Governance",
+      "items": ["Enterprise Data Architecture", "Single Source of Truth Design", "Data Quality Standards", "Regulatory Compliance", "Data Requirements Authoring", "Vendor Management"]
+    },
+    {
+      "category": "Cloud Platforms & Tools",
+      "items": ["Snowflake", "Databricks", "AWS", "Sigma", "Spotfire", "Python", "SQL", "Pandas", "Scikit-Learn"]
+    },
+    {
+      "category": "Leadership & Business Intelligence",
+      "items": ["Team Building", "Stakeholder Engagement", "Executive Reporting", "Cross-Functional Collaboration", "Change Management", "Strategic Planning"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Senior Director, Data Insight position at BeOne. With over 9 years of pharmaceutical industry experience building AI-driven analytics capabilities and leading data transformation initiatives, I am excited by the opportunity to institutionalize data as the foundation for strategic business decisions at your organization.",
+    "body": [
+      "Throughout my career, I have specialized in precisely the transformation you describe - moving organizations from reactive hindsight to predictive foresight. At Redica Systems, I led the development of an enterprise regulatory intelligence platform for pharmaceutical clients including Eli Lilly and Merck, building production LLM classification systems that automatically score FDA enforcement actions and predict compliance risks. This system exemplifies the 'data-to-action' workflow you seek: automated anomaly detection identifies regulatory vulnerabilities, triggers root cause analysis, and enables proactive remediation before issues escalate. The platform consolidates fragmented data sources into a single source of truth on Snowflake, establishing the governance standards and data quality frameworks essential for executive decision-making in FDA-regulated environments.",
+      "My track record demonstrates the strategic and technical balance this role requires. At Gilead Sciences, I built and led a team of 5 managing healthcare reference data operations, establishing enterprise data governance frameworks and consolidating siloed HCP/HCO data into a centralized lake that became the foundation for Medical Affairs analytics. I authored formal data requirements, managed vendor relationships, and served as strategic advisor to senior leadership - translating complex business questions into analytical frameworks that drove resource allocation decisions. At Takeda, I led predictive modeling initiatives that transitioned manufacturing operations from explaining 'what happened' to forecasting 'what will happen,' deploying real-time monitoring dashboards with automated anomaly detection for quality metrics. These experiences mirror your mission: replacing intuition with evidence, fragmention with system, and manual analysis with scalable AI-driven insights.",
+      "I am particularly energized by your emphasis on AI strategy and unstructured data utilization. My recent work building RAG systems using HuggingFace and PyTorch to extract insights from regulatory documents, combined with my production deployment of OpenAI-based classification models, demonstrates exactly the NLP/GenAI expertise needed to unlock value from contracts, reports, and logs. I have consistently championed the transition from ad-hoc spreadsheets to reusable, governed data products - whether developing Python visualization frameworks at Redica or administering enterprise Spotfire platforms at Takeda. I understand how to navigate ambiguity, manage organizational resistance, and build high-performing teams in complex, global environments where data culture transformation requires both technical depth and executive influence."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience leading data transformation initiatives in highly regulated industries can accelerate your vision of making data the default input for critical business decisions. Thank you for your consideration, and I look forward to exploring this opportunity further."
+  }
+}
