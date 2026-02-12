@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "target_company": "SymphonyAI",
+    "target_role": "Director of Data Science – Predictive & Agentic AI",
+    "date_applied": "2026-02-11",
+    "status": "draft",
+    "notes": "Enterprise SaaS AI platform - strong fit on predictive modeling, production ML, and leadership. Gaps: A/B testing, agentic AI frameworks, MLOps at scale. Emphasize LLM production deployment, explainability, and decision intelligence."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Data Science – Predictive & Agentic AI",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "AI/ML leader with 10+ years delivering production machine learning systems and predictive analytics solutions that drive measurable business impact in enterprise environments. Deep technical expertise spanning predictive modeling, LLM-powered classification systems, and decision intelligence frameworks, combined with proven ability to lead cross-functional data science teams and translate complex AI capabilities into stakeholder value. Track record deploying production ML systems (random forest, ensemble models, LLM classifiers) with rigorous validation frameworks, explainability requirements, and human-in-the-loop workflows. Thought leader presenting AI strategy at industry conferences while maintaining hands-on technical involvement in model development, evaluation, and deployment.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Owned design and deployment of production LLM classifier using OpenAI API that processes unstructured FDA regulatory text, assigns multi-class severity scores (low/medium/high/critical), and generates weighted topic categorizations across quality domains - serving as statistical foundation for downstream risk intelligence workflows",
+        "Established comprehensive validation framework including confusion matrices, cross-validation protocols, and performance monitoring to ensure model consistency, stability, and reproducibility across production deployment",
+        "Built explainable AI system with clear decision rationale and confidence scoring, enabling regulatory experts to understand model predictions and maintain human-in-the-loop review for high-stakes compliance decisions",
+        "Developed predictive risk-scoring models from scratch combining statistical methods with domain expertise, translating probabilistic outputs into actionable regulatory intelligence for pharmaceutical quality leaders",
+        "Led technical presentations at CHPA and ISPE conferences as solo presenter, establishing thought leadership on AI applications in FDA-regulated industries and influencing executive stakeholders on AI strategy"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Designed and deployed production random forest model for quote fingerprinting in Databricks, implementing nightly batch scoring pipeline that groups quotes into projects using hybrid text and numerical features - delivered measurable business impact through improved sales pipeline visibility",
+        "Built RAG system for tax compliance decision intelligence, implementing document retrieval architecture using HuggingFace transformers and PyTorch to generate filing recommendations grounded in trusted IRS and state tax regulation corpus",
+        "Developed full-stack AI application (Escalators puzzle game) integrating real-time analytics, user behavior modeling, and competitive leaderboard algorithms, demonstrating end-to-end product development from ML backend to production deployment"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of 5 data scientists and analytics engineers, fostering experimentation culture while establishing model governance frameworks and best practices for reproducible analytics",
+        "Defined enterprise AI and analytics strategy as advisor to senior Medical Affairs leadership, translating complex analytical capabilities into measurable business outcomes for HCP engagement optimization",
+        "Established data quality and model monitoring frameworks for healthcare professional (HCP) analytics platform, ensuring reliable outputs and clear signaling of data completeness and confidence levels",
+        "Partnered closely with product management and engineering teams to deliver scalable analytics solutions, balancing innovation with operational excellence and regulatory compliance requirements"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led data science and statistical monitoring teams, mentoring scientists and engineers while driving adoption of ML-powered decision intelligence for manufacturing quality control",
+        "Developed predictive models for anomaly detection and process optimization, establishing validation frameworks that ensured model outputs aligned with expert manufacturing engineer intuition and domain knowledge",
+        "Built real-time monitoring dashboards that translated statistical outputs into clear, actionable recommendations for quality decision-makers, enabling human-in-the-loop workflows for critical manufacturing interventions",
+        "Established success metrics tied directly to business outcomes including reduced out-of-specification events, improved yield predictions, and accelerated investigation cycle times"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed and deployed suite of predictive models for biopharmaceutical manufacturing including feed quantity optimization, product quality forecasting, and automated limit calculations using ensemble methods, PLS, and PCA",
+        "Established rigorous offline validation protocols including cross-validation, holdout testing, and performance monitoring to ensure model consistency and reliability in production manufacturing environment",
+        "Built explainable modeling framework with feature attribution and confidence intervals, enabling process engineers to understand predictions and maintain oversight of automated recommendations",
+        "Presented complex ML capabilities to senior leadership and cross-functional stakeholders, translating statistical methods into business impact narratives and influencing strategic manufacturing decisions",
+        "Created automated data pipelines for model training and scoring, implementing reproducibility standards and version control that became foundation for organizational MLOps practices"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted applied research in agent-based modeling and multi-objective optimization using genetic and evolutionary algorithms, developing novel approaches to complex system simulation and decision optimization",
+        "Published 5 peer-reviewed papers in computational biology and optimization journals, establishing foundation in causal modeling, simulation-based inference, and algorithmic decision-making that informs current AI work"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation on optimization and control of agent-based models - foundational work in multi-objective optimization, algorithmic decision-making, and complex system modeling"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Machine Learning & AI",
+      "items": ["LLM Integration (OpenAI API)", "Random Forest", "Ensemble Models", "Transformers", "PyTorch", "HuggingFace", "Scikit-Learn", "Production ML Systems"]
+    },
+    {
+      "category": "Predictive & Decision Intelligence",
+      "items": ["Forecasting", "Anomaly Detection", "Optimization", "Propensity Modeling", "Risk Scoring", "PLS", "PCA", "Causal Modeling"]
+    },
+    {
+      "category": "AI Frameworks & Platforms",
+      "items": ["Databricks", "Snowflake", "Python", "RAG Systems", "Model Validation", "Feature Engineering", "Statistical Methods"]
+    },
+    {
+      "category": "MLOps & Governance",
+      "items": ["Model Monitoring", "Explainability (SHAP, Feature Attribution)", "Reproducibility", "Version Control", "Automated Pipelines", "Confidence Scoring"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management", "AI Strategy", "Stakeholder Engagement", "Executive Communication", "Thought Leadership", "Cross-functional Collaboration"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "Process Sciences Consortium, Regeneron Pharmaceuticals",
+      "year": "2020",
+      "type": "solo",
+      "description": "Automated Calculation of Production Bioreactor Primary Feed Quantities"
+    },
+    {
+      "event": "Process Sciences Consortium, Regeneron Pharmaceuticals",
+      "year": "2019",
+      "type": "solo",
+      "description": "Aperture Predictive Modeling Program"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Director of Data Science – Predictive & Agentic AI position at SymphonyAI. With over a decade delivering production ML systems and leading data science teams in enterprise environments, I'm excited by the opportunity to drive AI innovation that delivers measurable business outcomes across your SaaS platform portfolio.",
+    "body": [
+      "My experience spans the full spectrum of capabilities this role requires - from predictive modeling foundations to cutting-edge LLM deployment. At Redica Systems, I owned design and deployment of a production LLM classifier processing unstructured FDA text, implementing rigorous validation frameworks (confusion matrices, cross-validation) to ensure model consistency and reliability. This system serves as the statistical foundation for downstream risk intelligence workflows, grounded in trusted regulatory data. The project required deep attention to explainability and human-in-the-loop design - regulatory experts needed clear decision rationale and confidence scoring to trust AI recommendations for high-stakes compliance decisions. I've also deployed production random forest models in Databricks for sales intelligence and built RAG systems using HuggingFace transformers, giving me hands-on experience with both deterministic and generative AI approaches.",
+      "Throughout my career at Regeneron, Takeda, and Gilead, I've specialized in translating complex AI capabilities into business value for expert decision-makers. At Regeneron, I built predictive models for manufacturing quality that required outputs aligning with experienced process engineers' intuition - I learned to balance algorithmic rigor with domain expertise through extensive stakeholder collaboration. At Takeda, I established success metrics tied directly to business outcomes: reduced out-of-specification events, improved yield predictions, faster investigation cycles. This experience taught me that enterprise AI succeeds when it augments rather than replaces human judgment, which resonates deeply with SymphonyAI's philosophy of enhancing decision-making through trusted, explainable AI.",
+      "As a leader, I've managed teams of 3-7 data scientists and engineers, fostering experimentation while establishing governance frameworks for reproducible, production-grade ML. At Gilead, I mentored my team through platform migrations and model deployments while defining enterprise analytics strategy as advisor to senior Medical Affairs leadership. I've presented technical AI work at industry conferences (CHPA, ISPE) as solo presenter, demonstrating the communication skills needed to influence both technical and executive stakeholders. I'm passionate about building inclusive teams and creating environments where scientists can experiment, learn continuously, and deliver work they're proud of. My PhD in mathematical optimization and published research in algorithmic decision-making provide the theoretical foundation to engage credibly with emerging trends in foundation models, agentic systems, and AI orchestration."
+    ],
+    "closing": "I'd welcome the opportunity to discuss how my experience deploying production AI systems, leading data science teams, and translating ML innovation into enterprise value can contribute to SymphonyAI's mission. Thank you for considering my application."
+  }
+}

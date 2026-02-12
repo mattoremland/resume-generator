@@ -1,4 +1,4 @@
-# Matt Oremland â€” Skills & Experience Reference
+# Matt Oremland Skills & Experience Reference
 
 This file is the single source of truth for resume content generation. Add new experience, projects, and skills here as they come up. The resume generator reads from application JSON files, but this doc is where we gather and organize the raw material before tailoring it per role.
 
@@ -6,9 +6,9 @@ This file is the single source of truth for resume content generation. Add new e
 
 ## Education
 
-- **PhD, Mathematics** â€” Virginia Polytechnic Institute & State University (2014)
+- **PhD, Mathematics** Virginia Polytechnic Institute & State University (2014)
   - Dissertation: optimization and control methods for agent-based models in biological systems
-- **Postdoctoral Research Fellow** â€” Mathematical Biosciences Institute, Columbus OH (2014â€“2016)
+- **Postdoctoral Research Fellow** Mathematical Biosciences Institute, Columbus OH (2014 - 2016)
   - Agent-based models of biological systems: fungal lung infection, virus transmission in cattle, cellular models
   - Multi-objective optimization using genetic and evolutionary algorithms
   - 5 peer-reviewed papers + 1 textbook chapter during postdoc
@@ -17,11 +17,11 @@ This file is the single source of truth for resume content generation. Add new e
 
 ## Work History
 
-### Redica Systems (2025â€“Present)
-**Director, Data Strategy & Analytics** | Remote
+### Redica Systems (April 2025 - Feb 2026)
+**Senior Director, Data Strategy & Analytics** | Remote
 
 - Pharma clients: Eli Lilly, Merck, ProQuality Network
-- FDA Form 483 data platform â€” risk scoring, regulatory intelligence
+- FDA Form 483 data platform - risk scoring, regulatory intelligence
 - **LLM Classifier (OpenAI API):** Built a production model that reads unstructured FDA 483 text and assigns severity levels (low/medium/high/critical) and weighted topic categories (e.g., Quality Unit, Documentation). Owned design, prompt engineering, and validation (confusion matrices). Handed deployment to data engineering but collaborated on validation to ensure production accuracy. Model runs in production across the entire platform.
 - Built risk-scoring models from scratch using Python and Snowflake
 - Designed reference data architecture to harmonize multi-source client data (messy Excel matching, inferring missing values, custom join columns)
@@ -29,16 +29,16 @@ This file is the single source of truth for resume content generation. Add new e
 - Client-facing: presentations at CHPA (solo panel), ISPE (co-presented with consultant), authored content for PDA Korea
 - Conference presentations: CHPA Quality & Manufacturing Meeting, CHPA Regulatory/Scientific/Quality Conference, ISPE Annual Meeting, Redica webinar, PDA Korea
 
-### Tidal Wave Analytics LLC (2023â€“Present)
+### Tidal Wave Analytics LLC (Jan 2025 - Present)
 **Consulting Data Scientist / Founder** | Saratoga Springs, NY
 
 - **Paradigm (building supply software):** Quote fingerprinting random forest model. Groups quotes into projects using text and numerical features. Production model, runs nightly. Worked directly with client stakeholders including VP of Product and data engineering teams. Used Databricks extensively.
 - **Denari (tax tech startup):** Consulted for ~2 months on a RAG system that advises businesses on tax filing requirements. Downloaded and ingested IRS and state tax forms from public sources as the document corpus. Built the RAG pipeline in Python using HuggingFace and PyTorch to query documents and generate filing recommendations. System was still in development when engagement ended.
-- **Tidal Wave Games (own venture):** Built a daily puzzle game called Escalators entirely from scratch â€” a crossword-style puzzle with daily user-facing puzzles and competitive leaderboards. Full-stack solo project: Python for puzzle generation, React/Node.js/Vite/Tailwind for frontend, Google OAuth for authentication, Supabase for backend data management. Has been running daily for ~2 months. Plans to expand into additional puzzle games and scale audience.
+- **Tidal Wave Games (own venture):** Built a daily puzzle game called Escalators entirely from scratch - a crossword-style puzzle with daily user-facing puzzles and competitive leaderboards. Full-stack solo project: Python for puzzle generation, React/Node.js/Vite/Tailwind for frontend, Google OAuth for authentication, Supabase for backend data management. Has been running daily for ~2 months. Plans to expand into additional puzzle games and scale audience.
 - Delivered end-to-end modeling engagements across multiple industries
 
-### Gilead Sciences (2023â€“2024)
-**Director, Data & Analytics (Medical Affairs)** | Foster City, CA
+### Gilead Sciences (Jan 2023 - March 2025)
+**Director, Insights, Data & Analytics (Medical Affairs)** | Foster City, CA
 
 - **HCP/HCO Healthcare Reference Data:** Primary dataset was healthcare professional (HCP) and healthcare organization (HCO) profiles. Built Spotfire dashboards to track HCP/HCO interactions, affiliations, engagements, and relationships for Medical Affairs organization.
 - Led team of ~5 people (Spotfire dashboard developers and analysts) managing HCP/HCO data operations, dashboard delivery, and analytics
@@ -48,7 +48,7 @@ This file is the single source of truth for resume content generation. Add new e
 - Managed vendors and internal teams for data acquisition, cleansing, and standardization of HCP/HCO profiles
 - Authored content presented at PDA Korea by Gilead colleagues
 
-### Takeda Pharmaceuticals (2021â€“2022)
+### Takeda Pharmaceuticals (May 2021 - December 2022)
 **Associate Director, Digital & Data Science** | Lexington, MA
 
 - Led digital and data science group + statistical monitoring group
@@ -58,7 +58,7 @@ This file is the single source of truth for resume content generation. Add new e
 - Built digital dashboards for real-time process/quality monitoring
 - Wrote data requirements; cross-functional team leadership
 
-### Regeneron Pharmaceuticals (2016â€“2021)
+### Regeneron Pharmaceuticals (May 2016 - May 2021)
 **Senior Process Data Scientist** | Rensselaer, NY
 
 - Predictive modeling for biopharmaceutical manufacturing: automated limit calculations, feed quantity optimization, product quality prediction
@@ -72,7 +72,7 @@ This file is the single source of truth for resume content generation. Add new e
 
 ## Leadership
 
-- Managed teams of 3â€“7 people (mix of full-time and contractors)
+- Managed teams of 3 - 7 people (mix of full-time and contractors)
 - Takeda: led digital/data science group + statistical monitoring group; led APQR meetings
 - Gilead: managed Spotfire dashboard team; hiring and performance development
 - Hiring and mentoring experience across multiple roles
@@ -109,15 +109,15 @@ Random Forest, PLS, PCA, Ensemble Models, LLM Classification (OpenAI), Agent-Bas
 
 ## Publications
 
-1. "Optimization and control of agent-based models in biology: a perspective" â€” Bulletin of Mathematical Biology (2017)
-2. "Optimal control of sugarscape agent-based model via a PDE approximation model" â€” Optimal Control Applications and Methods (2016)
-3. "A computational model of invasive aspergillosis in the lung and the role of iron" â€” BMC Systems Biology (2016)
-4. "Optimal harvesting of a predator-prey agent-based model using difference equations" â€” Bulletin of Mathematical Biology (2015)
-5. "Optimization of agent-based models: scaling methods and heuristic algorithms" â€” Journal of Artificial Societies and Social Simulation (2014)
-6. "Using difference equations to find optimal tax structures on the SugarScape" â€” Journal of Economic Interaction and Coordination (2014)
-7. "Agent-based models and optimal control in biology: a discrete approach" â€” Mathematical Concepts and Methods in Modern Biology, Elsevier (2013) â€” *Textbook chapter*
+1. "Optimization and control of agent-based models in biology: a perspective"  - Bulletin of Mathematical Biology (2017)
+2. "Optimal control of sugarscape agent-based model via a PDE approximation model" - Optimal Control Applications and Methods (2016)
+3. "A computational model of invasive aspergillosis in the lung and the role of iron" - BMC Systems Biology (2016)
+4. "Optimal harvesting of a predator-prey agent-based model using difference equations" - Bulletin of Mathematical Biology (2015)
+5. "Optimization of agent-based models: scaling methods and heuristic algorithms" - Journal of Artificial Societies and Social Simulation (2014)
+6. "Using difference equations to find optimal tax structures on the SugarScape" - Journal of Economic Interaction and Coordination (2014)
+7. "Agent-based models and optimal control in biology: a discrete approach" - Mathematical Concepts and Methods in Modern Biology, Elsevier (2013) *Textbook chapter*
 
 ---
 
-## Pending â€” To Add
+## Pending - To Add
 - (none)

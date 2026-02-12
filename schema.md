@@ -53,7 +53,7 @@ Contact info and the target title displayed at the top of the resume.
 }
 ```
 
-- `target_title` — changes per application. This is what appears below your name.
+- `target_title` — changes per application. This is what appears below your name. It should NOT match the job description exactly, but it should be similar to it.
 
 ---
 
@@ -76,9 +76,9 @@ Ordered list of roles. The generator renders them in the order they appear here,
 [
   {
     "company": "Redica Systems",
-    "title": "Director, Data Strategy & Analytics",
-    "start": "2024",
-    "end": "Present",
+    "title": "Senior Director, Data Strategy & Analytics",
+    "start": "April 2025",
+    "end": "February 2026",
     "location": "Remote",
     "bullets": [
       "Designed and operationalized scalable data models...",
@@ -91,7 +91,7 @@ Ordered list of roles. The generator renders them in the order they appear here,
 
 - `end` — use `"Present"` for current roles. For the consulting LLC, use the actual end date or `"Present"` if still active.
 - `bullets` — list of strings. Each one is a single bullet point on the resume. Write them in past tense (or present for current role). Lead with strong action verbs.
-- The consulting LLC entry goes here too — just use the company name as `"Matt Oremland, LLC"` or similar, with title `"Consulting Data Scientist"`.
+- The consulting LLC entry goes here too — just use the company name as `"Tidal Wave Analytics"` or similar, with title `"Consulting Data Scientist"`.
 - Postdoc can be included or omitted depending on the role. If included, use company `"Mathematical Biosciences Institute"` and title `"Postdoctoral Research Fellow"`.
 
 ---

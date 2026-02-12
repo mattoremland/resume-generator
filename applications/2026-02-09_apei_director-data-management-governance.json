@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "target_company": "American Public Education Inc",
+    "target_role": "Director, Data Management & Governance",
+    "date_applied": "2026-02-09",
+    "status": "draft",
+    "notes": "Stretch application - strong platform/leadership fit but gaps in MDM/catalog/governance frameworks"
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Data Governance and Analytics Leadership",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Strategic data leader with 10+ years driving enterprise data initiatives across pharmaceutical and consulting environments. Proven expertise building scalable data platforms on Snowflake, establishing data governance frameworks, and leading cross-functional teams to deliver measurable business outcomes. Deep experience in regulatory compliance, data quality improvement, and modernizing data practices to enable self-service analytics and AI/ML capabilities.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Designed and executed enterprise data governance strategy for multi-client pharmaceutical regulatory intelligence platform, establishing data ownership models and quality frameworks across Eli Lilly, Merck, and ProQuality Network engagements",
+        "Built reference data architecture on Snowflake to harmonize multi-source client data, developing automated data quality validation processes that identified and resolved inconsistencies across heterogeneous datasets",
+        "Led cross-functional initiatives to operationalize data policies, implementing role-based access controls and audit logging for FDA-regulated data to ensure compliance with pharmaceutical quality standards",
+        "Established metadata standards and data lineage practices for regulatory intelligence datasets, enabling self-service analytics while maintaining data integrity and traceability for audit purposes",
+        "Mentored data engineering teams on governance best practices and owned vendor management for data platform tools and services"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end data management solutions on Databricks and Snowflake platforms for clients across building supply and tax technology sectors, implementing data quality frameworks and pipeline observability",
+        "Architected and deployed production ML pipelines with embedded data lineage tracking, quality monitoring, and automated validation checkpoints to ensure model reliability and governance compliance",
+        "Partnered directly with VP-level stakeholders and data product owners to translate business requirements into scalable data architecture, managing capacity planning and cross-functional delivery",
+        "Implemented data governance practices for sensitive tax filing data, establishing access controls, masking strategies, and compliance frameworks for regulatory data handling"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data strategy for Medical Affairs organization, establishing governance frameworks and data ownership models for healthcare professional (HCP) and healthcare organization (HCO) reference data",
+        "Built centralized data lake as single source of truth, consolidating HCP/HCO data from multiple vendors and internal systems while implementing data quality validation, standardization, and master data management practices",
+        "Led team of 5 data professionals managing data operations, dashboard delivery, and analytics, developing succession plans and building talent across Spotfire development and data stewardship functions",
+        "Established formal data requirements and governance policies for healthcare reference data, partnering with Legal and Compliance teams to ensure adherence to healthcare data privacy regulations",
+        "Managed vendor relationships for data acquisition and cleansing services, owning budgeting and forecasting for data platform tools and external partnerships",
+        "Fostered culture of data quality and continuous improvement through automated data validation pipelines and cross-functional data stewardship practices"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science organization plus statistical monitoring group, building high-performing teams focused on data quality, process monitoring, and regulatory compliance for pharmaceutical manufacturing",
+        "Established data governance practices and formal data requirements for manufacturing and quality systems, partnering with cross-functional stakeholders to improve data accessibility and analytics capabilities",
+        "Served as Spotfire system administrator, implementing security controls, user access management, and platform governance to ensure compliance with GxP requirements",
+        "Designed and implemented scalable data pipelines for real-time quality monitoring, embedding observability and validation frameworks to support regulatory inspections and Annual Product Quality Reviews",
+        "Mentored technical leads and data scientists on best practices for data management, model governance, and quality assurance in FDA-regulated environments"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built automated data pipelines for biopharmaceutical manufacturing analytics, implementing data quality frameworks, lineage tracking, and validation processes to ensure reliability of predictive models used in regulatory submissions",
+        "Established data governance practices for manufacturing datasets, defining data ownership and stewardship responsibilities across process development, quality, and manufacturing operations teams",
+        "Developed data quality monitoring systems that identified and resolved data inconsistencies, improving model accuracy and reducing risk of regulatory compliance issues",
+        "Partnered with cross-functional stakeholders including Quality Assurance, Manufacturing, and Regulatory Affairs to translate business requirements into data architecture and analytics capabilities"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Platforms & Engineering",
+      "items": ["Snowflake", "Databricks", "AWS", "SQL", "Python", "Data Pipeline Development", "ELT/ETL"]
+    },
+    {
+      "category": "Data Management & Governance",
+      "items": ["Data Quality Frameworks", "Data Lineage", "Master Data Management", "Reference Data Management", "Metadata Management", "Data Stewardship", "Policy Enforcement"]
+    },
+    {
+      "category": "Regulatory Compliance & Security",
+      "items": ["FDA Compliance", "GxP Requirements", "RBAC", "Data Masking", "Audit Logging", "Healthcare Data Privacy"]
+    },
+    {
+      "category": "Analytics & Visualization",
+      "items": ["Spotfire", "Sigma", "Self-Service Analytics", "Dashboard Development", "Data Product Development"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management", "Vendor Management", "Stakeholder Engagement", "Budgeting & Forecasting", "Strategic Planning", "Cross-Functional Leadership"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Director, Data Management & Governance position at American Public Education, Inc. With over 10 years of data leadership experience establishing governance frameworks, building scalable data platforms on Snowflake, and driving data quality initiatives across pharmaceutical and consulting environments, I am excited about the opportunity to build and lead APEI's enterprise data management function.",
+    "body": [
+      "Throughout my career, I have translated business objectives into platform capabilities by partnering closely with stakeholders across technology, legal, compliance, and business functions. At Gilead Sciences, I defined and executed the enterprise data strategy for Medical Affairs, building a centralized data lake that served as the single source of truth for healthcare reference data while establishing formal governance policies and data stewardship practices. At Redica Systems, I designed reference data architecture to harmonize multi-source pharmaceutical data, implementing automated quality validation and audit logging to ensure regulatory compliance. These experiences have equipped me to lead APEI's metadata management, master data management, and data catalog implementation efforts while fostering a business value-oriented approach to governance.",
+      "My hands-on technical expertise with Snowflake, SQL, Python, and modern data platforms positions me to drive the strategy and execution you seek. I have built scalable data pipelines with embedded lineage and quality frameworks, implemented RBAC and data masking for sensitive datasets, and established observability practices to ensure platform reliability. At Takeda, I served as Spotfire system administrator while leading cross-functional teams to improve data accessibility and enable self-service analytics. I am committed to fostering cultures of automation and continuous improvement, and I understand that effective data governance requires partnership, not policing - a mindset that aligns with APEI's collaborative approach.",
+      "While my background has been primarily in pharmaceutical data and analytics rather than education technology, I am confident that my strategic thinking, stakeholder management skills, and proven ability to build high-performing teams translate directly to this role. I have managed globally distributed teams of employees and contractors, owned budgeting and vendor management, and delivered large-scale data solutions with measurable business impact. I am eager to bring this experience to APEI and partner with the data stewardship community, analytics teams, and business stakeholders to modernize data management practices and unlock additional value from your enterprise data assets."
+    ],
+    "closing": "Thank you for considering my application. I would welcome the opportunity to discuss how my data leadership experience and technical expertise can contribute to APEI's data management and governance strategy. I look forward to speaking with you."
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "target_company": "Legends Global",
+    "target_role": "Senior Director of AI Insights",
+    "date_applied": "2026-02-11",
+    "status": "draft",
+    "notes": "Sports/entertainment/hospitality live events company - 450 venues, 165M guests. Strong fit on AI insights, storytelling, stakeholder engagement. Emphasize translating AI into business value, cross-functional collaboration, thought leadership."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Senior Director of AI Insights",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "AI and analytics leader with 10+ years transforming data into actionable insights that drive measurable business impact across enterprise organizations. Proven track record applying advanced AI and machine learning to solve complex business challenges, translating technical capabilities into strategic value for executive stakeholders. Exceptional communicator and storyteller with demonstrated ability to bridge the gap between AI innovation and business strategy through thought leadership at industry conferences and cross-functional partnerships. Deep expertise in predictive analytics, natural language processing (LLM deployment), and data visualization combined with strong business acumen and consultative approach to embedding AI insights into organizational decision-making.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Defined AI vision and roadmap for pharmaceutical clients, identifying opportunities where AI-driven insights could enhance regulatory compliance decision-making and create competitive advantage through early risk detection",
+        "Built production LLM-powered insights system that automatically analyzes unstructured FDA enforcement text and generates risk intelligence, enabling quality leaders to proactively address compliance trends before they become critical issues",
+        "Partnered with executive stakeholders at Eli Lilly, Merck, and other pharmaceutical companies to align AI initiatives with strategic priorities, defining success metrics tied to reduced compliance violations and faster risk response times",
+        "Led thought leadership initiatives presenting AI strategy at CHPA and ISPE industry conferences as solo presenter, advocating for AI literacy and driving organizational adoption through storytelling that translated complex technical concepts into business value",
+        "Established best practices for model monitoring, validation frameworks, and ethical AI implementation in highly regulated environment, ensuring models performed reliably while maintaining transparency and auditability"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Applied AI insights to solve business challenges across multiple industries, working consultatively with stakeholders to identify opportunities where machine learning could drive measurable results",
+        "Deployed production random forest model for building supply software company that transformed quote data into actionable sales pipeline insights, partnering directly with VP of Product to embed AI-driven recommendations into daily workflows",
+        "Built natural language processing system for tax compliance startup using transformers and retrieval-augmented generation, demonstrating ability to apply cutting-edge AI techniques to practical business problems",
+        "Developed metrics and monitoring frameworks to continuously improve models based on business outcomes and user adoption patterns"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined enterprise analytics strategy and vision as advisor to senior Medical Affairs leadership, ensuring insights initiatives aligned with organizational objectives and delivered measurable impact on HCP engagement outcomes",
+        "Led team of 5 analytics professionals, fostering culture of innovation and continuous learning while embedding data-driven insights into cross-functional decision-making across Medical, Commercial, and Clinical teams",
+        "Collaborated with product, operations, and finance leaders to identify opportunities where advanced analytics could uncover trends and enhance strategic planning for drug launch initiatives and territory optimization",
+        "Drove organizational adoption of analytics tools and insights through stakeholder education, executive presentations, and building trusted relationships that positioned analytics as strategic partner rather than reporting function",
+        "Managed data governance frameworks ensuring privacy compliance and ethical use of healthcare professional data while maintaining accessibility for decision-makers"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital analytics and data science teams in applying predictive analytics and machine learning to manufacturing quality challenges, translating model outputs into actionable recommendations for plant leadership",
+        "Built real-time monitoring dashboards that visualized complex statistical insights for non-technical manufacturing audiences, using data storytelling to drive adoption of predictive quality tools",
+        "Partnered with cross-functional teams spanning operations, quality, regulatory, and finance to embed AI-driven insights into semi-annual product quality review processes",
+        "Established success metrics and continuously improved analytical approaches based on business outcomes including reduced out-of-specification rates and faster issue resolution"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Applied predictive analytics and machine learning to biopharmaceutical manufacturing challenges, developing models for feed optimization, quality prediction, and automated limit calculations that drove measurable operational improvements",
+        "Communicated complex analytical concepts to executive leadership and manufacturing stakeholders through compelling visualizations and business-focused narratives, demonstrating ability to translate technical detail into strategic value",
+        "Identified opportunities where AI could enhance decision-making across manufacturing organization, working consultatively with process engineers and quality leaders to solve business problems rather than just building models",
+        "Presented analytical insights at internal Process Sciences Consortium events, educating cross-functional audiences on AI capabilities and building organizational AI literacy"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation on optimization and control methods, providing strong quantitative foundation for advanced analytics and AI applications"
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & Machine Learning",
+      "items": ["Natural Language Processing", "LLM Implementation", "Predictive Analytics", "Machine Learning", "Transformers", "Random Forest", "Ensemble Models"]
+    },
+    {
+      "category": "Analytics Platforms & Tools",
+      "items": ["Python", "Scikit-Learn", "PyTorch", "HuggingFace", "Databricks", "Snowflake", "Spotfire", "Sigma"]
+    },
+    {
+      "category": "Data Visualization & Storytelling",
+      "items": ["Dashboard Development", "Executive Presentations", "Data Storytelling", "Business Intelligence", "Tableau-style Visualization"]
+    },
+    {
+      "category": "Business & Strategy",
+      "items": ["Cross-functional Collaboration", "Stakeholder Engagement", "Success Metrics Definition", "AI Strategy", "Consultative Problem-Solving"]
+    },
+    {
+      "category": "Governance & Best Practices",
+      "items": ["Data Governance", "Ethical AI", "Model Monitoring", "Privacy Compliance", "Model Lifecycle Management"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "Process Sciences Consortium, Regeneron Pharmaceuticals",
+      "year": "2020",
+      "type": "solo",
+      "description": "Automated Calculation of Production Bioreactor Primary Feed Quantities"
+    },
+    {
+      "event": "Process Sciences Consortium, Regeneron Pharmaceuticals",
+      "year": "2019",
+      "type": "solo",
+      "description": "Aperture Predictive Modeling Program"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Senior Director of AI Insights position at Legends Global. With over a decade transforming data into actionable insights through AI and leading cross-functional analytics initiatives, I'm excited by the opportunity to bring AI-driven decision-making to the world's greatest live events and venues.",
+    "body": [
+      "What draws me to this role is the intersection of advanced AI capabilities and real business impact, which has been the focus of my entire career. At Redica Systems, I built an LLM-powered insights system that transformed how pharmaceutical companies understand FDA enforcement trends. But the technical work was only half the story. The real value came from partnering with quality executives to understand their strategic challenges, then translating AI outputs into insights they could act on immediately. I presented this work at industry conferences like CHPA and ISPE, not as technical demonstrations but as business strategy discussions about how AI creates competitive advantage. That experience taught me that successful AI initiatives require exceptional storytelling and the ability to advocate for AI literacy across an organization, which resonates strongly with this role's emphasis on driving adoption through education and stakeholder engagement.",
+      "My approach to AI insights is fundamentally consultative and relationship-driven. At Gilead, I led analytics for Medical Affairs by first spending months understanding what different stakeholders actually needed to make better decisions. I worked with product leaders on launch strategies, with operations teams on territory optimization, and with finance on forecasting. The analytics team became a strategic partner because we focused on solving business problems, not just building models. I've found that the best insights come from deep collaboration with the people closest to the business challenges. At Takeda and Regeneron, I spent significant time on manufacturing floors and in quality meetings, learning the business context that turned data into something decision-makers would trust and use. This experience prepared me well for Legends' need to embed AI insights across diverse functions like sales, partnerships, hospitality, and operations.",
+      "I'm particularly energized by the scale and variety of Legends' portfolio. Working across 450 venues and 20,000 events annually means endless opportunities to identify patterns, uncover trends, and create competitive advantages through AI. My background applying predictive analytics to complex operational environments translates directly. Whether it's optimizing merchandise inventory predictions across venues, identifying partnership opportunities through pattern recognition in guest behavior, or forecasting demand for premium hospitality packages, the analytical thinking is similar. I understand how to define success metrics tied to business outcomes, establish model monitoring best practices, and continuously improve strategies based on what's actually working. My PhD in mathematics provides the quantitative foundation for advanced AI applications, while my track record communicating complex ideas to non-technical audiences ensures I can bridge the technical-business gap that this role requires."
+    ],
+    "closing": "I'd welcome the opportunity to discuss how my experience transforming AI capabilities into business insights, leading cross-functional analytics teams, and driving organizational adoption through storytelling can help Legends Global leverage AI to stay at the forefront of the live events industry. Thank you for considering my application."
+  }
+}

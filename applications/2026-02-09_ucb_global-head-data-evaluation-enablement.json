@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "target_company": "UCB",
+    "target_role": "Global Head of Data Evaluation and Enablement",
+    "date_applied": "2026-02-09",
+    "status": "draft",
+    "notes": "Poor fit - lacks patient-level pharma data experience (claims/EHR/RWD). NOT RECOMMENDED."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Data Strategy and Operations Leadership",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Operations-driven data leader with 10+ years experience in pharmaceutical data strategy, quality management, and analytics enablement. Proven track record building high-performing teams, establishing enterprise data governance frameworks, and operationalizing complex datasets for business impact. Deep expertise in healthcare reference data, regulatory compliance, and cross-functional stakeholder management across drug development and commercial operations. PhD in quantitative methods with strong analytical foundation.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Led enterprise data strategy for pharmaceutical regulatory intelligence platform serving Eli Lilly, Merck, and ProQuality Network, establishing data evaluation frameworks and quality management processes",
+        "Built comprehensive data governance and compliance frameworks for FDA-regulated datasets, ensuring data quality, discoverability, and fit-for-purpose operationalization",
+        "Drove stakeholder enablement through training programs and documentation, accelerating insights adoption across quality and regulatory functions",
+        "Managed vendor relationships and data onboarding processes, overseeing contracting, evaluation, and integration of external data sources",
+        "Developed automated data quality validation frameworks that identified and resolved inconsistencies, improving data reliability for business decision-making"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered data operations solutions for clients across multiple industries, implementing quality frameworks and enablement strategies",
+        "Built data literacy programs and training materials to accelerate adoption of analytics platforms and self-service capabilities",
+        "Partnered with VP-level stakeholders to translate business requirements into data architecture and operational frameworks"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data strategy for Medical Affairs, establishing data ownership models and operational frameworks for healthcare professional and organization reference data",
+        "Led team of 5 data professionals, building capabilities in data operations, quality management, and analytics enablement while developing succession plans",
+        "Built centralized data lake operationalizing multiple vendor sources, implementing quality validation, standardization, and master data management practices",
+        "Drove data literacy and adoption through training programs, documentation, and stakeholder engagement across commercial and medical functions",
+        "Established formal data requirements and governance policies, partnering with Legal and Compliance to ensure regulatory adherence",
+        "Owned vendor management, contracting, and budgeting for data acquisition and platform tools, ensuring cost-effective access to high-quality data assets"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led data operations organization focused on quality management, compliance, and enablement for pharmaceutical manufacturing",
+        "Established enterprise data governance frameworks and quality management systems, ensuring data fitness for regulatory submissions",
+        "Built training programs and change management initiatives to drive adoption of digital analytics platforms",
+        "Served as platform administrator, managing user access, security controls, and enterprise-wide data discovery capabilities",
+        "Led cross-functional teams to operationalize data assets and accelerate insights for manufacturing optimization"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built automated data pipelines and quality frameworks supporting biopharmaceutical manufacturing analytics",
+        "Established data governance practices, defining ownership and stewardship responsibilities across operations teams",
+        "Developed data quality monitoring systems that improved model reliability and regulatory compliance",
+        "Partnered with Quality Assurance and Regulatory Affairs to ensure data met requirements for drug development submissions"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Operations & Enablement",
+      "items": ["Data Quality Management", "Data Governance", "Master Data Management", "Data Onboarding", "Training & Communication", "Change Management"]
+    },
+    {
+      "category": "Technical & Analytical",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "Data Pipeline Development", "Statistical Analysis"]
+    },
+    {
+      "category": "Pharmaceutical & Compliance",
+      "items": ["FDA Compliance", "GxP Requirements", "Healthcare Data Privacy", "Regulatory Intelligence", "Quality Systems"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management", "Vendor Management", "Stakeholder Engagement", "Strategic Planning", "Cross-Functional Leadership"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Global Head of Data Evaluation and Enablement position at UCB. With over 10 years of pharmaceutical data operations experience and 5+ years leading data teams, I am excited about the opportunity to drive UCB's enterprise strategy for operationalizing data assets to accelerate insights across drug development and commercialization.",
+    "body": [
+      "Throughout my career, I have built and led high-performing data operations teams focused on quality, compliance, and enablement. At Gilead Sciences, I led a team of 5 professionals managing enterprise healthcare data operations, establishing governance frameworks and training programs that accelerated adoption across Medical Affairs. At Redica Systems, I defined data strategy for pharmaceutical regulatory intelligence, building evaluation frameworks and vendor management processes that ensured high-quality, compliant data for business impact. My PhD in quantitative methods provides a strong analytical foundation for understanding complex data structures and their applications in pharmaceutical contexts.",
+      "My operations-driven approach focuses on making data discoverable, accessible, and fit-for-purpose. I have extensive experience with data onboarding and operationalization, having managed vendor relationships and contracting processes while building quality validation frameworks. At Takeda, I established enterprise data governance and led change management initiatives to maximize data value. I have driven data literacy through training programs and stakeholder communication, ensuring teams can effectively leverage data assets. My experience partnering with IT, Data Office, Legal, and Compliance teams positions me to align diverse stakeholders around data strategy.",
+      "While my pharmaceutical experience has centered on manufacturing, quality systems, and Medical Affairs rather than patient-level clinical data, I am confident my data operations expertise, team leadership capabilities, and commitment to quality and compliance translate directly to this role. I am eager to build deep expertise in real-world data and apply my proven frameworks for data evaluation, enablement, and governance to improve patient outcomes at UCB."
+    ],
+    "closing": "Thank you for considering my application. I would welcome the opportunity to discuss how my data operations leadership and pharmaceutical industry experience can contribute to UCB's data strategy and patient-focused mission."
+  }
+}

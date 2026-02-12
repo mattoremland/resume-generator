@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "target_company": "ZayZoon",
+    "target_role": "Director of Data (Engineering & Analytics)",
+    "date_applied": "2026-02-11",
+    "status": "draft",
+    "notes": "Fintech/payroll company - data engineering heavy role building foundations from scratch. Emphasize platform building, governance, and team leadership."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Data Engineering & Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data platform leader with 10+ years building scalable analytics infrastructure and leading cross-functional data teams in fast-paced environments. Proven track record establishing data foundations from the ground up, implementing governance frameworks, and translating complex data into actionable business insights. Hands-on technical expertise across modern data stacks (Snowflake, Databricks, Python) combined with player-coach leadership style that balances strategic vision with rolling up sleeves to deliver results. Successfully managed teams of 3-7 through platform migrations, governance implementations, and analytics transformations while maintaining strong stakeholder partnerships across GTM, Product, and Finance organizations.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Built production data platform from scratch consolidating multi-source FDA regulatory data, designing reference data architecture and implementing data governance frameworks that enabled standardized analytics across pharmaceutical clients",
+        "Established foundational data pipelines and transformation logic in Snowflake, creating reliable single source of truth for risk scoring models and regulatory intelligence dashboards",
+        "Led cross-functional partnerships with client stakeholders including quality leaders and regulatory teams to define KPI frameworks and north star metrics for compliance monitoring",
+        "Deployed production ML classifier (OpenAI API) for automated risk categorization, owning end-to-end design, validation, and collaboration with data engineering on production deployment",
+        "Presented data-driven insights at industry conferences (CHPA, ISPE) as solo presenter, translating complex analytics into executive-level strategic recommendations"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built production quote fingerprinting model in Databricks for building supply software company, implementing nightly batch pipeline and partnering directly with VP of Product and data engineering teams on deployment",
+        "Designed and implemented full-stack data application (Escalators puzzle game) handling daily user analytics, leaderboard calculations, and authentication flows using Python, React, Node.js, and Supabase backend",
+        "Delivered RAG system for tax compliance startup, building data ingestion pipelines for IRS/state tax forms and implementing document retrieval architecture using HuggingFace and PyTorch"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of 5 analytics engineers and dashboard developers, establishing data operations standards and mentoring team through platform migration and governance implementation",
+        "Built centralized data lake consolidating healthcare professional (HCP) and healthcare organization (HCO) reference data from multiple sources, implementing ETL processes and data quality frameworks",
+        "Defined enterprise data strategy and governance frameworks for healthcare reference data, writing formal data requirements and establishing ownership models across cross-functional teams",
+        "Managed vendor relationships for data acquisition and cleansing while partnering with internal data engineering teams on pipeline development and standardization",
+        "Delivered Spotfire dashboards tracking HCP/HCO interactions and engagements, enabling Medical Affairs leadership to make data-driven strategic decisions"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group plus statistical monitoring team, balancing hands-on technical delivery with team mentorship and strategic planning",
+        "Built real-time manufacturing quality monitoring dashboards, establishing KPI frameworks and implementing data pipelines for process control metrics",
+        "Served as Spotfire system administrator, managing platform governance, user access, and technical standards across manufacturing organization",
+        "Authored data requirements and led cross-functional teams through semi-annual APQR (Annual Product Quality Review) process, ensuring data accuracy and stakeholder alignment"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built automated data pipelines for biopharmaceutical manufacturing analytics, implementing ingestion, cleaning, and transformation workflows that reduced manual processing time by 70%",
+        "Developed predictive models for product quality and feed quantity optimization using ensemble methods, PLS, and PCA, deployed in production manufacturing environment",
+        "Established automated limit calculation system, creating reproducible analytical standards that replaced manual processes and improved data consistency",
+        "Presented technical analytics solutions to senior leadership and cross-functional stakeholders, translating complex modeling work into actionable operational insights"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation focused on optimization and control methods for complex systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Platforms & Infrastructure",
+      "items": ["Snowflake", "Databricks", "AWS", "Supabase", "Data Warehousing", "ETL/ELT Pipelines"]
+    },
+    {
+      "category": "Programming & Analytics",
+      "items": ["Python", "SQL", "Pandas", "Scikit-Learn", "Data Modeling", "API Integration"]
+    },
+    {
+      "category": "Visualization & BI",
+      "items": ["Spotfire", "Sigma", "Dashboard Development", "KPI Framework Design", "Executive Reporting"]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Random Forest", "Ensemble Models", "LLM Integration (OpenAI)", "PyTorch", "HuggingFace", "Production ML Systems"]
+    },
+    {
+      "category": "Leadership & Governance",
+      "items": ["Team Management", "Data Governance", "Data Strategy", "Stakeholder Engagement", "Change Management", "Vendor Management"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Director of Data (Engineering & Analytics) role at ZayZoon. With over 10 years building scalable data platforms and leading analytics teams, I'm excited by the opportunity to establish foundational data infrastructure that transforms how ZayZoon turns raw data into trusted business insights.",
+    "body": [
+      "Throughout my career, I've specialized in building data systems from the ground up in fast-paced environments. At Redica Systems, I designed and implemented a production data platform consolidating multi-source regulatory data, establishing governance frameworks and reference data architecture that enabled reliable analytics for pharmaceutical clients. This hands-on platform-building experience directly aligns with ZayZoon's need to establish core data foundations - reliable pipelines, data modeling standards, and accessible systems teams can trust daily. I've successfully balanced strategic data vision with rolling up my sleeves to implement solutions, whether writing Python transformation logic in Snowflake or partnering with engineering teams on production ML deployments.",
+      "As a player-coach leader, I've managed teams of 3-7 analytics engineers and data scientists at Gilead and Takeda, establishing clear standards while enabling speed and autonomy. At Gilead, I led my team through a platform migration and governance implementation, coaching them through process changes while maintaining delivery momentum. I understand how to set expectations, mentor technical talent, and create space for growth without micromanaging. My approach emphasizes practical governance - clear ownership and documentation that helps rather than hinders - which resonates strongly with ZayZoon's philosophy of championing standards while enabling flexibility.",
+      "What excites me most about this opportunity is the chance to shape ZayZoon's data ecosystem during a critical growth phase. My experience partnering with GTM, Product, and Finance stakeholders on KPI frameworks and north star metrics has taught me how to focus data efforts where they drive real business impact - revenue visibility, operational efficiency, better decision-making. I've presented analytics insights to executive audiences at industry conferences and translated complex technical work into strategic recommendations that leadership can act on. I'm energized by the prospect of building something foundational that directly influences how ZayZoon grows, operates, and wins."
+    ],
+    "closing": "I'd welcome the opportunity to discuss how my experience building data platforms, leading technical teams, and driving analytics impact can help ZayZoon establish the trusted, scalable data foundation you need. Thank you for considering my application."
+  }
+}

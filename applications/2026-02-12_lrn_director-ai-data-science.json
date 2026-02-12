@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "target_company": "LRN",
+    "target_role": "Director of AI & Data Science",
+    "date_applied": "2026-02-12",
+    "status": "draft",
+    "notes": "Strong technical fit with production AI/ML and regulated environment experience. Address B2B SaaS and GTM gaps by emphasizing stakeholder communication and compliance expertise from pharma."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of AI & Data Science",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "AI and data science leader with 10+ years building production ML systems in regulated environments. Proven track record deploying end-to-end AI solutions from problem framing through monitoring, including LLM classification, RAG systems, and ensemble models. Led cross-functional teams delivering scalable analytics platforms for pharmaceutical quality and regulatory intelligence. Strong technical depth in Python, PyTorch, and modern ML stack combined with ability to translate complex AI capabilities into business value for executives and stakeholders.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Built production LLM classifier using OpenAI API to analyze unstructured FDA 483 inspection text, assigning severity levels and weighted topic categories with validated accuracy metrics (confusion matrices, precision/recall)",
+        "Designed end-to-end AI pipeline from data ingestion through deployment monitoring, collaborating with data engineering on production validation and performance optimization",
+        "Developed risk-scoring models and reference data architecture harmonizing multi-source client data across Eli Lilly, Merck, and ProQuality Network engagements",
+        "Delivered executive presentations at CHPA and ISPE conferences on AI/ML applications in FDA-regulated industries, translating technical capabilities into business value for pharmaceutical stakeholders"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built production RAG system for tax tech startup using HuggingFace and PyTorch to query IRS and state tax documents, generating filing recommendations for business compliance workflows",
+        "Deployed quote fingerprinting random forest model for building supply SaaS platform (Paradigm), running nightly in production on Databricks with direct stakeholder collaboration including VP of Product",
+        "Architected full-stack puzzle game platform (Escalators) with Python backend, React/Node.js/Tailwind frontend, Google OAuth authentication, and Supabase data management serving daily users",
+        "Delivered end-to-end ML solutions from problem scoping through deployment and monitoring across regulated compliance and enterprise workflow domains"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of 5 Spotfire developers and analysts building healthcare professional (HCP) and healthcare organization (HCO) analytics platform serving Medical Affairs organization",
+        "Defined enterprise data strategy and governed centralized data lake as single source of truth, establishing formal data requirements and quality standards",
+        "Managed vendor relationships and internal teams for data acquisition, cleansing, and standardization workflows ensuring compliance with healthcare privacy regulations",
+        "Served as strategic advisor to senior leadership on data governance frameworks, analytics roadmap, and organizational capability development"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group plus statistical monitoring team, managing predictive modeling initiatives for manufacturing and quality decisions",
+        "Built real-time digital dashboards for process and quality monitoring, serving as Spotfire system administrator for enterprise deployment",
+        "Wrote formal data requirements and led cross-functional teams through semi-annual APQR (Annual Product Quality Review) governance processes",
+        "Delivered ML-driven insights to executive stakeholders balancing technical rigor with business impact communication"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed ensemble models, PLS, and PCA methods for biopharmaceutical manufacturing optimization including automated limit calculations and product quality prediction",
+        "Built automated data pipelines handling ingestion, cleaning, and transformation of manufacturing process data at production scale",
+        "Presented technical solutions and business recommendations to senior leadership and cross-functional stakeholders across R&D and manufacturing organizations",
+        "Promoted from Data Scientist to Senior Data Scientist based on delivery of production-ready predictive models and stakeholder impact"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems. Published 7 peer-reviewed papers applying ML and evolutionary algorithms to complex systems."
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & Machine Learning",
+      "items": ["LLM Systems (OpenAI API)", "RAG (HuggingFace, PyTorch)", "Random Forest", "Ensemble Models", "PLS/PCA", "Scikit-Learn", "Model Evaluation", "MLOps"]
+    },
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python (Advanced)", "SQL", "Node.js", "React", "Git", "APIs", "CI/CD", "Containerization"]
+    },
+    {
+      "category": "Data Engineering & Cloud",
+      "items": ["Snowflake", "Databricks", "AWS", "ETL/ELT Pipelines", "Vector Databases", "Data Governance"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management (3-7 people)", "Technical Roadmap", "Cross-Functional Collaboration", "Stakeholder Communication", "Responsible AI in Regulated Environments"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director of AI & Data Science role at LRN. With over a decade of experience building production ML systems in highly regulated environments, I am excited by the opportunity to lead LRN's applied AI strategy and deliver scalable solutions that create measurable business impact while maintaining the rigorous governance standards essential to compliance and ethics workflows.",
+    "body": [
+      "My background deploying end-to-end AI solutions directly aligns with LRN's needs. At Redica Systems, I built a production LLM classifier using the OpenAI API to analyze unstructured FDA 483 inspection reports, implementing prompt engineering, evaluation frameworks (confusion matrices, precision/recall), and deployment monitoring in collaboration with data engineering teams. Through my consulting practice, I developed a RAG system for tax compliance using HuggingFace and PyTorch, and deployed a production random forest model on Databricks for a building supply SaaS platform. These experiences demonstrate my ability to translate ambiguous business problems into tractable AI work with clear milestones and validated outcomes.",
+      "My leadership experience spans managing teams of 3-7 data scientists and analysts across Gilead, Takeda, and Regeneron, where I defined technical strategies, established data governance frameworks, and delivered analytics platforms serving pharmaceutical quality and regulatory intelligence needs. I have extensive experience communicating complex AI capabilities to non-technical stakeholders, including solo presentations at CHPA and ISPE conferences on AI/ML applications in FDA-regulated industries. While my domain expertise comes from pharmaceutical manufacturing rather than B2B SaaS, the parallels are strong: both require rigorous governance, risk management, privacy controls, and the ability to build trust through responsible AI practices in highly regulated contexts.",
+      "I am particularly drawn to LRN's mission of advancing ethics and compliance through technology. My experience architecting AI systems under FDA oversight has given me deep appreciation for the importance of transparency, explainability, and risk mitigation when deploying ML in environments where decisions have real consequences. I would welcome the opportunity to bring this perspective to LRN's AI strategy, helping customers navigate the responsible use of AI in their own compliance and ethics workflows."
+    ],
+    "closing": "I would be excited to discuss how my technical depth, leadership experience, and commitment to responsible AI can contribute to LRN's success. Thank you for considering my application."
+  }
+}
