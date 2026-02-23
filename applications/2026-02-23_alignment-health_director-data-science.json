@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "target_company": "Alignment Health",
+    "target_role": "Director of Data Science",
+    "date_applied": "2026-02-23",
+    "status": "draft",
+    "notes": "Healthcare AI/ML director role focused on senior/Medicare population. Strong overlap on production ML, team leadership, and healthcare domain (Gilead). Gaps: clinical/claims/STARs/Risk Adjustment domain, A/B experimentation, SQL. Fit: 5/10."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of Data Science",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science leader with 10+ years of experience building and deploying machine learning and AI solutions in highly regulated industries, including healthcare and pharmaceutical settings. Proven track record of developing production ML systems - from LLM-based classifiers to random forest models running in nightly pipelines - and translating complex analytical outputs into executive-level strategy. Experienced in leading cross-functional teams of data scientists and engineers, establishing data governance frameworks, and embedding AI capabilities into core business workflows. PhD in Mathematics with deep expertise in statistical modeling, predictive analytics, and responsible AI implementation.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Designed and deployed a production LLM classifier (OpenAI API) on unstructured FDA regulatory text, assigning severity levels and weighted topic categories across the entire platform - owned prompt engineering, validation (confusion matrices), and cross-functional handoff to data engineering.",
+        "Built risk-scoring predictive models from scratch in Python and Snowflake to quantify regulatory exposure for pharmaceutical clients including Eli Lilly and Merck.",
+        "Architected reference data infrastructure to harmonize multi-source client data, resolving entity resolution challenges and enabling reliable analytics across disparate datasets.",
+        "Developed Python-based visualization library for brand-specific analytics output, improving self-service insight delivery for client-facing teams.",
+        "Presented AI/ML strategy and regulatory intelligence findings as a solo panelist at CHPA and ISPE industry conferences, communicating complex technical content to non-technical executive audiences."
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Built and deployed a production random forest model for a building supply software client (Paradigm) to group sales quotes into projects using text and numerical features; model runs nightly in Databricks.",
+        "Designed and implemented a RAG pipeline for a tax technology startup (Denari) using HuggingFace and PyTorch, ingesting IRS and state tax documentation as the retrieval corpus to generate filing recommendations.",
+        "Delivered end-to-end ML engagements across multiple industries, managing stakeholder relationships from problem definition through production deployment."
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led a team of 5 data scientists and analysts responsible for healthcare professional (HCP) and healthcare organization (HCO) analytics, supporting the Medical Affairs organization's engagement strategy.",
+        "Built a centralized data lake consolidating HCP/HCO profiles from multiple data sources, establishing a single source of truth for downstream analytics and reporting.",
+        "Defined and executed enterprise data and analytics strategy, serving as strategic advisor to senior leadership on data governance, vendor management, and platform architecture.",
+        "Established formal data governance frameworks for healthcare reference data, including data requirements documentation and standardization protocols for vendor-sourced HCP/HCO data.",
+        "Managed vendor relationships and cross-functional teams for data acquisition, cleansing, and standardization of healthcare reference profiles at enterprise scale."
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group alongside statistical monitoring group, delivering predictive ML models for manufacturing and quality decision support.",
+        "Built real-time digital dashboards for process and quality monitoring, enabling data-driven decisions on the manufacturing floor.",
+        "Led cross-functional teams through semi-annual Annual Product Quality Review (APQR) cycles, synthesizing complex process analytics into executive-ready presentations.",
+        "Authored data requirements documentation and served as Spotfire system administrator for the broader analytics organization."
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed predictive ML models for biopharmaceutical manufacturing including automated limit calculations, feed quantity optimization, and product quality prediction using ensemble methods, PLS, and PCA.",
+        "Built automated data pipelines for ingestion, cleaning, and transformation of complex process data from upstream manufacturing systems.",
+        "Presented modeling results and analytical insights to senior leadership and cross-functional stakeholders, translating technical findings into actionable process improvements."
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Developed agent-based computational models of biological systems, including fungal lung infection and viral transmission, applying multi-objective optimization using genetic and evolutionary algorithms.",
+        "Published 5 peer-reviewed papers and 1 textbook chapter; presented research at national and international conferences."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "AWS", "Supabase"]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Random Forest", "Ensemble Models", "PLS", "PCA", "LLM Classification (OpenAI API)", "RAG (HuggingFace / PyTorch)", "Scikit-Learn", "TensorFlow", "Agent-Based Modeling"]
+    },
+    {
+      "category": "Analytics & Visualization",
+      "items": ["Spotfire", "Sigma", "Pandas", "Custom Python Visualization", "Dashboard Development"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management", "Data Governance", "Enterprise AI Strategy", "Stakeholder Engagement", "Vendor Management", "Cross-Functional Leadership"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Director of Data Science role at Alignment Health. With over a decade of experience building and deploying production machine learning systems in healthcare and pharmaceutical environments, I am excited by the opportunity to help Alignment embed AI capabilities into care delivery models that directly improve outcomes for seniors.",
+    "body": [
+      "My background spans the full ML lifecycle - from designing LLM-based classifiers on unstructured text and RAG pipelines for document retrieval, to deploying predictive risk-scoring models in Snowflake and Databricks that run across enterprise platforms. At Gilead Sciences, I led a team of data scientists and analysts responsible for healthcare professional and organization analytics, building a centralized data lake and establishing enterprise data governance frameworks that supported the Medical Affairs organization's strategic decision-making. At Redica Systems, I built a production LLM classifier over FDA regulatory data, owning prompt engineering, validation, and cross-functional deployment in collaboration with data engineering.",
+      "I am drawn to Alignment Health because of the clarity of your mission. Applying predictive analytics to improve care for seniors and the chronically ill is exactly the kind of high-impact problem I want to work on. I bring both the technical depth - in statistical modeling, responsible AI validation, and scalable ML architecture - and the leadership experience to grow a data science team while partnering with clinical, product, and executive stakeholders to define and advance your AI roadmap.",
+      "I would welcome the opportunity to discuss how my experience aligns with your goals at Alignment Health."
+    ],
+    "closing": "Thank you for your consideration. I look forward to the possibility of contributing to your mission of putting seniors first through data-driven, responsible AI."
+  }
+}

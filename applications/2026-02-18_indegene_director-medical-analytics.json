@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "target_company": "Indegene",
+    "target_role": "Director, Medical Analytics",
+    "date_applied": "2026-02-18",
+    "status": "draft",
+    "notes": "3/10 fit - role is primarily Medical Affairs leadership, not analytics. Anchored on Gilead Medical Affairs experience. Gaps: publication strategy, MAP, ICH GCP, Tableau/Power BI, 15+ yrs Medical Affairs."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director, Medical Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science and analytics leader with 10+ years of experience in pharmaceutical and life sciences organizations, including director-level leadership of analytics functions within Medical Affairs at a major global biopharmaceutical company. Proven ability to build enterprise data infrastructure, define measurement frameworks, and translate complex scientific and clinical data into actionable medical and business intelligence. Experienced in cross-functional collaboration with Medical Affairs, Regulatory, Market Access, and Clinical Development stakeholders. PhD in Mathematics with deep expertise in predictive modeling, production ML systems, and data governance in FDA-regulated environments.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Led data strategy and analytics for a regulatory intelligence platform serving pharmaceutical clients including Eli Lilly and Merck, translating complex FDA enforcement data into actionable medical and compliance intelligence.",
+        "Built and deployed a production LLM classifier using the OpenAI API to analyze unstructured FDA 483 inspection text, assigning severity scores and topic categories (e.g., Quality Unit, Documentation) at scale across the full client platform.",
+        "Designed reference data architecture to harmonize multi-source regulatory data, enabling consistent cross-client reporting and benchmarking.",
+        "Presented solo at CHPA and ISPE industry conferences on AI/ML applications in FDA-regulated environments and regulatory compliance strategy.",
+        "Developed Python-based visualization library to deliver brand-specific analytics outputs to pharmaceutical client stakeholders."
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end data science engagements across multiple industries, owning project scoping, stakeholder management, model development, and production deployment.",
+        "Built a production random forest model for quote fingerprinting and project grouping, running nightly in a Databricks environment for a building supply software client.",
+        "Developed a RAG-based document intelligence system in Python using HuggingFace and PyTorch to generate tax filing recommendations from IRS and state regulatory document corpora."
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Served as analytics director embedded within Medical Affairs, defining and executing enterprise data and analytics strategy for HCP/HCO engagement, interaction tracking, and field medical insights.",
+        "Built a centralized data lake as the single source of truth for healthcare professional (HCP) and healthcare organization (HCO) data, consolidating and harmonizing records from multiple upstream sources.",
+        "Defined measurement frameworks for Medical Affairs programs, including HCP/HCO interaction analytics, engagement tracking, and affiliation mapping delivered through Spotfire dashboards.",
+        "Established formal data governance frameworks and authored data requirements for healthcare reference data across the Medical Affairs organization.",
+        "Led a team of 5 dashboard developers and analysts, including hiring, performance development, and vendor management for data acquisition and standardization.",
+        "Partnered with global Medical Affairs stakeholders across Medical, Regulatory, and Market Access functions to align analytics outputs with strategic priorities.",
+        "Authored content on regulatory trends in Asia presented at PDA Korea by Gilead colleagues, demonstrating cross-functional scientific communication."
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group supporting manufacturing and quality decisions, including predictive ML modeling for real-time process monitoring and Annual Product Quality Reviews (APQR).",
+        "Built digital dashboards for real-time process and quality monitoring; led semi-annual APQR meetings with cross-functional senior stakeholders.",
+        "Defined formal data requirements and led cross-functional teams to implement data governance and reporting solutions in an FDA-regulated environment."
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed predictive models for biopharmaceutical manufacturing, including automated limit calculations, feed quantity optimization, and product quality prediction using ensemble methods, PLS, and PCA.",
+        "Built automated data pipelines for ingestion, cleaning, and transformation of manufacturing process data.",
+        "Presented modeling results and analytical insights to senior leadership and cross-functional stakeholders across process sciences."
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Conducted research on agent-based models of biological systems including fungal lung infection, virus transmission, and cellular dynamics; published 5 peer-reviewed papers and 1 textbook chapter.",
+        "Applied multi-objective optimization using genetic and evolutionary algorithms to complex biological and epidemiological systems."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Analytics & Visualization",
+      "items": ["Spotfire", "Sigma", "Python Visualization", "Dashboard Development", "Data Storytelling"]
+    },
+    {
+      "category": "Data & Platforms",
+      "items": ["Snowflake", "Databricks", "AWS", "Python", "SQL", "Pandas"]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "items": ["Random Forest", "Ensemble Models", "LLM Classification (OpenAI)", "RAG Systems", "PLS", "PCA", "Scikit-Learn"]
+    },
+    {
+      "category": "Medical Affairs & Life Sciences",
+      "items": ["HCP/HCO Analytics", "Medical Affairs Data Strategy", "FDA-Regulated Environments", "Data Governance", "Regulatory Intelligence"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Management", "Cross-Functional Collaboration", "Stakeholder Engagement", "Vendor Management", "Client Relationship Management"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "PDA Korea",
+      "year": "2025",
+      "type": "authored",
+      "description": "Regulatory trends in Asia and Korea"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Director, Medical Analytics role at Indegene. With over a decade of analytics leadership in pharmaceutical organizations - including a director-level role embedded within Medical Affairs at Gilead Sciences - I am drawn to Indegene's mission of enabling healthcare organizations to operate at the leading edge of data and technology.",
+    "body": [
+      "At Gilead Sciences, I led the Insights, Data & Analytics function within Medical Affairs, where I built the enterprise HCP/HCO data infrastructure, defined measurement frameworks for field medical programs, and managed a team of analysts and dashboard developers delivering insights to Medical Affairs leadership. This experience gave me direct exposure to the strategic and operational demands of Medical Affairs analytics - including cross-functional alignment with Regulatory, Market Access, and Medical stakeholders, and the challenge of translating complex engagement data into actionable intelligence.",
+      "Beyond Gilead, my background spans director and senior director roles across Takeda and Redica Systems, where I have built production ML systems, designed regulatory intelligence platforms, and presented analytical insights at industry conferences including CHPA and ISPE. My PhD in Mathematics and postdoctoral research in biological systems modeling also provide a strong scientific foundation for working across therapeutic area data and evidence generation contexts.",
+      "I am particularly excited about Indegene's model of bringing analytics capabilities to multiple healthcare clients at scale. The opportunity to apply Medical Affairs analytics expertise across a portfolio of therapeutic areas and organizational contexts aligns well with both my background and my interest in high-impact, client-facing analytical leadership."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my experience in pharmaceutical analytics and Medical Affairs data strategy could contribute to Indegene's continued growth. Thank you for your consideration."
+  }
+}

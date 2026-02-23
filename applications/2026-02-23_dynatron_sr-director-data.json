@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "target_company": "Dynatron",
+    "target_role": "Sr. Director of Data",
+    "date_applied": "2026-02-23",
+    "status": "draft",
+    "notes": "SaaS company Sr. Director of Data - owns Data Engineering, Analytics, and Data Science org. Strong fit on Snowflake/Databricks platform experience, data governance, data strategy, team leadership, and cross-functional executive partnership. Gap: no prior SaaS or automotive domain experience, and no manager-of-managers background. Fit: 7/10."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Sr. Director of Data",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Senior data leader with 10+ years of experience building and scaling data organizations, platforms, and AI capabilities in regulated and high-stakes industries. Proven track record of translating business objectives into data strategy and delivering production ML and analytics solutions on modern platforms including Snowflake and Databricks. Experienced leading cross-functional teams of data scientists, engineers, and analysts while serving as a strategic advisor to executive leadership on data governance, platform architecture, and AI roadmap. PhD in Mathematics with deep expertise in predictive modeling, data infrastructure, and responsible data operations.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Owned and executed the company's data strategy and analytics roadmap, translating business and product priorities into a sequenced set of data initiatives aligned to client outcomes and revenue retention.",
+        "Designed and deployed a production LLM classifier (OpenAI API) on unstructured FDA regulatory text, assigning severity levels and weighted topic categories across the full platform - owned end-to-end design, prompt engineering, and validation in collaboration with data engineering.",
+        "Built risk-scoring predictive models from scratch in Python and Snowflake, quantifying regulatory exposure for pharmaceutical clients including Eli Lilly and Merck and directly supporting client retention and product differentiation.",
+        "Architected reference data infrastructure to harmonize multi-source client datasets, resolving entity resolution challenges and establishing a reliable foundation for downstream analytics.",
+        "Presented data strategy and AI findings to executive leadership and external audiences at CHPA and ISPE industry conferences, translating complex technical content into actionable business insight."
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led a team of 5 data scientists, analysts, and dashboard developers, setting expectations, managing performance, and owning hiring and career development for the data organization.",
+        "Defined and executed enterprise data and analytics strategy as a strategic advisor to senior and executive leadership, aligning data investments to Medical Affairs business priorities.",
+        "Built a centralized data lake consolidating healthcare professional (HCP) and healthcare organization (HCO) data from multiple vendor sources, establishing a single source of truth that improved analytics reliability and eliminated redundant data operations.",
+        "Established formal data governance frameworks including data requirements documentation, standardization protocols, and quality controls for enterprise healthcare reference data.",
+        "Managed vendor relationships and budgets for data acquisition, cleansing, and standardization, ensuring high-quality data delivery at scale across a cross-functional organization."
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist & Founder",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end data and AI engagements for multiple clients simultaneously, owning problem definition, platform architecture, model development, and production deployment.",
+        "Built a production random forest model for a building supply SaaS client (Paradigm) in Databricks, grouping sales quotes into projects using text and numerical features in a nightly pipeline that drives operational efficiency.",
+        "Designed and implemented a RAG pipeline for a tax technology startup (Denari) using HuggingFace and PyTorch, ingesting IRS and state tax documentation to generate automated filing recommendations."
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group alongside statistical monitoring group, delivering predictive ML models and real-time dashboards for manufacturing and quality decision support.",
+        "Established operating standards and data requirements documentation, improving consistency and reliability of analytics outputs across a cross-functional organization.",
+        "Led semi-annual Annual Product Quality Review cycles, synthesizing complex process analytics into executive-ready presentations for senior leadership."
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed predictive ML models for biopharmaceutical manufacturing - automated limit calculations, feed quantity optimization, and product quality prediction - using ensemble methods, PLS, and PCA.",
+        "Built automated data pipelines for ingestion, cleaning, and transformation of complex manufacturing process data, improving data reliability and reducing manual effort.",
+        "Presented modeling results and data-driven insights to senior leadership and cross-functional stakeholders across a five-year engagement."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Platforms & Engineering",
+      "items": ["Snowflake", "Databricks", "AWS", "Supabase", "ETL/ELT Pipelines", "Medallion Architecture", "Data Lake Design"]
+    },
+    {
+      "category": "AI & Machine Learning",
+      "items": ["LLM Applications (OpenAI API)", "RAG Pipelines (HuggingFace / PyTorch)", "Random Forest", "Ensemble Models", "PLS", "PCA", "Scikit-Learn"]
+    },
+    {
+      "category": "Analytics & Visualization",
+      "items": ["Python", "SQL", "Spotfire", "Sigma", "Pandas", "Dashboard Development", "Custom Python Visualization"]
+    },
+    {
+      "category": "Leadership & Governance",
+      "items": ["Team Management", "Data Governance", "Data Strategy", "Vendor Management", "Stakeholder Engagement", "Cross-Functional Leadership", "Hiring & Performance Development"]
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my interest in the Sr. Director of Data role at Dynatron. The combination of ownership over data strategy, hands-on platform credibility, and close partnership with Product and Engineering is exactly the kind of role I have been building toward - and the description maps closely to how I have operated across my career.",
+    "body": [
+      "At Gilead Sciences, I led a team of data scientists and analysts while serving as a strategic advisor to executive leadership, owning the enterprise data and analytics strategy, building a centralized data lake from multi-vendor sources, and establishing data governance frameworks that improved data quality and operational consistency at scale. At Redica Systems, I owned the data and AI roadmap end-to-end - translating business and product priorities into a sequenced set of initiatives, building production ML models in Snowflake, and deploying a company-wide LLM classifier that now runs across the entire client platform. On the platform side, I have hands-on production experience with both Snowflake and Databricks, and I understand modern data architecture well enough to challenge technical decisions constructively without needing to be in the code day-to-day.",
+      "What appeals to me specifically about Dynatron is the combination of strong product momentum and a clear mandate for the data organization to drive measurable business outcomes - not just build infrastructure. I have found that the most impactful data work happens when there is tight alignment between data strategy and product priorities, and the structure you describe - partnering closely with architects and engineering while owning execution and outcomes - is one that plays to my strengths. I am also drawn to the SaaS context, where data assets and analytics capabilities can directly differentiate the product in the market.",
+      "I would welcome the opportunity to learn more about Dynatron's data organization and discuss how I could contribute to the next phase of growth."
+    ],
+    "closing": "Thank you for your consideration. I look forward to the possibility of joining the Dynatron team."
+  }
+}

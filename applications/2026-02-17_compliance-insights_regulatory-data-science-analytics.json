@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "target_company": "Compliance Insights",
+    "target_role": "Regulatory Data Science and Analytics Consultant",
+    "date_applied": "2026-02-13",
+    "status": "draft",
+    "notes": "1099 consultant opportunity - spoke with Cynthia Ipach. They pair consultants with small/mid-size pharma clients for regulatory and quality work. 15+ year requirement satisfied by including PhD (2009-2014) and postdoc (2014-2016)."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Regulatory Data Science and Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data science leader with a career spanning biological systems modeling, pharmaceutical manufacturing, and FDA regulatory intelligence. Combines deep domain knowledge in life sciences with advanced computational expertise - from multi-objective optimization of agent-based biological models to production LLM classifiers analyzing FDA Form 483 observations. Proven track record delivering analytics solutions for pharma clients including Eli Lilly, Merck, and ProQuality Network, and presenting at industry conferences including CHPA and ISPE. Available for independent consulting engagements with pharmaceutical and biotech organizations seeking analytically rigorous approaches to regulatory and quality challenges.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Built production LLM classifier using OpenAI API to automatically categorize FDA Form 483 observations by severity level and weighted topic categories, enabling risk-based prioritization across pharmaceutical client base",
+        "Designed and operationalized risk-scoring models from scratch for regulatory intelligence platform serving Eli Lilly, Merck, and ProQuality Network",
+        "Developed reference data architecture to harmonize multi-source regulatory and quality data, creating unified views for client analytics and reporting",
+        "Delivered solo presentations at CHPA Quality & Manufacturing Meeting and ISPE Annual Meeting on FDA enforcement trends and compliance analytics",
+        "Built Python visualization library for generating brand-specific analytics outputs tailored to individual pharmaceutical client needs"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end ML modeling engagements across multiple industries as independent consultant, managing client relationships from requirements gathering through production deployment",
+        "Built production random forest model for quote classification using Databricks, collaborating directly with VP of Product and data engineering stakeholders",
+        "Developed RAG system for tax compliance using HuggingFace and PyTorch, ingesting IRS and state regulatory documents to generate filing recommendations"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led team of 5 managing healthcare professional and healthcare organization reference data operations, dashboard delivery, and analytics for Medical Affairs organization",
+        "Built centralized data lake consolidating HCP/HCO data from multiple sources as single source of truth for enterprise analytics",
+        "Established data governance frameworks and formal data requirements for healthcare reference data across Gilead Medical Affairs",
+        "Managed vendor relationships and internal teams for data acquisition, cleansing, and standardization of regulatory-critical HCP/HCO profiles"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group plus statistical monitoring group supporting manufacturing quality and compliance decisions",
+        "Built predictive models using ML for manufacturing process optimization and quality risk assessment in FDA-regulated production environment",
+        "Served as Spotfire system administrator, delivering digital dashboards for real-time process and quality monitoring",
+        "Led semi-annual APQR (Annual Product Quality Review) meetings, presenting quality analytics to cross-functional stakeholders and regulatory affairs teams"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built predictive models for biopharmaceutical manufacturing quality including automated limit calculations, feed quantity optimization, and product quality prediction using ensemble methods",
+        "Developed automated data pipelines for manufacturing data ingestion, cleaning, and transformation in compliance with FDA data integrity requirements",
+        "Presented analytics solutions and recommendations to senior leadership and cross-functional manufacturing, quality, and regulatory stakeholders"
+      ]
+    },
+    {
+      "company": "Mathematical Biosciences Institute",
+      "title": "Postdoctoral Research Fellow",
+      "start": "2014",
+      "end": "2016",
+      "location": "Columbus, OH",
+      "bullets": [
+        "Developed agent-based computational models of biological systems including fungal lung infection, virus transmission in cattle, and cellular dynamics, establishing foundational domain expertise in life sciences modeling",
+        "Applied multi-objective optimization using genetic and evolutionary algorithms to solve complex biological parameter estimation and system control problems",
+        "Published 5 peer-reviewed papers and 1 textbook chapter on computational methods for biological systems, contributing to the emerging field of data-driven biological modeling"
+      ]
+    },
+    {
+      "company": "Virginia Tech",
+      "title": "Doctoral Research Fellow",
+      "start": "2009",
+      "end": "2014",
+      "location": "Blacksburg, VA",
+      "bullets": [
+        "Conducted dissertation research on optimization and control methods for agent-based models in biological systems, developing novel mathematical frameworks for analyzing complex adaptive systems",
+        "Applied multi-objective optimization, genetic algorithms, and evolutionary computation to extract actionable insights from high-dimensional biological simulation data",
+        "Built computational pipelines integrating mechanistic biological models with data-driven optimization techniques, establishing technical foundations directly applicable to pharmaceutical process modeling and quality analytics"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Regulatory & Quality Analytics",
+      "items": ["FDA 483 Analysis", "Risk Scoring Models", "Regulatory Intelligence", "Quality Systems", "APQR Analytics", "Compliance Dashboards"]
+    },
+    {
+      "category": "AI/ML & Data Science",
+      "items": ["LLM Classification (OpenAI API)", "Random Forest", "Ensemble Models", "PLS", "PCA", "Agent-Based Modeling", "Multi-Objective Optimization"]
+    },
+    {
+      "category": "Platforms & Technologies",
+      "items": ["Python", "Snowflake", "Databricks", "Spotfire", "Sigma", "AWS", "HuggingFace", "PyTorch"]
+    },
+    {
+      "category": "Leadership & Consulting",
+      "items": ["Client Relationship Management", "Data Strategy", "Team Leadership", "Data Governance", "Stakeholder Engagement", "Conference Speaking"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    },
+    {
+      "event": "PDA Korea",
+      "year": "2025",
+      "type": "authored",
+      "description": "Regulatory trends in Asia and Korea"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "Optimal control of sugarscape agent-based model via a PDE approximation model",
+      "journal": "Optimal Control Applications and Methods",
+      "year": "2016"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    },
+    {
+      "title": "Optimal harvesting of a predator-prey agent-based model using difference equations",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2015"
+    },
+    {
+      "title": "Optimization of agent-based models: scaling methods and heuristic algorithms",
+      "journal": "Journal of Artificial Societies and Social Simulation",
+      "year": "2014"
+    },
+    {
+      "title": "Agent-based models and optimal control in biology: a discrete approach",
+      "journal": "Mathematical Concepts and Methods in Modern Biology (Elsevier)",
+      "year": "2013",
+      "note": "Textbook chapter"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I enjoyed speaking with you about Compliance Insights' consulting model and the opportunity to serve your pharmaceutical and biotech clients. My background spans from doctoral research in biological systems modeling and optimization through more than a decade of applied data science in FDA-regulated pharmaceutical environments, and I believe that combination is well suited to the work your clients need.",
+    "body": [
+      "My career began with rigorous quantitative research - a PhD and postdoctoral fellowship focused on developing computational models of biological systems and applying multi-objective optimization methods to extract insights from complex, high-dimensional data. That foundation in life sciences and mathematical modeling has informed every stage of my industry career, from predictive modeling for biopharmaceutical manufacturing at Regeneron and Takeda to regulatory intelligence platforms at Redica Systems.",
+      "Most recently at Redica Systems, I built a production LLM classifier that analyzes FDA Form 483 observations, automatically categorizing findings by severity and topic to enable risk-based prioritization for pharma clients including Eli Lilly, Merck, and ProQuality Network. I also developed risk-scoring models and regulatory intelligence dashboards, and presented at CHPA and ISPE on FDA enforcement trends and the impact of AI on regulated industries.",
+      "As an independent consultant through Tidal Wave Analytics LLC, I have delivered end-to-end modeling projects across multiple industries, managing client relationships from requirements through production deployment. I am available immediately for 1099 engagements and am comfortable operating at whatever level your clients require - from discrete analytical projects to ongoing advisory relationships."
+    ],
+    "closing": "I would welcome the opportunity to join Compliance Insights' consultant network. I am confident that my combination of life sciences domain depth, applied ML expertise, and pharma regulatory experience would deliver meaningful value to your clients. I look forward to discussing how we might work together."
+  }
+}

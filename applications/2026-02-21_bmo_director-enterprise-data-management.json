@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "target_company": "BMO",
+    "target_role": "Director, Enterprise Data Management Platforms & Governance Tooling",
+    "date_applied": "2026-02-21",
+    "status": "draft",
+    "notes": "Warm referral from friend who knows the hiring manager. 5/10 fit - stretch role. Strong on governance/strategy/ML; gaps in specific tooling stack (Collibra, Alation, etc.) and financial services domain."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director, Enterprise Data Management & Governance",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Data and analytics leader with 10+ years of experience building enterprise data platforms, governance frameworks, and AI-ready infrastructure in highly regulated environments. Demonstrated success defining data strategy, establishing data quality and governance standards, and leading cross-functional teams to drive adoption of analytics capabilities at scale. Experienced in vendor management, product roadmap ownership, and translating complex regulatory and risk directives into automated, repeatable data workflows. Combines hands-on technical depth with the strategic leadership and stakeholder communication skills required to operate at the enterprise level.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Served as enterprise data strategy leader for an FDA regulatory intelligence platform, defining the product roadmap and overseeing end-to-end delivery of data capabilities including risk scoring, metadata harmonization, and multi-source data integration.",
+        "Designed and operationalized a reference data architecture to harmonize regulatory data from disparate client sources, establishing consistent data definitions, match logic, and quality standards across the platform.",
+        "Built a production LLM classifier (OpenAI API) that processes unstructured FDA inspection text and assigns severity classifications and weighted topic categories; owned prompt engineering, validation framework, and coordinated deployment with data engineering.",
+        "Developed Python-based risk scoring models from scratch using Snowflake as the core data platform, enabling clients to prioritize regulatory risk and benchmark against industry peers.",
+        "Acted as primary client-facing analytics leader for enterprise accounts including Eli Lilly and Merck; presented data insights and product roadmap updates to senior stakeholders at CHPA, ISPE, and Redica-hosted webinars."
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Founded and operate an independent analytics consulting practice delivering production ML and data platform solutions to clients across multiple industries.",
+        "Built a production quote-fingerprinting random forest model for Paradigm (building supply software) using Databricks; model runs nightly and groups quotes into projects using text and numerical features, with direct stakeholder collaboration through VP of Product.",
+        "Developed a RAG-based tax advisory system for Denari, ingesting IRS and state tax documents as a document corpus and building a Python pipeline using HuggingFace and PyTorch to generate filing recommendations."
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Defined and executed enterprise data and analytics strategy for the Medical Affairs organization, serving as a strategic advisor to senior leadership on data governance, platform consolidation, and analytics capability development.",
+        "Built and led a centralized data lake as the single source of truth for healthcare professional (HCP) and healthcare organization (HCO) reference data, consolidating multi-source inputs with standardized governance and data quality controls.",
+        "Established formal data governance frameworks for healthcare reference data, including written data requirements, lineage documentation, and data quality standards governing acquisition, cleansing, and standardization workflows.",
+        "Managed vendors and internal teams responsible for data acquisition, identity resolution, and HCP/HCO profile standardization; oversaw SLAs, contract performance, and backlog prioritization across the data operations function.",
+        "Led a team of ~5 analysts and dashboard developers; responsible for hiring, performance development, and cross-functional stakeholder engagement across Medical Affairs and IT."
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led a digital and data science group and statistical monitoring group, overseeing development of predictive ML models and real-time digital dashboards for manufacturing and quality decision support.",
+        "Established data requirements and governance standards for manufacturing analytics platforms, writing formal specifications and leading cross-functional reviews with Quality, Manufacturing, and IT stakeholders.",
+        "Served as Spotfire platform administrator, managing tool governance, user access, and enterprise adoption across the data science organization.",
+        "Led semi-annual APQR (Annual Product Quality Review) meetings, integrating data from multiple sources to support regulatory compliance and quality risk management decisions."
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built and deployed predictive models for biopharmaceutical manufacturing including automated limit calculations, feed quantity optimization, and product quality prediction using ensemble methods, PLS, and PCA.",
+        "Designed and maintained automated data pipelines for ingestion, cleansing, and transformation of manufacturing process data, enabling real-time monitoring and analytics at scale.",
+        "Presented modeling results and data platform updates to senior leadership and cross-functional stakeholders; promoted organically from Data Scientist to Senior Data Scientist over five years."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation focus on optimization and control methods; postdoctoral research at Mathematical Biosciences Institute (2014-2016)"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Governance & Management",
+      "items": ["Data Governance Frameworks", "Data Quality Standards", "Metadata Management", "Data Lineage", "Reference Data Architecture", "Data Requirements Documentation"]
+    },
+    {
+      "category": "Cloud & Data Platforms",
+      "items": ["Snowflake", "Databricks", "AWS", "Supabase", "Sigma"]
+    },
+    {
+      "category": "AI, ML & Analytics",
+      "items": ["LLM Classification (OpenAI API)", "RAG Systems", "Random Forest", "Ensemble Models", "PLS", "PCA", "Scikit-Learn", "PyTorch", "HuggingFace"]
+    },
+    {
+      "category": "Programming",
+      "items": ["Python", "SQL", "JavaScript", "React", "Node.js"]
+    },
+    {
+      "category": "Visualization & BI",
+      "items": ["Spotfire", "Sigma", "Custom Python Visualization"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Product Roadmap Ownership", "Team Management", "Vendor Management", "Stakeholder Engagement", "Cross-Functional Collaboration", "Regulatory Compliance (FDA, GxP)"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director, Enterprise Data Management Platforms & Governance Tooling role at BMO. With over a decade of experience leading data strategy, governance, and platform development in regulated industries, I have built the kind of enterprise-scale data capabilities this role demands - and I am excited by the opportunity to bring that experience to BMO's AI+ and Enterprise Data Office.",
+    "body": [
+      "Throughout my career at organizations including Gilead Sciences, Takeda Pharmaceuticals, and Redica Systems, I have served as the senior accountable leader for enterprise data governance, platform strategy, and cross-functional adoption. At Gilead, I built and governed a centralized data lake as the single source of truth for HCP/HCO reference data, establishing formal data requirements, lineage documentation, data quality standards, and vendor management processes that scaled across the Medical Affairs organization. At Redica, I defined the product roadmap for a regulatory intelligence platform - overseeing metadata harmonization, risk scoring models, and multi-source data integration - while acting as the primary strategic advisor to enterprise clients such as Eli Lilly and Merck.",
+      "I bring particular depth in translating regulatory and risk directives into automated, repeatable data workflows - a capability directly relevant to BMO's RDARR and BCBS 239 compliance objectives. My background also includes hands-on production AI development: I built and deployed a production LLM classifier that processes unstructured regulatory inspection data at scale, and I have led data platform governance in GxP-regulated environments where audit defensibility and data quality standards are non-negotiable. I am a strong cross-functional collaborator, comfortable engaging with technology, risk, compliance, and business stakeholders simultaneously to drive alignment and measurable outcomes.",
+      "I recognize that BMO's tooling ecosystem - including platforms such as Collibra, Alation, and Informatica - represents a specific domain where I would build knowledge quickly, and I welcome that learning curve. What I bring immediately is proven enterprise leadership, a track record of building governance frameworks from the ground up, and the ability to manage ambiguity and drive adoption across complex, matrixed organizations. I am confident that the combination of strategic vision, regulatory acumen, and technical grounding I offer aligns well with what BMO is building."
+    ],
+    "closing": "I would welcome the opportunity to discuss how my background aligns with BMO's data management ambitions. Thank you for your consideration, and I look forward to the conversation."
+  }
+}

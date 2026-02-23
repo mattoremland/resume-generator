@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "target_company": "Enzo",
+    "target_role": "Director, Data & Analytics",
+    "date_applied": "2026-02-13",
+    "status": "draft",
+    "notes": "Biotech growth stage, reports to Exec Director. Strong fit for pharma regulatory background, team building, governance. Finance/Supply Chain domain new but transferable."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director, Data & Analytics",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "Analytics leader with 10+ years building data organizations in FDA-regulated biopharmaceutical environments. Proven track record establishing enterprise analytics strategy, data governance frameworks, and scalable platforms across Manufacturing, Medical Affairs, and Quality organizations. Experienced recruiting and developing high-performing analytics teams, defining roadmaps aligned to business growth, and partnering with senior stakeholders to deliver measurable impact. Deep expertise in regulated data environments, platform modernization, and translating complex analytics into actionable business insights.",
+  "experience": [
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Defined enterprise analytics strategy serving pharmaceutical clients including Eli Lilly, Merck, and ProQuality Network, translating regulatory intelligence needs into scalable data platform capabilities",
+        "Built production LLM classifier using OpenAI API for FDA regulatory data, establishing validation frameworks and collaborating with engineering on deployment to ensure platform-wide accuracy",
+        "Designed reference data architecture consolidating multi-source client data, including harmonization logic, data quality rules, and inference models for missing values across enterprise datasets",
+        "Developed brand-specific analytics visualization library in Python enabling consistent, governed reporting across client organizations",
+        "Presented analytics thought leadership at CHPA and ISPE conferences as solo presenter, authored regulatory intelligence content for international audiences"
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Built and led team of 5 analytics professionals (Spotfire developers and analysts) managing HCP/HCO healthcare reference data operations and enterprise dashboard delivery",
+        "Defined enterprise data and analytics strategy for Medical Affairs organization, serving as strategic advisor to senior leadership on platform investments and roadmap prioritization",
+        "Established centralized data lake as single source of truth consolidating HCP/HCO data from multiple vendors and internal systems, implementing medallion architecture for data quality and governance",
+        "Created formal data governance frameworks including data requirements documentation, quality standards, and validation protocols for healthcare reference data",
+        "Managed vendor relationships and internal teams for data acquisition, cleansing, and standardization, ensuring secure and compliant access to sensitive healthcare professional data",
+        "Recruited, mentored, and developed analytics talent, establishing career development frameworks and fostering high-performance team culture"
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science organization plus statistical monitoring group, defining analytics strategy for manufacturing and quality decision support",
+        "Served as Spotfire system administrator, establishing platform governance, user access controls, and development standards across enterprise analytics environment",
+        "Built predictive models using machine learning for manufacturing optimization and quality risk assessment, translating technical capabilities into business value",
+        "Led semi-annual APQR (Annual Product Quality Review) process, partnering with senior manufacturing and quality leadership to deliver executive-level analytics and insights",
+        "Designed real-time digital dashboards for process and quality monitoring, enabling self-service analytics consumption across operations teams",
+        "Established data requirements and quality standards for manufacturing analytics, ensuring trusted data foundations for decision-making"
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Built predictive models for biopharmaceutical manufacturing including automated limit calculations, feed quantity optimization, and product quality forecasting using ensemble methods, PLS, and PCA",
+        "Developed automated data pipelines for ingestion, cleaning, and transformation of manufacturing process data, establishing scalable analytics infrastructure",
+        "Presented technical analytics solutions to senior leadership and cross-functional stakeholders, translating complex modeling approaches into clear business recommendations",
+        "Promoted organically from Data Scientist to Senior Data Scientist over 5-year tenure based on technical delivery and business impact"
+      ]
+    },
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Delivered end-to-end analytics and machine learning solutions across multiple industries including building supply software and tax technology",
+        "Built production random forest model for quote fingerprinting at Paradigm, collaborating directly with VP of Product and engineering teams using Databricks platform",
+        "Developed RAG system for tax filing recommendations using HuggingFace and PyTorch, including document corpus ingestion and query pipeline architecture"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: Optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Leadership & Strategy",
+      "items": ["Team Building & Scaling", "Analytics Strategy & Roadmap", "Data Governance", "Stakeholder Partnership", "Talent Development", "Vendor Management"]
+    },
+    {
+      "category": "Analytics Platforms & Tools",
+      "items": ["Spotfire", "Snowflake", "Databricks", "Sigma", "Python", "SQL"]
+    },
+    {
+      "category": "Machine Learning & Advanced Analytics",
+      "items": ["Predictive Modeling", "Random Forest", "Ensemble Methods", "LLM/AI Implementation", "Forecasting & Planning"]
+    },
+    {
+      "category": "Data & Platform Architecture",
+      "items": ["Data Lake Design", "ETL/ELT Pipelines", "Data Quality Frameworks", "AWS", "Reference Data Management"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Optimization and control of agent-based models in biology: a perspective",
+      "journal": "Bulletin of Mathematical Biology",
+      "year": "2017"
+    },
+    {
+      "title": "A computational model of invasive aspergillosis in the lung and the role of iron",
+      "journal": "BMC Systems Biology",
+      "year": "2016"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I'm writing to express my strong interest in the Director, Data & Analytics role at Enzo. With over 10 years building analytics organizations in FDA-regulated biopharmaceutical environments, I've consistently helped growth-stage companies establish the data foundations, governance frameworks, and team capabilities needed to scale responsibly through critical milestones.",
+    "body": [
+      "At Gilead Sciences, I built and led a team of 5 analytics professionals supporting Medical Affairs, establishing enterprise data governance, consolidating multi-source healthcare reference data into a governed data lake, and delivering trusted analytics that informed strategic decisions. I defined the analytics roadmap, recruited and developed talent, managed vendor relationships, and served as a strategic advisor to senior leadership on platform investments. This experience directly mirrors what Enzo needs as it prepares for late-stage milestones and commercialization.",
+      "Earlier at Takeda, I led the digital and data science organization, served as Spotfire system administrator, and established platform governance and delivery standards across manufacturing and quality analytics. I'm experienced translating complex business needs into clear analytics priorities, partnering with senior stakeholders who may not have deep technical backgrounds, and ensuring analytics solutions are scalable, secure, and well-governed. My background spans the full analytics lifecycle from strategy and governance to platform oversight and advanced analytics delivery.",
+      "What excites me about Enzo is the opportunity to shape a modern analytics organization during a pivotal growth phase. Building teams, establishing quality standards, and creating career development frameworks for analytics talent are areas where I've consistently delivered impact. I understand the unique challenges of regulated biotech environments and know how to balance innovation with compliance, growth with governance, and technical excellence with business pragmatism."
+    ],
+    "closing": "I'd welcome the opportunity to discuss how my experience building analytics organizations in regulated pharma environments can support Enzo's growth and commercialization objectives. Thank you for considering my application."
+  }
+}

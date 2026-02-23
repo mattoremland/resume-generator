@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "target_company": "LLR Partners",
+    "target_role": "Director of AI Strategy & Value Creation",
+    "date_applied": "2026-02-23",
+    "status": "draft",
+    "notes": "PE firm portfolio-wide AI value creation role. Strong fit on production LLM/ML deployment, multi-client consulting experience, business impact framing, and cross-industry breadth. No formal PE/diligence background, but consulting engagements and Redica client-facing work are the bridge. Fit: 7/10."
+  },
+  "header": {
+    "name": "Matt Oremland, PhD",
+    "target_title": "Director of AI Strategy & Value Creation",
+    "email": "mattoremland@gmail.com",
+    "phone": "(518) 560-1473",
+    "location": "Saratoga Springs, NY 12866",
+    "linkedin": "https://www.linkedin.com/in/matthew-oremland-31a312101"
+  },
+  "summary": "AI and data science leader with 10+ years of experience building production machine learning and LLM solutions, translating technical capabilities into measurable business outcomes across pharma, healthcare, and technology industries. Proven ability to operate as both strategist and hands-on builder - architecting roadmaps for executive stakeholders while personally designing, validating, and deploying models that run in production. Experienced working across multiple organizations simultaneously as a consulting data scientist, identifying high-impact AI opportunities and delivering results in resource-constrained environments. PhD in Mathematics with deep expertise in predictive modeling, LLM applications, and responsible AI implementation.",
+  "experience": [
+    {
+      "company": "Tidal Wave Analytics LLC",
+      "title": "Consulting Data Scientist & Founder",
+      "start": "January 2025",
+      "end": "Present",
+      "location": "Saratoga Springs, NY",
+      "bullets": [
+        "Engaged simultaneously with multiple portfolio-style clients across industries - building tailored AI roadmaps and delivering production ML solutions based on each company's data maturity and business goals.",
+        "Built and deployed a production random forest model for a building supply software client (Paradigm) grouping sales quotes into projects using text and numerical features; model runs nightly in Databricks and delivers measurable operational efficiency.",
+        "Designed and implemented a RAG pipeline for a tax technology startup (Denari) using HuggingFace and PyTorch, ingesting IRS and state tax documentation as a retrieval corpus to generate automated filing recommendations.",
+        "Operated as both strategic advisor and hands-on builder in each engagement - moving from opportunity identification through implementation to production deployment."
+      ]
+    },
+    {
+      "company": "Redica Systems",
+      "title": "Senior Director, Data Strategy & Analytics",
+      "start": "April 2025",
+      "end": "February 2026",
+      "location": "Remote",
+      "bullets": [
+        "Designed and deployed a production LLM classifier (OpenAI API) on unstructured FDA regulatory text, assigning severity levels and weighted topic categories across the full client platform - owned end-to-end design, prompt engineering, and validation.",
+        "Built risk-scoring predictive models from scratch in Python and Snowflake that quantified regulatory exposure for pharmaceutical clients including Eli Lilly and Merck, directly supporting client retention and upsell.",
+        "Defined and executed the company's AI analytics roadmap, identifying high-impact opportunities to embed ML capabilities into core product workflows.",
+        "Presented AI strategy and regulatory intelligence findings as a solo panelist at CHPA and ISPE industry conferences, translating complex technical content for executive and non-technical audiences.",
+        "Architected reference data infrastructure to harmonize multi-source client datasets, resolving entity resolution challenges and enabling reliable downstream analytics."
+      ]
+    },
+    {
+      "company": "Gilead Sciences",
+      "title": "Director, Insights, Data & Analytics (Medical Affairs)",
+      "start": "January 2023",
+      "end": "March 2025",
+      "location": "Foster City, CA",
+      "bullets": [
+        "Led a team of 5 data scientists and analysts, defining and executing enterprise data and analytics strategy as a strategic advisor to senior and executive leadership.",
+        "Built a centralized data lake consolidating healthcare professional (HCP) and healthcare organization (HCO) data from multiple vendors, establishing a single source of truth that improved analytics reliability and speed.",
+        "Established data governance frameworks and formal data requirements documentation, enabling scalable data operations across a cross-functional organization.",
+        "Managed vendor relationships and internal teams for data acquisition, cleansing, and standardization - delivering measurable improvements in data quality and operational efficiency."
+      ]
+    },
+    {
+      "company": "Takeda Pharmaceuticals",
+      "title": "Associate Director, Digital & Data Science",
+      "start": "May 2021",
+      "end": "December 2022",
+      "location": "Lexington, MA",
+      "bullets": [
+        "Led digital and data science group, delivering predictive ML models for manufacturing and quality decisions that reduced manual review burden and improved process consistency.",
+        "Built real-time digital dashboards for process and quality monitoring, enabling data-driven operational decisions and executive visibility.",
+        "Led cross-functional teams through semi-annual Annual Product Quality Review cycles, synthesizing complex analytics into executive-ready presentations."
+      ]
+    },
+    {
+      "company": "Regeneron Pharmaceuticals",
+      "title": "Senior Process Data Scientist",
+      "start": "May 2016",
+      "end": "May 2021",
+      "location": "Rensselaer, NY",
+      "bullets": [
+        "Developed predictive ML models for biopharmaceutical manufacturing including automated limit calculations, feed quantity optimization, and product quality prediction using ensemble methods, PLS, and PCA.",
+        "Built automated data pipelines for ingestion, cleaning, and transformation of complex process data, reducing manual effort and improving data reliability.",
+        "Presented modeling results to senior leadership and cross-functional stakeholders, consistently translating technical findings into actionable business decisions."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute & State University",
+      "degree": "Doctor of Philosophy (PhD)",
+      "field": "Mathematics",
+      "year": "2014",
+      "details": "Dissertation: optimization and control methods for agent-based models in biological systems"
+    }
+  ],
+  "skills": [
+    {
+      "category": "AI & Machine Learning",
+      "items": ["LLM Applications (OpenAI API)", "RAG Pipelines (HuggingFace / PyTorch)", "Random Forest", "Ensemble Models", "PLS", "PCA", "Scikit-Learn", "Agent-Based Modeling"]
+    },
+    {
+      "category": "Programming & Platforms",
+      "items": ["Python", "SQL", "Snowflake", "Databricks", "AWS", "Supabase"]
+    },
+    {
+      "category": "Analytics & Visualization",
+      "items": ["Spotfire", "Sigma", "Pandas", "Custom Python Visualization", "Dashboard Development"]
+    },
+    {
+      "category": "Leadership & Strategy",
+      "items": ["AI Roadmap Development", "Executive Stakeholder Engagement", "Team Management", "Data Governance", "Vendor Management", "Cross-Functional Leadership"]
+    }
+  ],
+  "presentations": [
+    {
+      "event": "CHPA Regulatory, Scientific & Quality Conference",
+      "year": "2025",
+      "type": "solo",
+      "description": "The Impact of AI on FDA-Regulated Industries"
+    },
+    {
+      "event": "ISPE Annual Meeting & Expo",
+      "year": "2025",
+      "type": "solo",
+      "description": "Navigating FDA Compliance - Outsourcing Facility Inspections"
+    },
+    {
+      "event": "CHPA Quality and Manufacturing Meeting",
+      "year": "2025",
+      "type": "solo",
+      "description": "Decoding FDA Enforcement Trends in OTC and Dietary Supplements"
+    },
+    {
+      "event": "Redica Systems Webinar",
+      "year": "2025",
+      "type": "solo",
+      "description": "From Reactive to Proactive: Leveraging AI/ML to Improve the Quality Unit"
+    }
+  ],
+  "cover_letter": {
+    "opening": "I am writing to express my strong interest in the Director of AI Strategy & Value Creation role at LLR Partners. Having spent the past year operating as a consulting data scientist across multiple simultaneous client engagements - and a career building production AI systems that drive measurable business outcomes - I find LLR's approach to portfolio-wide AI value creation genuinely compelling, and the role maps closely to work I am already doing.",
+    "body": [
+      "The core of what this role requires - identifying high-impact AI opportunities, building practical roadmaps tailored to each company's data maturity, and personally implementing solutions that deliver results - is exactly how I have operated. At Tidal Wave Analytics, I engaged simultaneously with clients in building supply software (a production random forest model running nightly in Databricks), tax technology (a RAG pipeline for automated filing recommendations), and others, moving from problem definition through deployment in each case. At Redica Systems, I built a production LLM classifier over unstructured FDA regulatory text that now runs across the entire client platform, while also defining the company's broader AI analytics roadmap and presenting strategy to executive audiences at CHPA and ISPE conferences.",
+      "What distinguishes my background for this role is the combination of hands-on technical depth and business-oriented framing. I have built real models that run in production - not proofs of concept - and I am equally comfortable in a boardroom translating AI capability into P&L impact. My experience spans pharma, healthcare, SaaS, and tech-enabled services, which gives me the cross-industry breadth to move quickly across a diverse portfolio. I also have a track record of upskilling non-technical stakeholders: my conference presentations on AI in regulated industries were specifically designed to help leadership teams understand practical AI applications and build adoption confidence.",
+      "I would welcome the opportunity to discuss how my background aligns with LLR's AI value creation agenda and what I could contribute to your portfolio companies."
+    ],
+    "closing": "Thank you for your time and consideration. I look forward to learning more about the role and LLR's vision for AI across the portfolio."
+  }
+}
